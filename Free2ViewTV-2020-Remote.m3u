@@ -172,6 +172,8 @@
 # Update: 12/29/19  - CHANNEL MAINTENANCE: Updated Stirr TV channel logo to differentiate from my Stirr TV master playlist...
 #                     ... which you can get from here: https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/StirrTV.m3u
 # Update: 12/29/19  - NEW CHANNELS: Added USA FREE OTA TV25 category with 12 OTA's from TV25, KCKS-LD, Kansas City, Kansas, USA.
+# Update: 1/02/2020 - NEW CATEGORY ADDED: Full set of NASA streams (including ISS HD Earth Viewing Experiment) in NASA TV category. 
+# Update: 1/02/2020 - CHANNEL MAINTENANCE: Added additional LIVE NEWS sources. Added Alternate stream sources for NASA TV channels.
 #
 # ************************************************************************************************************************************* 
 
@@ -304,10 +306,6 @@ https://d2klx6wjx7p5vm.cloudfront.net/Rooster-teeth/ngrp:Rooster-teeth_all/chunk
 http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w981409619_b1105254.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/JUCEtv.png" group-title="Special Interest",JUCE TV (Youth)
 https://api.new.livestream.com/accounts/27460990/events/8266912/live.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NASA.png" group-title="Special Interest",NASA TV 1
-http://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NASA.png" group-title="Special Interest",NASA TV 2
-http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/MusicChoice.png" group-title="Special Interest",Music Choice Play (Music)
 http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/RelaxingGuitar_350x350.png" group-title="Special Interest",Relaxing Guitar Music
@@ -320,6 +318,27 @@ https://bozztv.com/36bay2/gin/giniko_5min_1500kb_36bay2/index.m3u8
 https://bozztv.com/36bay2/gin/giniko_5minlifehacks_1500kb_36bay2/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/A3Network_A3Bikini.png" group-title="Special Interest",A3 Bikini (18+)
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NASA.png" group-title="NASA TV",NASA TV 1 (Public)
+http://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NASA.png" group-title="NASA TV",NASA TV 2 (Media)
+http://hls.ums.ustream.tv/playlist/directhls/channel/10414700/playlist.m3u8?sgn=57455aba98cbb70ca5cd6606142f1ec0b10aef6b
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NASA.png" group-title="NASA TV",NASA TV 3 (Earth from ISS)
+http://hls.ums.ustream.tv/playlist/directhls/channel/17074538/playlist.m3u8?sgn=23d01ff63b69b7f4c64f8b170e0cbf8b196af2da
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NASA.png" group-title="NASA TV",NASA TV 1 (Public Alt 1)
+http://c742ec8f-lp-omega.ums.services.video.ibm.com/playlist/directhls/channel/6540154/2/playlist.m3u8?authType=IP_BASED_IDENTITY&appType=12&appVersion=1&segmentType=ts&content=audiovideo&sgn=c24a2d4ff965b2ea7a189c91d27d57e7297dcbb9&cdnHost=uhs-akamai.ustream.tv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NASA.png" group-title="NASA TV",NASA TV 2 (Media Alt 1)
+http://c742ecaa-lp-omega.ums.services.video.ibm.com:80/playlist/directhls/channel/10414700/2/playlist.m3u8?authType=IP_BASED_IDENTITY&appType=12&appVersion=1&segmentType=ts&content=audiovideo&sgn=361906a13983b1bb0f235c24c781933600719009&cdnHost=uhs-akamai.ustream.tv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NASA.png" group-title="NASA TV",NASA TV 3 (ISS Alt 1)
+http://c742ecb4-lp-omega.ums.services.video.ibm.com:80/playlist/directhls/channel/17074538/1/playlist.m3u8?authType=IP_BASED_IDENTITY&appType=12&appVersion=1&segmentType=ts&content=audiovideo&sgn=762f9074e350830e1936797170fdb5e9ccef856a&cdnHost=uhs-akamai.ustream.tv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NASA.png" group-title="NASA TV",NASA TV 1 (Public Alt 2)
+http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NASA.png" group-title="NASA TV",NASA TV 2 (Media Alt 2)
+http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NASA.png" group-title="NASA TV",NASA TV 3 (ISS Alt 2)
+http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NASA.png" group-title="NASA TV",NASA TV 4 (ISS 480p Cam)
+http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Tourism-Travel_320x320.png" group-title="Travel & Tourism",30A TV
 http://30a-tv.com/my999.m3u8
@@ -387,7 +406,7 @@ https://abclive1-lh.akamaihd.net/i/abc_live09@420891/master.m3u8
 https://abclive1-lh.akamaihd.net/i/abc_live10@420897/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NBCNewsNow.png?raw=true" group-title="NBC News Now",NBC News Now MSNBC Live
-https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:msnbc.smil/index.m3u8
+http://1128700637.rsc.cdn77.org/LS-ATL-54548-10/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NBCNewsNow.png?raw=true" group-title="NBC News Now",NBC News Now Event 1
 https://nbcnews-lh.akamaihd.net/i/nbc_live11@183427/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NBCNewsNow.png?raw=true" group-title="NBC News Now",NBC News Now Event 2
@@ -750,13 +769,25 @@ https://cdn.igocast.com/channel12_hls/channel12_master.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png" group-title="Live News",CNN-1
 https://1686983180.rsc.cdn77.org/ls-54548-1/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png" group-title="Live News",CNN-2
+http://1128700637.rsc.cdn77.org/LS-ATL-54548-9/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png" group-title="Live News",HLN-1
+http://1128700637.rsc.cdn77.org/LS-ATL-54548-7/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png" group-title="Live News",Fox-News-1
+http://1128700637.rsc.cdn77.org/LS-ATL-54548-4/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png" group-title="Live News",Fox-News-2
 https://1686983180.rsc.cdn77.org/ls-54548-2/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png" group-title="Live News",CNBC-1
 https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:cnbc.smil/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png" group-title="Live News",MSNBC-1
+http://1128700637.rsc.cdn77.org/LS-ATL-54548-10/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png" group-title="Live News",MSNBC-2
 https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:msnbc.smil/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png" group-title="Live News",CBC-News-1
+http://1128700637.rsc.cdn77.org/LS-ATL-54548-8/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png" group-title="Live News",BBC-World-News-1
+http://1128700637.rsc.cdn77.org/LS-ATL-54548-11/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png" group-title="Live News",BBC-World-News-2
 http://185.176.117.243/live/eds/BBC/HLS_encr/BBC.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/RetroMusicTV.png" group-title="International TV",Retro Music TV
@@ -888,6 +919,7 @@ https://github.com/geonsey/Free2ViewTV/blob/master/videos/Free2ViewTV_BuyMeACoff
 https://github.com/geonsey/Free2ViewTV/releases/download/2/Roku_City-Stroll_Skyline_720p_16m43s.mp4
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AboutUS_392x392.png?raw=true" group-title="About Us + Extras",Roku Movie Magic Screensaver
 https://github.com/geonsey/Free2ViewTV/releases/download/1/Roku_City-Stroll_Movie-Magic_720p_16m43s.mp4
+
 
 
 
