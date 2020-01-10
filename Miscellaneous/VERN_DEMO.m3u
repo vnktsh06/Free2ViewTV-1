@@ -1009,118 +1009,57 @@ https://github.com/geonsey/Free2ViewTV/releases/download/1/Roku_City-Stroll_Movi
 
 #EXTM3U
 
-#EXTINF:-1 tvg-id="ABC" tvg-name="ABC" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| ABC NEW YORK HD
-http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1821
-#EXTINF:-1 tvg-id="NBC" tvg-name="NBC" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| NBC DETROT HD
-http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1828
-#EXTINF:-1 tvg-id="CBS" tvg-name="CBS" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| CBS NEW YORK HD
-http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1801
-#EXTINF:-1 tvg-id="CW" tvg-name="CW" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| CW HD
-http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1793
-#EXTINF:-1 tvg-id="Fox Network" tvg-name="Fox Network" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| FOX HD
-http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1775
-
-#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",AMC HD US (DEAD)
+#EXTINF:-1 tvg-id="ABC" tvg-name="ABC" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| ABC
 https://content.jwplatform.com/videos/Szl4YrLw-CrqR41ri.mp4
-#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| CNN HD
-http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1819
-#EXTINF:-1 tvg-id="MSNBC" tvg-name="MSNBC" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",MSNBC (Free2View TV)
-https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:msnbc.smil/master.m3u8
-#EXTINF:-1 tvg-id="TRAVEL" tvg-name="TRAVEL" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| Travel Channel HD
-http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1730
-#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| HGTV HD
-http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1817
-#EXTINF:-1 tvg-id="Syfy" tvg-name="Syfy" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| SYFY HD
-http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1735
+#EXTINF:-1 tvg-id="NBC" tvg-name="NBC" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| NBC 
+https://content.jwplatform.com/videos/Szl4YrLw-CrqR41ri.mp4
+#EXTINF:-1 tvg-id="CBS" tvg-name="CBS" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| CBS
+https://content.jwplatform.com/videos/Szl4YrLw-CrqR41ri.mp4
+#EXTINF:-1 tvg-id="CW" tvg-name="CW" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| CW
+https://content.jwplatform.com/videos/Szl4YrLw-CrqR41ri.mp4
+#EXTINF:-1 tvg-id="Fox Network" tvg-name="Fox Network" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| FOX
+https://content.jwplatform.com/videos/Szl4YrLw-CrqR41ri.mp4
 
-#EXTINF:-1 tvg-id="BBC World News" tvg-name="BBC World News" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",BBC World News (Free2View TV)
-http://185.176.117.243/live/eds/BBC/HLS_encr/BBC.m3u8
-#EXTINF:-1 tvg-id="BET" tvg-name="BET" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| BET HD
-http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1812
-#EXTINF:-1 tvg-id="Bloomberg News" tvg-name="Bloomberg News" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",Bloomberg US Desktop (Free2View TV)
-https://liveprodusphoenixeast.global.ssl.fastly.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-03-0Yn1cQZHOtP_live.m3u8
-#EXTINF:-1 tvg-id="Bloomberg News" tvg-name="Bloomberg News" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",Bloomberg US Channel (Free2View TV)
-https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
-#EXTINF:-1 tvg-id="Bloomberg News" tvg-name="Bloomberg News" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| BLOOMBERG HD
-http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1811
-#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| BOOMERANG HD
-http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1810
-#EXTINF:-1 tvg-id="BRAVO" tvg-name="BRAVO" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| BRAVO
-http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1809
-#EXTINF:-1 tvg-id="BTN" tvg-name="BTN" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| BTN HD
-http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1808
-#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| CINEMAX EAST
-http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1799
-#EXTINF:-1 tvg-id="CMT" tvg-name="CMT" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| CMT HD
-http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1797
-#EXTINF:-1 tvg-id="CNBC" tvg-name="CNBC" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",CNBC (Free2View TV)
-https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:cnbc.smil/index.m3u8
-#EXTINF:-1 tvg-id="CNBC" tvg-name="CNBC" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| CNBC HD
-http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1796
-#EXTINF:-1 tvg-id="Food Network" tvg-name="Food Network" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| FOOD NETWORK HD
-http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1776
-#EXTINF:-1 tvg-id="Destination America" tvg-name="Destination America" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| DESTINATION AMERICA
-http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1792
-#EXTINF:-1 tvg-id="DIY" tvg-name="DIY" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| DIY NETWORK HD
-http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1785
-#EXTINF:-1 tvg-id="SCIENCE" tvg-name="SCIENCE" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| DISCOVERY SCIENCE HD
-http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1789
-#EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| DISCOVERY CHANNEL HD
-http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1791
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| ESPN HD US
-http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1784
-#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| ESPN 2 US
-http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1783
-#EXTINF:-1 tvg-id="Fox News" tvg-name="Fox News" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| FOX NEWS
-http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1774
-#EXTINF:-1 tvg-id="Food Network" tvg-name="Food Network" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| FOOD NETWORK HD
-http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1776
-#EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| FX HD
-http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1763
-#EXTINF:-1 tvg-id="FXX" tvg-name="FXX" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| FXX HD
-http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1762
-#EXTINF:-1 tvg-id="Hallmark" tvg-name="Hallmark" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| HALLMARK HD
-http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1758
-#EXTINF:-1 tvg-id="Hallmark" tvg-name="Hallmark" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",Hallmark Channel (Free2View TV)
+#EXTINF:-1 tvg-id="Hallmark" tvg-name="Hallmark" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",Hallmark Channel (F2VTV)
 https://crownmediaingesttest.akamaized.net/hls/live/567739/cm/master.m3u8?hdnts=exp=3085179895~acl=/*~hmac=0eb6c6e77a672ed1f4816b69d2c74a057302f23f7b74ec74070b94f6919cb935
-#EXTINF:-1 tvg-id="Hallmark Movies & Mysteries" tvg-name="Hallmark Movies & Mysteries" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",Hallmark Movies & Mysteries (Free2View TV)
+#EXTINF:-1 tvg-id="Hallmark Movies & Mysteries" tvg-name="Hallmark Movies & Mysteries" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",Hallmark Movies & Mysteries (F2VTV)
 https://crownmediaingesttest.akamaized.net/hls/live/567739/mm/master.m3u8?hdnts=exp=3085179895~acl=/*~hmac=0eb6c6e77a672ed1f4816b69d2c74a057302f23f7b74ec74070b94f6919cb935
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| HBO HD
-http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1755
-#EXTINF:-1 tvg-id="NBA TV" tvg-name="NBA TV" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| NBA TV HD
-http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1747
-#EXTINF:-1 tvg-id="National Geographic Wild" tvg-name="National Geographic Wild" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| NAT GEO WILD HD
-http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1748
+
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| CNN (F2VTV)
+http://1128700637.rsc.cdn77.org/LS-ATL-54548-9/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="MSNBC" tvg-name="MSNBC" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| MSNBC (F2VTV)
+http://1128700637.rsc.cdn77.org/LS-ATL-54548-10/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="CNBC" tvg-name="CNBC" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| CNBC (F2VTV)
+https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:cnbc.smil/index.m3u8
+#EXTINF:-1 tvg-id="Fox News" tvg-name="Fox News" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| FOX NEWS (F2VTV)
+http://1128700637.rsc.cdn77.org/LS-ATL-54548-4/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| AMC
+https://content.jwplatform.com/videos/Szl4YrLw-CrqR41ri.mp4
+#EXTINF:-1 tvg-id="TRAVEL" tvg-name="TRAVEL" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| Travel Channel HD
+https://content.jwplatform.com/videos/Szl4YrLw-CrqR41ri.mp4
+#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| HGTV HD
+https://content.jwplatform.com/videos/Szl4YrLw-CrqR41ri.mp4
+#EXTINF:-1 tvg-id="Syfy" tvg-name="Syfy" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| SYFY HD
+https://content.jwplatform.com/videos/Szl4YrLw-CrqR41ri.mp4
+#EXTINF:-1 tvg-id="Destination America" tvg-name="Destination America" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| DESTINATION AMERICA
+https://content.jwplatform.com/videos/Szl4YrLw-CrqR41ri.mp4
+#EXTINF:-1 tvg-id="DIY" tvg-name="DIY" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| DIY NETWORK HD
+https://content.jwplatform.com/videos/Szl4YrLw-CrqR41ri.mp4
+#EXTINF:-1 tvg-id="SCIENCE" tvg-name="SCIENCE" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| DISCOVERY SCIENCE HD
+https://content.jwplatform.com/videos/Szl4YrLw-CrqR41ri.mp4
+#EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| DISCOVERY CHANNEL HD
+https://content.jwplatform.com/videos/Szl4YrLw-CrqR41ri.mp4
+#EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| FX HD
+https://content.jwplatform.com/videos/Szl4YrLw-CrqR41ri.mp4
+#EXTINF:-1 tvg-id="FXX" tvg-name="FXX" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| FXX HD
+https://content.jwplatform.com/videos/Szl4YrLw-CrqR41ri.mp4
 #EXTINF:-1 tvg-id="National Geographic" tvg-name="National Geographic" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| NAT GEO HD
-http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1749
-#EXTINF:-1 tvg-id="NFL Network" tvg-name="NFL Network" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| NFL NETWORK HD
-http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1726
-#EXTINF:-1 tvg-id="Olympic channel" tvg-name="Olympic Channel" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",Olympic Channel USA (Free2View TV)
-https://iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316/DomesticOlympicsLinear_VIDEO_0_7064000.m3u8
-#EXTINF:-1 tvg-id="Sundance" tvg-name="Sundance" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| SUNDANCE HD
-http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1736
-#EXTINF:-1 tvg-id="Paramount" tvg-name="Paramount" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| SPIKE HD
-http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1738
-#EXTINF:-1 tvg-id="SHOWTIME" tvg-name="SHOWTIME" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| SHOWTIME
-http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1740
-#EXTINF:0,|USA| TBS HD
-http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1816
-#EXTINF:-1 tvg-id="Tennis Channel" tvg-name="Tennis Channel" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| TENNIS HD
-http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1734
-#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| TLC HD
-http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1732
-#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| TNT HD
-http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1731
-#EXTINF:-1 tvg-id="TSN 2" tvg-name="TSN 2" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| TSN HD 2
-http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1830
-#EXTINF:-1 tvg-id="TSN 4" tvg-name="TSN 4" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| TSN HD 4
-http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1829
+https://content.jwplatform.com/videos/Szl4YrLw-CrqR41ri.mp4
 #EXTINF:-1 tvg-id="TVLAND" tvg-name="TVLAND" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| TV LAND HD
-http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1729
+https://content.jwplatform.com/videos/Szl4YrLw-CrqR41ri.mp4
 #EXTINF:-1 tvg-id="USA NETWORK" tvg-name="USA NETWORK" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| USA NETWORK
-http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1727
-#EXTINF:-1 tvg-id="VH1" tvg-name="VH1" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| VH1 HD
-http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1723
+https://content.jwplatform.com/videos/Szl4YrLw-CrqR41ri.mp4
 
 
 
@@ -1144,8 +1083,26 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a4d3a00ad95e4718a
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/PlutoTV_500x500.png" group-title="New Pluto TV Tests",62 Pluto TV Romance
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a66795ef91fef2c7031c599/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=405ff5fd-b490-466c-9f29-607c48b1fbe3&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=65.0.3467.78&appVersion=2.9.2-54d16e0b6418617f090cff53a5854097e137060f&deviceDNT=0&userId=&advertisingId=&deviceLat=40.793&deviceLon=-74.0247&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/PlutoTV_500x500.png" group-title="New Pluto TV Tests",62 Pluto TV Drama
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/PlutoTV_500x500.png" group-title="New Pluto TV Tests",64 Pluto TV Drama
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e92e4694c027be6ecece1/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=c9296782-a5b0-4e36-9a1a-64c3b45ff6b9&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=65.0.3467.78&appVersion=2.9.2-54d16e0b6418617f090cff53a5854097e137060f&deviceDNT=0&userId=&advertisingId=&deviceLat=33.4532&deviceLon=-112.0749&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/PlutoTV_500x500.png" group-title="New Pluto TV Tests",74 Black Cinema
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58af4c093a41ca9d4ecabe96/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=8812a1b7-d68b-47a2-8c99-9a2c034e176a&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=65.0.3467.78&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.7308&deviceLon=-73.9975&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/PlutoTV_500x500.png" group-title="New Pluto TV Tests",77 Pluto TV Documentaries
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b85a7582921777994caea63/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=34fabc61-a5c7-4027-84da-f5b91c220a6b&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=65.0.3467.78&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.7308&deviceLon=-73.9975&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/PlutoTV_500x500.png" group-title="New Pluto TV Tests",79 Pluto TV Indies
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58ed63525e2c798008323a1c/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=56f3199b-8685-4a68-9a83-c73b618c0daf&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=65.0.3467.78&appVersion=2.9.2-54d16e0b6418617f090cff53a5854097e137060f&deviceDNT=0&userId=&advertisingId=&deviceLat=40.793&deviceLon=-74.0247&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/PlutoTV_500x500.png" group-title="New Pluto TV Tests",84 CMT Westerns
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=1ef9774d-6704-4ce3-ba95-4741eacfbe3b&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=65.0.3467.78&appVersion=2.9.2-54d16e0b6418617f090cff53a5854097e137060f&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/PlutoTV_500x500.png" group-title="New Pluto TV Tests",94 Flicks of Fury
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=ef90aaae-c6e3-48d3-a3d7-b3164fc7a8bd&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=65.0.3467.78&appVersion=2.9.2-54d16e0b6418617f090cff53a5854097e137060f&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/PlutoTV_500x500.png" group-title="New Pluto TV Tests",98 Gravitas Movies
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59120e45877eeb3760b3d9da/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=f8d7bad7-8cca-4eff-9802-93fabfb25158&deviceId=f326520d-7599-402b-adc7-3b65e7a93a7d&deviceVersion=65.0.3467.78&appVersion=2.9.2-54d16e0b6418617f090cff53a5854097e137060f&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
 
 
 
