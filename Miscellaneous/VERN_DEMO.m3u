@@ -1010,15 +1010,15 @@ https://github.com/geonsey/Free2ViewTV/releases/download/1/Roku_City-Stroll_Movi
 #EXTM3U
 
 #EXTINF:-1 tvg-id="ABC" tvg-name="ABC" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| ABC
-https://content.jwplatform.com/videos/Szl4YrLw-CrqR41ri.mp4
+https://content.jwplatform.com/videos/Szl4YrLw-CrqR41ri.mp4?ABC
 #EXTINF:-1 tvg-id="NBC" tvg-name="NBC" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| NBC 
-https://content.jwplatform.com/videos/Szl4YrLw-CrqR41ri.mp4
+https://content.jwplatform.com/videos/Szl4YrLw-CrqR41ri.mp4?NBC
 #EXTINF:-1 tvg-id="CBS" tvg-name="CBS" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| CBS
-https://content.jwplatform.com/videos/Szl4YrLw-CrqR41ri.mp4
+https://content.jwplatform.com/videos/Szl4YrLw-CrqR41ri.mp4?CBS
 #EXTINF:-1 tvg-id="CW" tvg-name="CW" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| CW
-https://content.jwplatform.com/videos/Szl4YrLw-CrqR41ri.mp4
+https://content.jwplatform.com/videos/Szl4YrLw-CrqR41ri.mp4?CW
 #EXTINF:-1 tvg-id="Fox Network" tvg-name="Fox Network" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| FOX
-https://content.jwplatform.com/videos/Szl4YrLw-CrqR41ri.mp4
+https://content.jwplatform.com/videos/Szl4YrLw-CrqR41ri.mp4?FOX
 
 #EXTINF:-1 tvg-id="Hallmark" tvg-name="Hallmark" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",Hallmark Channel (F2VTV)
 https://crownmediaingesttest.akamaized.net/hls/live/567739/cm/master.m3u8?hdnts=exp=3085179895~acl=/*~hmac=0eb6c6e77a672ed1f4816b69d2c74a057302f23f7b74ec74070b94f6919cb935
