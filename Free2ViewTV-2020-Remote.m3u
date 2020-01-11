@@ -174,6 +174,9 @@
 # Update: 12/29/19  - NEW CHANNELS: Added USA FREE OTA TV25 category with 12 OTA's from TV25, KCKS-LD, Kansas City, Kansas, USA.
 # Update: 1/02/2020 - NEW CATEGORY ADDED: Full set of NASA streams (including ISS HD Earth Viewing Experiment) in NASA TV category. 
 # Update: 1/02/2020 - CHANNEL MAINTENANCE: Added additional LIVE NEWS sources. Added Alternate stream sources for NASA TV channels.
+# Update: 1/06/2020 - NEW CHANNEL: The Miracle Channel added in CANADIAN TV, view online: https://miraclechannel.ca/live.
+# Update: 1/06/2020 - CHANNEL MAINTENANCE: Cheddar Networks, as well as NewsNet (SD) original network live stream sources updated.
+# Update: 1/07/2020 - NEW CHANNEL CATEGORY: (by request) Added a selection of AUSTRALIAN TV live news and sports news channels.
 #
 # ************************************************************************************************************************************* 
 
@@ -257,13 +260,13 @@ http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ETLive.png?raw=true" group-title="News & Weather",ET Live Showbiz News
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8?iu=/8264/vaw-can/desktop/cbslocal
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Cheddar_900x900.png" group-title="News & Weather",Cheddar
-https://live.chdrstatic.com/cheddar/primary/2.m3u8
+https://melive.chdrstatic.com/cheddar-42620/CheddarOwnedStream/cheddar/primary.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CheddarNews_400x400.png" group-title="News & Weather",Cheddar Big News
-https://live.chdrstatic.com/cbn/primary/2.m3u8
+https://melive.chdrstatic.com/cheddar-42620/CheddarOwnedStream/cbn/primary.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NewsMaxTV.png" group-title="News & Weather",Newsmax TV
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NewsNet.png" group-title="News & Weather",News Net (SD)
-https://central.dashstreams.net/onestudio/newsnet/playlist.m3u8
+https://broadcaster1.prolivestream.net:8083/onair/newsnetweb/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NewsNet.png" group-title="News & Weather",News Net (HD)
 https://bozztv.com/36bay2/gin-newsnet/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/SkyNews.png" group-title="News & Weather",Sky News (Source 1)
@@ -479,6 +482,8 @@ https://bcliveunivsecure-lh.akamaihd.net/i/twn_1@631672/master.m3u8
 http://dyo5cp96eopax.cloudfront.net/p/CANE_760x432_1200k.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AmazingDiscoveries_430x430.png?raw=true" group-title="Canadian TV",Amazing Discoveries (Faith)
 https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Miracle-Channel_300x300.png?raw=true" group-title="Canadian TV",The Miracle Channel (Faith)
+https://d9ruw6nhj5a52.cloudfront.net/live/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBCtv.png" group-title="CBC TV Canada (Geo)",CBC Calgary
 https://cbclivedai4-i.akamaihd.net/hls/live/567230/event2/CBRT/master5.m3u8
@@ -805,6 +810,21 @@ https://rt-usa-gd.secure2.footprint.net/1105_2500Kb.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/RT-UK_400x400.png" group-title="International TV",Russia Today UK
 https://rt-uk-gd.secure2.footprint.net/1106_2500Kb.m3u8
 
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AU-NZ_ABC-News-24.png?raw=true" group-title="Australian TV",ABC News Australia
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Bloomberg_512x512.png" group-title="Australian TV",Bloomberg TV (AU)
+https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/aus_live.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AU-NZ_Aust-Channel.png?raw=true" group-title="Australian TV",Australia Channel
+https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AU-NZ_SkyNewsExtra.png?raw=true" group-title="Australian TV",Sky News AU Extra 1
+https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AU-NZ_SkyNewsExtra.png?raw=true" group-title="Australian TV",Sky News AU Extra 2
+https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AU-NZ_SkyNewsExtra.png?raw=true" group-title="Australian TV",Sky News AU Extra 3
+https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AU-NZ_FoxSportsNews.png?raw=true" group-title="Australian TV",Fox Sports News AU
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Hallmark_Xmas_261x261.png?raw=true" group-title="Christmas Collection",Hallmark Channel Christmas
 https://crownmediaingesttest.akamaized.net/hls/live/567739/cm/master.m3u8?hdnts=exp=3085179895~acl=/*~hmac=0eb6c6e77a672ed1f4816b69d2c74a057302f23f7b74ec74070b94f6919cb935
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Hallmark_Xmas_261x261.png?raw=true" group-title="Christmas Collection",Hallmark Miracles of Christmas
@@ -913,6 +933,7 @@ https://github.com/geonsey/Free2ViewTV/blob/master/videos/Free2ViewTV_BuyMeACoff
 https://github.com/geonsey/Free2ViewTV/releases/download/2/Roku_City-Stroll_Skyline_720p_16m43s.mp4
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AboutUS_392x392.png?raw=true" group-title="About Us + Extras",Roku Movie Magic Screensaver
 https://github.com/geonsey/Free2ViewTV/releases/download/1/Roku_City-Stroll_Movie-Magic_720p_16m43s.mp4
+
 
 
 
