@@ -17,54 +17,6 @@
 # Download the complete Changelog (News and Updates):
 # https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/Free2ViewTV-2020-Changelog.txt
 #
-# Update: 7/01/2019 - replaced dead link for "Eagle Cam (Hanover PA) (Live Cam)"; replaced ICI Tele (Montreal) in "Canadian TV".
-# Update: 7/01/2019 - removed all UK channels (dead links since mid-June), except Food Channel UK: moved to International Channels.
-# Update: 7/01/2019 - deleted category Testing (TT), some channels from IP 161.0.157.XX were never restored.
-# Update: 7/01/2019 - NEW CANADIAN CHANNELS ADDED: CBC Ottawa; TSC.
-# Update: 7/01/2019 - NEW NEWS CHANNELS ADDED: NBC News Now; Also, all ABC News live feeds (Category: ABC News Digital).
-# Update: 7/01/2019 - added second source for Sky News / Sky News Americas; and added ET Live Showbiz News in "News & Weather (OTA)".
-# Update: 7/01/2019 - added Cat Cafe (San Diego CA) (Live Cam) and Reid Pk Zoo (Tucson AZ) (Live Cam) in "Special Interest (OTA)".
-# Update: 7/02/2019 - removed NBC News Now (their live feed includes a session-key that can only be used on their website).
-# Update: 7/05/2019 - NEW CHANNELS ADDED: Added CBS Interactive category with all live channels from the CBS company (as of Oct 2018).
-# Update: 7/08/2019 - renamed USA Channels category to USA Broadcast Networks. Removed Eagle Cam (Hanover PA) (Live Cam) (dead link).
-# Update: 7/08/2019 - NEW CAM VIEWS ADDED: added 3 cam angles of the Ramona Barn Owls (Ramona CA) (Live Cam)
-# Update: 7/08/2019 - NEW LIVE STREAMS: added Special Interest channels Rooster Teeth TV (Video Games); The Outdoor Cooking Channel.
-# Update: 7/20/2019 - Added: Cooking 4U in "My TV To Go Networks"; Updated: CBS News live feed.
-# Update: 7/28/2019 - Maintenance: removed Dove TV, Hit TV and History Channel Canada due to broken links.
-# Update: 7/28/2019 - Renamed TEST 2 category as USA NEWS TEST. Added an additional source for Sky News Americas (News & Weather OTA).
-# Update: 7/28/2019 - USA NEWS TEST: dead links (IP 1259541102.rsc.cdn77.org) replaced with (IP 1674331492.rsc.cdn77.org) from 8/18/18. 
-# Updade: 7/29/2019 - NEW CHANNELS: Added new category with all available unscrambled web-streams from CBC Canada.
-# Update: 7/31/2019 - corrected the St.Johns and Vancouver links (CBC Canada); added NTV, Hard Knocks TV and Tele-Quebec (Canada TV).
-# Update: 8/04/2019 - Maintenance: updated some Canadian channel links and category info; added History CA (Test) and Tele-V.
-# Update: 8/05/2019 - NEW CHANNELS: added all Ici-Tele (CBC French Canada) live streams.
-# Update: 8/11/2019 - Maintenance: updated some changed URL's for My TV To Go Networks (Spydar; Classic TV 4U; Westerns 4U; Movee 4U).
-# Update: 8/11/2019 - NEW CHANNELS: added It's At The Movies (My TV To Go Networks), News Net channel (My TV To Go; News & Weather).
-# Update: 8/11/2019 - NEW STREAM: added an Event stream for CBS News in CBS Interactive category. May be only temporary.
-# Update: 8/12/2019 - BIG UPDATE! NEW CHANNELS! Olympic Channel is now available and is remains FREE to view!
-# Update: 8/12/2019 - Maintenance: removed most web-cams (many have broken links). They may not return due to lack of viewer interest.
-# Update: 8/12/2019 - Maintenance: removed the NASA International Space Station links, broken. Unable to locate m3u8 replacements.
-# Update: 8/16/2019 - NEW CHANNELS: added m2o TV (Music) in International category and in Live Radio category.
-# Update: 8/16/2019 - Maintenance: updated remaining changed URL's for My TV To Go Networks; added Wink TV in My TV To Go Networks.
-# Update: 8/18/2019 - Maintenance: Reorganized categories; updated additional changed URL's for My TV To Go Networks.
-# Update: 8/18/2019 - NEW CHANNELS: Giniko USA TV (G-USA) and Giniko Worldwide TV (G-W)! More will be added soon!
-# Update: 8/23/2019 - Maintenance: cleaned up Giniko TV category, replaced some dead links and added additional new ones. ...
-#                     ... a LOT of repeated programming on many, still reviewing if they will remain permanent in this list.
-# Update: 8/23/2019 - Playlist News: The links for the 24/7 news France 24 and main feed of ABC News Live appear to have become...
-#                     ... discontinued. Their new live feeds appear to be locked behind session tokens, which are not stable here. :-(
-# Update: 8/23/2019 - Maintenance: located/updated additional feeds from old lists for France 24; no ABC News Live yet, still on it!
-# Update: 8/23/2019 - Playlist News: re- Olympic Channel subchannels 2-12: unable to get sound codec working, though it works on...
-#                     ... their web-stream, still investigating options. For now, the channel's main feed moved to Special Interest.
-# Update: 8/23/2019 - Maintenance: removed ABC News (main feed) and France 24 from respective categories (see previous Playlist News).
-# Update: 8/23/2019 - NEW CHANNELS: added add'l channels- My TV To Go Networks category: Classic Arts, Weather 4U, Living Outdoors.
-# Update: 8/23/2019 - OLD LISTS REVIEWED: restored HLN (as a 2nd source); NASA ISS channels, as well as *added* 2 new NASA TV feeds.
-# Update: 8/29/2019 - MAINTENANCE: did minor sorting of some channels in the Special Interest category.
-# Update: 8/29/2019 - MAINTENANCE: moved mult-resolution channels into its own category; added duplicate channels with add'l res's.
-# Update: 8/29/2019 - NEW CHANNELS: added Mobcrush (Video Games) [Special Interest]; The Film Detective [Entertainment].
-# Update: 8/30/2019 - PLAYLIST NEWS: seems like NASA ISS 1 feed may be not be around much longer, it has reached an "End of Life"...
-#                     ... see: https://en.wikipedia.org/wiki/High_Definition_Earth_Viewing_cameras; will keep as long as possible.
-# Update: 8/30/2019 - PLAYLIST NEWS: testing out channel links from Pluto TV and Stirr TV, two popular free Over-The-Top services.
-# Update: 8/30/2019 - PLAYLIST NEWS: Stirr TV's source URLs have session keys; won't work. Pluto TV source URL's appear promising.
-# Update: 8/30/2019 - RELEASE UPDATE: consider this a "beta" release with the testing of Pluto TV category.
 # Update: 9/01/2019 - UPDATED CHANNELS: New link updated for ABC News Live's main feed (shout out to G.K. on Reddit for this)!
 # Update: 9/01/2019 - NEW CHANNELS: I think the Pluto TV category is holding up! More channels have been added! Still as TEST for now.
 # Update: 9/01/2019 - NEW CATEGORY & CHANNELS: added a Travel & Tourism special interest category with several sources from 12/19/17.
@@ -181,6 +133,7 @@
 # Update: 1/14/2020 - CHANNEL MAINTENANCE: Updated ABC-TV (1) [USA FREE OTA TV]; Miami TV / Miami TV Jenny [Travel & Tourism].
 # Update: 1/15/2020 - CHANNEL MAINTENANCE: Added additional resolutions of the Olympic Channel. Now 480p through 1080p.
 # Update: 1/18/2020 - NEW CHANNELS ADDED: In the SPORTS category: added The Tennis Channel Plus 1 and 2; BeIN Sports Xtra.
+# Update: 1/18/2020 - NEW CHANNELS ADDED: In SPECIAL INTEREST: This Old House 24x7; The Design Channel; AFV Family (Viral Videos).
 #
 # ************************************************************************************************************************************* 
 
@@ -317,8 +270,14 @@ https://ott.mobcrush.com/hls/0/ott.m3u8
 https://d2klx6wjx7p5vm.cloudfront.net/Rooster-teeth/ngrp:Rooster-teeth_all/chunklist_b2628000.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/OutdoorCookingChannel.png" group-title="Special Interest",Outdoor Cooking Channel
 http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w981409619_b1105254.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ThisOldHouse_245x245.png?raw=true" group-title="Special Interest",This Old House 24x7
+https://pcva4.manifest.auditude.com/auditude/variant/thisoldhouse_2/7b1d6383-3aa6-4601-b8cd-dff13b8b7965/aHR0cHM6Ly90aGlzb2xkaG91c2UtMi5yb2t1Lnd1cmwuY29tL21hbmlmZXN0L3BsYXlsaXN0Lm0zdTg.m3u8?pttrackingversion=v2&u=19287a324825cc5aacb7e46183c72324&pttrackingmode=sstm&g=1000010&z=268729&k=wurl_channel=318
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheDesignNetwork_290x290.png?raw=true" group-title="Special Interest",The Design Network
+https://pcva4.manifest.auditude.com/auditude/variant/thedesignnetwork_tdn_2/bc043d28-c655-4bf9-a8ef-604d2906c7aa/aHR0cHM6Ly90aGVkZXNpZ25uZXR3b3JrLXRkbi0yLnJva3Uud3VybC5jb20vbWFuaWZlc3QvcGxheWxpc3QubTN1OA.m3u8?pttrackingversion=v2&u=19287a324825cc5aacb7e46183c72324&pttrackingmode=sstm&g=1000010&z=268729&k=wurl_channel=323
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/JUCEtv.png" group-title="Special Interest",JUCE TV (Youth)
 https://api.new.livestream.com/accounts/27460990/events/8266912/live.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheAFVFamilyChannel_203x203.png?raw=true" group-title="Special Interest",AFV Family (Viral Videos)
+https://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/MusicChoice.png" group-title="Special Interest",Music Choice Play (Music)
 http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/RelaxingGuitar_350x350.png" group-title="Special Interest",Relaxing Guitar Music
@@ -965,6 +924,9 @@ https://github.com/geonsey/Free2ViewTV/blob/master/videos/Free2ViewTV_BuyMeACoff
 https://github.com/geonsey/Free2ViewTV/releases/download/2/Roku_City-Stroll_Skyline_720p_16m43s.mp4
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AboutUS_392x392.png?raw=true" group-title="About Us + Extras",Roku Movie Magic Screensaver
 https://github.com/geonsey/Free2ViewTV/releases/download/1/Roku_City-Stroll_Movie-Magic_720p_16m43s.mp4
+
+
+
 
 
 
