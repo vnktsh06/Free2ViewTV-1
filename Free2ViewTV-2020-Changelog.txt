@@ -19,6 +19,13 @@
 #
 # Changelog (News and Updates): (oldest at the end of this document, newest at the beginning of this document)
 #
+# Update: 1/18/2020 - NEW CHANNELS ADDED: In the SPORTS category: added The Tennis Channel Plus 1 and 2; BeIN Sports Xtra.
+# Update: 1/15/2020 - CHANNEL MAINTENANCE: Added additional resolutions of the Olympic Channel. Now 480p through 1080p.
+# Update: 1/14/2020 - NEW CHANNEL ADDED: Just for the kiddies: tvo KIDS 24/7 live stream/channel added in CANADIAN TV category.
+# Update: 1/14/2020 - CHANNEL MAINTENANCE: Updated ABC-TV (1) [USA FREE OTA TV]; Miami TV / Miami TV Jenny [Travel & Tourism].
+# Update: 1/07/2020 - NEW CHANNEL CATEGORY: (by request) Added a selection of AUSTRALIAN TV live news and sports news channels.
+# Update: 1/06/2020 - NEW CHANNEL: The Miracle Channel added in CANADIAN TV, view online: https://miraclechannel.ca/live.
+# Update: 1/06/2020 - CHANNEL MAINTENANCE: Cheddar Networks, as well as NewsNet (SD) original network live stream sources updated.
 # Update: 1/02/2020 - NEW CATEGORY ADDED: Full set of NASA streams (including ISS HD Earth Viewing Experiment) in NASA TV category. 
 # Update: 1/02/2020 - CHANNEL MAINTENANCE: Added additional LIVE NEWS sources. Added Alternate stream sources for NASA TV channels.
 # Update: 12/29/19  - CHANNEL MAINTENANCE: Updated Stirr TV channel logo to differentiate from my Stirr TV master playlist...
