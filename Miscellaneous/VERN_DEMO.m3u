@@ -138,6 +138,7 @@
 # Update: 1/19/2020 - CHANNEL MAINTENANCE: USA FREE OTA TV cleaned up. Added THE TENNIS CHANNEL FREE category with 5 free streams.
 # Update: 1/19/2020 - CHANNEL MAINTENANCE: Updated live links for Miami TV / Miami TV - Jenny in TRAVEL & TOURISM category.
 # Update: 1/19/2020 - CHANNEL MAINTENANCE: Updated new sources for Charge! and Comet TV. Added Jasmin.TV (International TV).
+# Update: 1/19/2020 - CHANNEL MAINTENANCE: Updated all links to new sources in the LIVE NEWS category.
 #
 # ************************************************************************************************************************************* 
 
@@ -803,28 +804,36 @@ https://cdn.igocast.com/channel11_hls/channel11_master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TV25_360x360.png?raw=true" group-title="USA FREE OTA TV25",TV25.12 Jewelry TV
 https://cdn.igocast.com/channel12_hls/channel12_master.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png" group-title="Live News",CNN-1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png" group-title="Live News",01-CNN
 https://1686983180.rsc.cdn77.org/ls-54548-1/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png" group-title="Live News",CNN-2
-http://1128700637.rsc.cdn77.org/LS-ATL-54548-9/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png" group-title="Live News",HLN-1
-http://1128700637.rsc.cdn77.org/LS-ATL-54548-7/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png" group-title="Live News",Fox-News-1
-http://1128700637.rsc.cdn77.org/LS-ATL-54548-4/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png" group-title="Live News",Fox-News-2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png" group-title="Live News",02-FOX-NEWS
 https://1686983180.rsc.cdn77.org/ls-54548-2/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png" group-title="Live News",CNBC-1
-https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:cnbc.smil/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png" group-title="Live News",MSNBC-1
-http://1128700637.rsc.cdn77.org/LS-ATL-54548-10/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png" group-title="Live News",MSNBC-2
-https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:msnbc.smil/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png" group-title="Live News",CBC-News-1
-http://1128700637.rsc.cdn77.org/LS-ATL-54548-8/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png" group-title="Live News",BBC-World-News-1
-http://1128700637.rsc.cdn77.org/LS-ATL-54548-11/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png" group-title="Live News",BBC-World-News-2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png" group-title="Live News",03-CBS-NEWS
+https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png" group-title="Live News",04-CSPAN
+https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png" group-title="Live News",05-NEWSMAX
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png" group-title="Live News",06-ABC-NEWS-USA
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png" group-title="Live News",07-HLN
+https://1686983180.rsc.cdn77.org/LS-ATL-54548-7/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png" group-title="Live News",08-CBC-NEWS
+https://1686983180.rsc.cdn77.org/LS-ATL-54548-8/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png" group-title="Live News",09-CNN
+https://1686983180.rsc.cdn77.org/LS-ATL-54548-9/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png" group-title="Live News",10-MSNBC
+https://1686983180.rsc.cdn77.org/LS-ATL-54548-10/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png" group-title="Live News",11-BBC-WORLD-NEWS
 http://185.176.117.243/live/eds/BBC/HLS_encr/BBC.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png" group-title="Live News",12-BLOOMBERG-US-NEWS
+https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png" group-title="Live News",13-ABC-NEWS-AU
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png" group-title="Live News",14-CNBC
+https://1686983180.rsc.cdn77.org/LS-ATL-54548-14/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png" group-title="Live News",15-MSNBC
+https://1686983180.rsc.cdn77.org/LS-ATL-54548-15/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/RetroMusicTV.png" group-title="International TV",Retro Music TV
 http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8?iptvgratis?chile.m3u8
