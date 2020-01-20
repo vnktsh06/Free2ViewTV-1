@@ -19,6 +19,9 @@
 #
 # Changelog (News and Updates): (oldest at the end of this document, newest at the beginning of this document)
 #
+# Update: 1/19/2020 - CHANNEL MAINTENANCE: USA FREE OTA TV cleaned up. Added THE TENNIS CHANNEL FREE category with 5 free streams.
+# Update: 1/19/2020 - CHANNEL MAINTENANCE: Updated live links for Miami TV / Miami TV - Jenny in TRAVEL & TOURISM category.
+# Update: 1/19/2020 - CHANNEL MAINTENANCE: Updated new sources for Charge! and Comet TV. Added Jasmin.TV (International TV).
 # Update: 1/18/2020 - NEW CHANNELS ADDED: Added Stirr TV 24x7 category with the best of 24x7 series marathons.
 # Update: 1/18/2020 - NEW CHANNELS ADDED: In SPECIAL INTEREST: This Old House 24x7; The Design Channel; AFV Family (Viral Videos).
 # Update: 1/18/2020 - NEW CHANNELS ADDED: In the SPORTS category: added The Tennis Channel Plus 1 and 2; BeIN Sports Xtra.
