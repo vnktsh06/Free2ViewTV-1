@@ -139,6 +139,7 @@
 # Update: 1/19/2020 - CHANNEL MAINTENANCE: Updated live links for Miami TV / Miami TV - Jenny in TRAVEL & TOURISM category.
 # Update: 1/19/2020 - CHANNEL MAINTENANCE: Updated new sources for Charge! and Comet TV. Added Jasmin.TV (International TV).
 # Update: 1/19/2020 - CHANNEL MAINTENANCE: Updated all links to new sources in the LIVE NEWS category.
+# Update: 1/20/2020 - NEW RADIO CHANNELS ADDED: By request, added new radio streams from Halifax, NS in LIVE RADIO CANADA category. 
 #
 # ************************************************************************************************************************************* 
 
@@ -935,6 +936,16 @@ http://16123.live.streamtheworld.com:80/TV_BNNAAC_SC
 http://16843.live.streamtheworld.com:80/TV_CTV_NEWSAAC_SC
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio CANADA",TV AUDIO CP24
 http://17523.live.streamtheworld.com:80/TV_CP24AAC_SC
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio CANADA",Q104 Rock FM Halifax
+http://newcap.leanstream.co/CFRQFM-MP3?args=tunein_01
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio CANADA",101.9 Country FM Halifax
+http://mbsradio.leanstream.co/CHFXFM-MP3?args=tunein_01
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio CANADA",C100 Current FM Halifax  
+https://17453.live.streamtheworld.com/CIOOFMAAC.aac?
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio CANADA",101.3 Virgin Radio Halifax
+https://16903.live.streamtheworld.com/CJCHFM_ADP/HLS/18868/0/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio CANADA",103.5 Hot Country FM Halifax
+https://ice41.securenetsystems.net/CKHZ?playSessionID=DDE8F872-B643-75C1-B575F0E56DF4B0CB
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio USA",RADIO NPR WRVO Public Media
 http://16813.live.streamtheworld.com/WRVOFM_SC
