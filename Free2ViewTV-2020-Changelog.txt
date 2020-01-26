@@ -23,12 +23,13 @@
 #
 # Changelog (News and Updates): (oldest at the end of this document, newest at the beginning of this document)
 #
-# Update: 1/23/2020 - CATEGORY PLAYLIST: Moved USA FREE OTA and USA FREE OTA TV25 categories ahead in the playlist. 
-# Update: 1/23/2020 - NEW CHANNELS ADDED: All available channels from ANTHYM TV (https://www.anthym.tv/livetv) in a new category.
-# Update: 1/24/2020 - PLAYLIST MAINTENANCE: Optimized playlist for use with KODI (updated tags for RADIO channels).
+# Update: 1/26/2020 - EPG MAINTENANCE: Updated additional channels in the ** EPG | Free2View TV ** category.
 # Update: 1/25/2020 - MAJOR UPDATE: Introducing new EPG service! Only available on select channels. See video in ABOUT US + EXTRAS.
 # Update: 1/25/2020 - EPG MAINTENANCE: Added EPG service to the entire USA FREE OTA TV25 category, channels from http://tv25.tv. 
 # Update: 1/25/2020 - EPG MAINTENANCE: Added new category (EPG | Free2View TV) which adds duplicate channels with EPG listings.
+# Update: 1/24/2020 - PLAYLIST MAINTENANCE: Optimized playlist for use with KODI (updated tags for RADIO channels).
+# Update: 1/23/2020 - CATEGORY PLAYLIST: Moved USA FREE OTA and USA FREE OTA TV25 categories ahead in the playlist. 
+# Update: 1/23/2020 - NEW CHANNELS ADDED: All available channels from ANTHYM TV (https://www.anthym.tv/livetv) in a new category.
 # Update: 1/22/2020 - CHANNEL MAINTENANCE: Cleaned up and updated PLUTO TV (2) MOVIES with top popular channels in this category.
 # Update: 1/20/2020 - NEW RADIO CHANNELS ADDED: By request, added new radio streams from Halifax, NS in LIVE RADIO CANADA category. 
 # Update: 1/19/2020 - CHANNEL MAINTENANCE: Updated all links to new sources in the LIVE NEWS category.
