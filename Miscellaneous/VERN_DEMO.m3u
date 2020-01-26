@@ -147,6 +147,7 @@
 # Update: 1/25/2020 - MAJOR UPDATE: Introducing new EPG service! Only available on select channels. See video in ABOUT US + EXTRAS.
 # Update: 1/25/2020 - EPG MAINTENANCE: Added EPG service to the entire USA FREE OTA TV25 category, channels from http://tv25.tv. 
 # Update: 1/25/2020 - EPG MAINTENANCE: Added new category (EPG | Free2View TV) which adds duplicate channels with EPG listings.
+# Update: 1/26/2020 - EPG MAINTENANCE: Updated additional channels in the ** EPG | Free2View TV ** category.
 #
 # ************************************************************************************************************************************* 
 
@@ -1206,6 +1207,12 @@ https://content.jwplatform.com/videos/Szl4YrLw-CrqR41ri.mp4?USANET
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png" group-title="PRIVATE-3",|TEST| Comet (yoursports.stream)
 http://cdn.yoursports.stream/comet.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png" group-title="PRIVATE-3",|TEST| MSNBC
+https://nl2.streamlive.to/freeabr/viloor9kskh5unx/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNi8yMDIwIDc6Mjg6NDkgUE0maGFzaF92YWx1ZT1yVUNWaStGU2NIVWhoNksyOVV5bUdBPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj0yMyZpcD0yNC4xNDEuODIuMTgy
+
+
+
 
 
 
