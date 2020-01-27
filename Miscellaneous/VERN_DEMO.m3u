@@ -1224,6 +1224,9 @@ http://live.fadev.club/live/MSNBC/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png" group-title="PRIVATE-3",|TEST| Travel Channel
 http://fadev.club/live/TravelChannel.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png" group-title="PRIVATE-3",|TEST| Travel Channel 2
+http://live.fadev.club/live/TravelChannel/playlist.m3u8
+
 
 
 
