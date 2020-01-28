@@ -707,7 +707,7 @@ https://dai.google.com/linear/hls/event/fMcxjP7ORACGFsBvi7ZhAg/master.m3u8
 https://dai.google.com/linear/hls/event/RoiVzG-4TJiJMSVUatDd4A/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/PlutoTV_500x500.png" group-title="Pluto TV (1) TV Greats",1 Pluto TV Lineup
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bac15e47d92bd45a878f59c/3063648/master.m3u8?terminate=false&deviceId=f326520d-7599-402b-adc7-3b65e7a93a7d&deviceVersion=63.0.3368.71&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceType=web&deviceMake=Opera&sid=4a3a9b6f-fe3c-46ca-bf21-8196d40ff823&advertisingId=&deviceLat=37.7353&deviceLon=-122.3732&deviceDNT=0&deviceModel=Opera&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bac15e47d92bd45a878f59c/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=48a060c9-f7be-4a60-95fb-62332b5ef90a&deviceId=f326520d-7599-402b-adc7-3b65e7a93a7d&deviceVersion=65.0.3467.78&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/PlutoTV_500x500.png" group-title="Pluto TV (1) TV Greats",141 TV Land Drama
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d40bebc5e3d2750a2239d7e/3063648/master.m3u8?terminate=false&deviceId=f326520d-7599-402b-adc7-3b65e7a93a7d&deviceVersion=63.0.3368.71&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceType=web&deviceMake=Opera&sid=07b81d13-bf3d-4e73-8a1d-84fb89d7a614&advertisingId=&deviceLat=40.7308&deviceLon=-73.9975&deviceDNT=0&deviceModel=Opera&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=
@@ -740,7 +740,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d51e791b7dba3b2ae9
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c2d64ffbdf11b71587184b8/3063648/master.m3u8?terminate=false&deviceId=f326520d-7599-402b-adc7-3b65e7a93a7d&deviceVersion=63.0.3368.71&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceType=web&deviceMake=Opera&sid=9456f5a4-d0b7-4e1c-b6f0-90d36c02abd3&advertisingId=&deviceLat=40.7308&deviceLon=-73.9975&deviceDNT=0&deviceModel=Opera&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/PlutoTV_500x500.png" group-title="Pluto TV (1) TV Greats",661 Pluto TV Sci-Fi
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4fc274694c027be6ed3eea/3063648/master.m3u8?terminate=false&deviceId=f326520d-7599-402b-adc7-3b65e7a93a7d&deviceVersion=63.0.3368.71&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceType=web&deviceMake=Opera&sid=377fc361-cdf0-40f5-a365-d8009a0af4ee&advertisingId=&deviceLat=40.7308&deviceLon=-73.9975&deviceDNT=0&deviceModel=Opera&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4fc274694c027be6ed3eea/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=abc3436f-89ee-4c67-bdd5-816b39164d78&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=65.0.3467.78&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/PlutoTV_500x500.png" group-title="Pluto TV (1) TV Greats",614 Frontdoor
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5938888cd045ffce74cf9048/3063648/master.m3u8?terminate=false&deviceId=f326520d-7599-402b-adc7-3b65e7a93a7d&deviceVersion=63.0.3368.71&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceType=web&deviceMake=Opera&sid=ba754baa-81d7-48a1-97b0-093999c1ac0f&advertisingId=&deviceLat=40.7308&deviceLon=-73.9975&deviceDNT=0&deviceModel=Opera&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=
@@ -1158,71 +1158,148 @@ https://github.com/geonsey/Free2ViewTV/releases/download/1/Roku_City-Stroll_Movi
 
 
 
+#EXTM3U
 
-
-#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| AMC
-http://66.northerniptv.ca:8000/live/ronald/12345/334.m3u8
-#EXTINF:-1 tvg-id="TRAVEL" tvg-name="TRAVEL" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| Travel Channel
-http://66.northerniptv.ca:8000/live/ronald/12345/349.m3u8
-
-#EXTINF:-1 tvg-id="ABC" tvg-name="ABC" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| ABC
-https://content.jwplatform.com/videos/Szl4YrLw-CrqR41ri.mp4?ABC
-#EXTINF:-1 tvg-id="NBC" tvg-name="NBC" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| NBC 
-https://content.jwplatform.com/videos/Szl4YrLw-CrqR41ri.mp4?NBC
-#EXTINF:-1 tvg-id="CBS" tvg-name="CBS" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| CBS
-https://content.jwplatform.com/videos/Szl4YrLw-CrqR41ri.mp4?CBS
-#EXTINF:-1 tvg-id="CW" tvg-name="CW" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| CW
-https://content.jwplatform.com/videos/Szl4YrLw-CrqR41ri.mp4?CW
-#EXTINF:-1 tvg-id="Fox Network" tvg-name="Fox Network" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| FOX
-https://content.jwplatform.com/videos/Szl4YrLw-CrqR41ri.mp4?FOX
-
-#EXTINF:-1 tvg-id="Hallmark" tvg-name="Hallmark" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",Hallmark Channel (F2VTV)
-https://crownmediaingesttest.akamaized.net/hls/live/567739/cm/master.m3u8?hdnts=exp=3085179895~acl=/*~hmac=0eb6c6e77a672ed1f4816b69d2c74a057302f23f7b74ec74070b94f6919cb935
-#EXTINF:-1 tvg-id="Hallmark Movies & Mysteries" tvg-name="Hallmark Movies & Mysteries" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",Hallmark Movies & Mysteries (F2VTV)
-https://crownmediaingesttest.akamaized.net/hls/live/567739/mm/master.m3u8?hdnts=exp=3085179895~acl=/*~hmac=0eb6c6e77a672ed1f4816b69d2c74a057302f23f7b74ec74070b94f6919cb935
-
-#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| CNN (F2VTV)
-http://1128700637.rsc.cdn77.org/LS-ATL-54548-9/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="MSNBC" tvg-name="MSNBC" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| MSNBC (F2VTV)
-http://1128700637.rsc.cdn77.org/LS-ATL-54548-10/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="CNBC" tvg-name="CNBC" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| CNBC (F2VTV)
-https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:cnbc.smil/index.m3u8
-#EXTINF:-1 tvg-id="Fox News" tvg-name="Fox News" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| FOX NEWS (F2VTV)
-http://1128700637.rsc.cdn77.org/LS-ATL-54548-4/tracks-v1a1/index.m3u8
-
-
-#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| HGTV
-https://content.jwplatform.com/videos/Szl4YrLw-CrqR41ri.mp4?HGTV
-#EXTINF:-1 tvg-id="Syfy" tvg-name="Syfy" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| SYFY
-https://content.jwplatform.com/videos/Szl4YrLw-CrqR41ri.mp4?SYFY
-#EXTINF:-1 tvg-id="Destination America" tvg-name="Destination America" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| DESTINATION AMERICA
-https://content.jwplatform.com/videos/Szl4YrLw-CrqR41ri.mp4?DESTAM
-#EXTINF:-1 tvg-id="DIY" tvg-name="DIY" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| DIY NETWORK
-https://content.jwplatform.com/videos/Szl4YrLw-CrqR41ri.mp4?DIY
-#EXTINF:-1 tvg-id="SCIENCE" tvg-name="SCIENCE" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| DISCOVERY SCIENCE
-https://content.jwplatform.com/videos/Szl4YrLw-CrqR41ri.mp4?SCI
-#EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| DISCOVERY CHANNEL
-https://content.jwplatform.com/videos/Szl4YrLw-CrqR41ri.mp4?DISC
-#EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| FX
-https://content.jwplatform.com/videos/Szl4YrLw-CrqR41ri.mp4?FX
-#EXTINF:-1 tvg-id="FXX" tvg-name="FXX" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| FXX
-https://content.jwplatform.com/videos/Szl4YrLw-CrqR41ri.mp4?FXX
-#EXTINF:-1 tvg-id="National Geographic" tvg-name="National Geographic" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| NAT GEO
-https://content.jwplatform.com/videos/Szl4YrLw-CrqR41ri.mp4?NATGEO
-#EXTINF:-1 tvg-id="TVLAND" tvg-name="TVLAND" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| TV LAND
-https://content.jwplatform.com/videos/Szl4YrLw-CrqR41ri.mp4?TVLAND
-#EXTINF:-1 tvg-id="USA NETWORK" tvg-name="USA NETWORK" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| USA NETWORK
-https://content.jwplatform.com/videos/Szl4YrLw-CrqR41ri.mp4?USANET
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png" group-title="PRIVATE-3",|TEST| Comet (yoursports.stream)
-http://cdn.yoursports.stream/comet.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png" group-title="PRIVATE-3",|TEST| MSNBC
+#EXTINF:-1 tvg-id="MSNBC" tvg-name="MSNBC" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|TEST| MSNBC
 http://live.fadev.club/live/MSNBC/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png" group-title="PRIVATE-3",|TEST| Travel Channel
-http://fadev.club/live/TravelChannel/master.m3u8
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|TEST| CNN
+http://live.fadev.club/live/CNN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CNBC" tvg-name="CNBC" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|TEST| CNBC
+http://live.fadev.club/live/CNBC/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Fox News" tvg-name="Fox News" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|TEST| Fox News
+http://live.fadev.club/live/FoxN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Fox Business" tvg-name="Fox Business" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|TEST| Fox Business
+http://live.fadev.club/live/FOXB/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Fox Sport 1" tvg-name="Fox Sport 1" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|TEST| Fox Sports 1
+http://live.fadev.club/live/FS1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Fox Sport 2" tvg-name="Fox Sport 2" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|TEST| Fox Sports 2
+http://live.fadev.club/live/FS2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Golf Channel" tvg-name="Golf Channel" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|TEST| NBC Golf 
+http://live.fadev.club/live/Golf/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png" group-title="PRIVATE-1",|TEST| WWE Networks
+http://live.fadev.club/live/WWE/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NBA TV" tvg-name="NBA TV" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|TEST| NBA TV
+http://live.fadev.club/live/NBATV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NBC Sport Network" tvg-name="NBC Sport Network" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|TEST| NBC Sports
+http://live.fadev.club/live/NBCSN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NFL Network" tvg-name="NFL Network" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|TEST| NFL Network
+http://live.fadev.club/live/NFL/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NHL Network" tvg-name="NHL Network" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|TEST| NHL Network
+http://live.fadev.club/live/NHL/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png" group-title="PRIVATE-1",|TEST| MSG
+http://live.fadev.club/live/MSG/playlist.m3u8
+
+#EXTINF:-1 tvg-id="YES" tvg-name="YES" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|TEST| YES
+http://live.fadev.club/live/YES/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png" group-title="PRIVATE-1",|TEST| CBS
+http://live.fadev.club/live/CBS/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png" group-title="PRIVATE-1",|TEST| The CW
+http://live.fadev.club/live/CW/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png" group-title="PRIVATE-1",|TEST| Fox 5 New York (WNYW)
+http://live.fadev.club/live/FOX/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png" group-title="PRIVATE-1",|TEST| NBC 5 Chicago (WMAQ-TV)
+http://live.fadev.club/live/NBC/playlist.m3u8
+
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|TEST| A&E
+http://live.fadev.club/live/AE/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|TEST| AMC 
+http://live.fadev.club/live/AMC/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png" group-title="PRIVATE-1",|TEST| American Heroes
+http://live.fadev.club/live/AHC/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png" group-title="PRIVATE-1",|TEST| BBC America
+http://live.fadev.club/live/BBCAmerica/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png" group-title="PRIVATE-1",|TEST| Bravo
+http://live.fadev.club/live/Bravo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|TEST| Cartoon Network 
+http://live.fadev.club/live/CN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|TEST| Discovery
+http://live.fadev.club/live/DISCOVERY/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png" group-title="PRIVATE-1",|TEST| E!
+http://live.fadev.club/live/E!/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|TEST| FX
+http://live.fadev.club/live/FX/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hallmark" tvg-name="Hallmark" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|TEST| Hallmark Channel
+http://live.fadev.club/live/Hallmark/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HISTORY" tvg-name="HISTORY" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|TEST| History US
+http://live.fadev.club/live/HISTORY/playlist.m3u8
+
+#EXTINF:-1 tvg-id="National Geographic" tvg-name="National Geographic" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|TEST| National Geo USA
+http://live.fadev.club/live/GEO/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NICK" tvg-name="NICK" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|TEST| Nickelodeon US
+http://live.fadev.club/live/Nickelodeon/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OWN" tvg-name="OWN" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|TEST| OWN
+http://live.fadev.club/live/OWN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Oxygen" tvg-name="Oxygen" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|TEST| Oxygen
+http://live.fadev.club/live/oxygen/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png" group-title="PRIVATE-1",|TEST| Smithsonian Channel
+http://live.fadev.club/live/Smithsonian/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Syfy" tvg-name="Syfy" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|TEST| Syfy
+http://live.fadev.club/live/Syfy/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|TEST| TBS
+http://live.fadev.club/live/TBS/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|TEST| TNT
+http://live.fadev.club/live/TNT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|TEST| TLC US
+http://live.fadev.club/live/TLC/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TRAVEL" tvg-name="TRAVEL" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|TEST| Tavel Channel
+http://live.fadev.club/live/TravelChannel/playlist.m3u8
+
+#EXTINF:-1 tvg-id="truTV" tvg-name="truTV" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|TEST| Tru TV
+http://live.fadev.club/live/TruTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="USA NETWORK" tvg-name="USA NETWORK" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|TEST| USA Network
+http://live.fadev.club/live/USANETWORK/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|TEST| HBO US
+http://live.fadev.club/live/HBO/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SHOWTIME" tvg-name="SHOWTIME" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|TEST| Showtime
+http://live.fadev.club/live/SHOWTIME/playlist.m3u8
+
+#EXTINF:-1 tvg-id="STARZ" tvg-name="STARZ" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|TEST| Starz
+http://live.fadev.club/live/StarZ/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png" group-title="PRIVATE-1",|TEST| CTV Sci-Fi Channel
+http://live.fadev.club/live/Space/playlist.m3u8
+
+
+
 
 
 
@@ -1232,6 +1309,5 @@ http://fadev.club/live/TravelChannel/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/PlutoTV_500x500.png" group-title="New Pluto TV Tests",1 Pluto TV Lineup
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bac15e47d92bd45a878f59c/3063648/master.m3u8?terminate=false&deviceId=f326520d-7599-402b-adc7-3b65e7a93a7d&deviceVersion=63.0.3368.71&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceType=web&deviceMake=Opera&sid=4a3a9b6f-fe3c-46ca-bf21-8196d40ff823&advertisingId=&deviceLat=37.7353&deviceLon=-122.3732&deviceDNT=0&deviceModel=Opera&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=
-
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bac15e47d92bd45a878f59c/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=48a060c9-f7be-4a60-95fb-62332b5ef90a&deviceId=f326520d-7599-402b-adc7-3b65e7a93a7d&deviceVersion=65.0.3467.78&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
 
