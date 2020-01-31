@@ -642,9 +642,9 @@ http://tv2iptv.com:8000/live/tijani/tijani2020/37660.m3u8
 http://tv2iptv.com:8000/live/tijani/tijani2020/37595.m3u8
 #EXTINF:-1 tvg-id="I205.10139.zap2it.com" tvg-name="205" tvg-type="live" group-title="EPG | Live News" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png",EPG | CNBC
 http://live.fadev.club/live/CNBC/playlist.m3u8
-#EXTINF:-1 tvg-id="I206.58649.zap2it.com" tvg-name="206" tvg-type="live" group-title="EPG | Live News" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png",EPG | Fox Business
+#EXTINF:-1 tvg-id="I206.58649.zap2it.com" tvg-name="206 FBN" tvg-type="live" group-title="EPG | Live News" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png",EPG | Fox Business
 http://live.fadev.club/live/FOXB/chunks.m3u8
-#EXTINF:-1 tvg-id="I207.14755.zap2it.com" tvg-name="207" tvg-type="live" group-title="EPG | Live News" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png",EPG | Bloomberg US Channel
+#EXTINF:-1 tvg-id="I207.14755.zap2it.com" tvg-name="207 BLOOM" tvg-type="live" group-title="EPG | Live News" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png",EPG | Bloomberg US Channel
 https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Yellow_410x410.png?raw=true" group-title="Stirr TV Sampler",Buzzr on Stirr
