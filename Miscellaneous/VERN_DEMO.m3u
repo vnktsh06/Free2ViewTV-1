@@ -155,6 +155,7 @@
 # Update: 1/29/2020 - NEW CHANNELS ADDED: NBC News Now launches official 24/7 live stream, added to respective NEWS categories.
 # Update: 1/30/2020 - PLAYLIST MAINTENANCE: Cleaned up sources in ENTERTAINMENT category. Cleaning up Pluto TV source streams.
 # Update: 1/31/2020 - PLAYLIST MAINTENANCE: Cleaned up Christmas Collection category: added placeholder videos where links are dead.
+# Update: 1/31/2020 - NEW VIDEOS ADDED: Added Fireplace & Chill (18+) video in "About Us + Extras" category.
 #
 # ************************************************************************************************************************************* 
 
@@ -636,17 +637,19 @@ https://iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316/DomesticOl
 https://cbclivedai5-i.akamaihd.net/hls/live/567235/event2/CBOT/master5.m3u8
 
 #EXTINF:-1 tvg-id="I203.16300.zap2it.com" tvg-name="203" tvg-type="live" group-title="EPG | Live News" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png",EPG | MSNBC
-http://tv2iptv.com:8000/live/tijani/tijani2020/37520.m3u8
+https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:msnbc.smil/master.m3u8
 #EXTINF:-1 tvg-id="I201.10142.zap2it.com" tvg-name="201" tvg-type="live" group-title="EPG | Live News" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png",EPG | CNN
 http://tv2iptv.com:8000/live/tijani/tijani2020/37660.m3u8
 #EXTINF:-1 tvg-id="I202.16374.zap2it.com" tvg-name="202" tvg-type="live" group-title="EPG | Live News" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png",EPG | Fox News Network
 http://tv2iptv.com:8000/live/tijani/tijani2020/37595.m3u8
 #EXTINF:-1 tvg-id="I205.10139.zap2it.com" tvg-name="205" tvg-type="live" group-title="EPG | Live News" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png",EPG | CNBC
 https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:cnbc.smil/index.m3u8
-#EXTINF:-1 tvg-id="I206.58649.zap2it.com" tvg-name="206 FBN" tvg-type="live" group-title="EPG | Live News" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png",EPG | Fox Business
+#EXTINF:-1 tvg-id="I206.58649.zap2it.com" tvg-name="206" tvg-type="live" group-title="EPG | Live News" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png",EPG | Fox Business
 http://live.fadev.club/live/FOXB/chunks.m3u8
-#EXTINF:-1 tvg-id="I207.14755.zap2it.com" tvg-name="207 BLOOM" tvg-type="live" group-title="EPG | Live News" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png",EPG | Bloomberg US Channel
+#EXTINF:-1 tvg-id="I207.14755.zap2it.com" tvg-name="207" tvg-type="live" group-title="EPG | Live News" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png",EPG | Bloomberg US Channel
 https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
+#EXTINF:-1 tvg-id="I209.89542.zap2it.com" tvg-name="209" tvg-type="live" group-title="EPG | Live News" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png",EPG | BBC World News
+http://185.176.117.243/live/eds/BBC/HLS_encr/BBC.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Yellow_410x410.png?raw=true" group-title="Stirr TV Sampler",Buzzr on Stirr
 https://dai.google.com/linear/hls/event/wFZ1ufQ8ToaSdPgGtbBbpw/master.m3u8
@@ -1103,7 +1106,7 @@ https://github.com/geonsey/Free2ViewTV/releases/download/3/Fireplace-and-Chill_2
 #EXTM3U
 
 #EXTINF:-1 tvg-id="MSNBC" tvg-name="MSNBC" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|TEST| MSNBC
-http://live.fadev.club/live/MSNBC/playlist.m3u8
+http://docs-4.gogleusercontent.host/live/msnbc/chunks.m3u8
 
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|TEST| CNN
 http://live.fadev.club/live/CNN/playlist.m3u8
