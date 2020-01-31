@@ -899,9 +899,9 @@ https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Hallmark_Xmas_261x261.png?raw=true" group-title="Christmas Collection",Hallmark Channel Christmas
-https://github.com/geonsey/Free2ViewTV/blob/master/videos/OOPS_Out-Of-Service_Xmas.mp4?raw=true
+https://github.com/geonsey/Free2ViewTV/blob/master/videos/OOPS_Out-Of-Service_Xmas.mp4?raw=true?xmas1
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Hallmark_Xmas_261x261.png?raw=true" group-title="Christmas Collection",Hallmark Miracles of Christmas
-https://github.com/geonsey/Free2ViewTV/blob/master/videos/OOPS_Out-Of-Service_Xmas.mp4?raw=true
+https://github.com/geonsey/Free2ViewTV/blob/master/videos/OOPS_Out-Of-Service_Xmas.mp4?raw=true?xmas2
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Generic_Christmas_715x715.png?raw=true" group-title="Christmas Collection",LIVE Sony Movies Christmas
 http://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-truemovies/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PlutoTV_Xmas_540x540.png?raw=true" group-title="Christmas Collection",LIVE Pluto TV Christmas
