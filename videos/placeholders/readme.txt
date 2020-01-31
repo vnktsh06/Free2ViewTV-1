@@ -1,0 +1,1 @@
+These videos are duplicates of each other, used as placeholders when streams are down. Individually named so that it can show up as separate videos in the TV playlist.
