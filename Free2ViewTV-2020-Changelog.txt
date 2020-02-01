@@ -23,6 +23,15 @@
 #
 # Changelog (News and Updates): (oldest at the end of this document, newest at the beginning of this document)
 #
+# Update: 2/01/2020 - PLAYLIST MAINTENANCE: Cleaned up / updated EPG channels.
+# Update: 1/31/2020 - PLAYLIST MAINTENANCE: Cleaned up Christmas Collection category: added placeholder videos where links are dead.
+# Update: 1/31/2020 - NEW VIDEOS ADDED: Added Fireplace & Chill (18+) video in "About Us + Extras" category.
+# Update: 1/30/2020 - PLAYLIST MAINTENANCE: Cleaned up sources in ENTERTAINMENT category. Cleaning up Pluto TV source streams.
+# Update: 1/29/2020 - NEW CHANNELS ADDED: NBC News Now launches official 24/7 live stream, added to respective NEWS categories.
+# Update: 1/28/2020 - CATEGORY MAINTENANCE: Relocated LIVE NEWS category near EPG categories; cleaned up channels; added EPG.
+# Update: 1/28/2020 - PLAYLIST MAINTENANCE: Removed ANTHYM TV channels, not really "live", just redundant YouTube playlists.
+# Update: 1/28/2020 - CHANNEL MAINTENANCE: moved SportsGrid Network to the SPORTS category. Deleted Tennis Channel Plus 4 (dead).
+# Update: 1/28/2020 - CHANNEL MAINTENANCE: updated 247 Retro TV stream link in "Nostalgia Flicks" category.
 # Update: 1/26/2020 - EPG MAINTENANCE: Updated additional channels in the ** EPG | Free2View TV ** category.
 # Update: 1/25/2020 - MAJOR UPDATE: Introducing new EPG service! Only available on select channels. See video in ABOUT US + EXTRAS.
 # Update: 1/25/2020 - EPG MAINTENANCE: Added EPG service to the entire USA FREE OTA TV25 category, channels from http://tv25.tv. 
