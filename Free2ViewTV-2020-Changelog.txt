@@ -23,6 +23,7 @@
 #
 # Changelog (News and Updates): (oldest at the end of this document, newest at the beginning of this document)
 #
+# Update: 2/01/2020 - NEW CHANNEL ADDED: CBS News Philly added in CBS Interactive category.
 # Update: 2/01/2020 - PLAYLIST MAINTENANCE: Cleaned up / updated EPG channels.
 # Update: 1/31/2020 - PLAYLIST MAINTENANCE: Cleaned up Christmas Collection category: added placeholder videos where links are dead.
 # Update: 1/31/2020 - NEW VIDEOS ADDED: Added Fireplace & Chill (18+) video in "About Us + Extras" category.

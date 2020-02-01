@@ -156,7 +156,8 @@
 # Update: 1/30/2020 - PLAYLIST MAINTENANCE: Cleaned up sources in ENTERTAINMENT category. Cleaning up Pluto TV source streams.
 # Update: 1/31/2020 - PLAYLIST MAINTENANCE: Cleaned up Christmas Collection category: added placeholder videos where links are dead.
 # Update: 1/31/2020 - NEW VIDEOS ADDED: Added Fireplace & Chill (18+) video in "About Us + Extras" category.
-# Update: 2/01/2020 - PLAYLIST MAINTENANCE: Cleaned up / updated EPG channels.
+# Update: 2/01/2020 - PLAYLIST MAINTENANCE: Cleaned up / updated EPG channels. 
+# Update: 2/01/2020 - NEW CHANNEL ADDED: CBS News Philly added in CBS Interactive category.
 #
 # ************************************************************************************************************************************* 
 
@@ -354,6 +355,8 @@ https://cbsn-ny-cedexis.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa2
 https://dai.google.com/linear/hls/event/26FJK7wRSo6RhPsK70XS_w/master.m3u8?iu=/4128/CBS.BOSTON.OTT
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBSInteractive.png" group-title="CBS Interactive",CBSi CBS News Minnesota
 https://dai.google.com/linear/hls/pa/event/zcWPVCfURNSPxeidcckQLA/stream/73f4e03b-f258-4d3e-a4df-29e9007e04e3:CBF2/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBSInteractive.png" group-title="CBS Interactive",CBSi CBS News Philly
+https://dai.google.com/linear/hls/event/Xu-ITJ2GTNGaxGn893mmWg/master.m3u8?iu=/4128/CBS.PHILLY.OTT
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBSInteractive.png" group-title="CBS Interactive",CBSi CBS News LA
 https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?iu=/4128/CBS.LA.OTT
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBSInteractive.png" group-title="CBS Interactive",CBSi CBS News Bay Area
@@ -1028,14 +1031,6 @@ https://github.com/geonsey/Free2ViewTV/releases/download/2/Roku_City-Stroll_Skyl
 https://github.com/geonsey/Free2ViewTV/releases/download/1/Roku_City-Stroll_Movie-Magic_720p_16m43s.mp4
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AboutUS_392x392.png?raw=true" group-title="About Us + Extras",Fireplace & Chill (18+)
 https://github.com/geonsey/Free2ViewTV/releases/download/3/Fireplace-and-Chill_21m.mp4
-
-
-
-
-
-
-
-
 
 
 
