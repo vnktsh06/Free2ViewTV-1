@@ -156,6 +156,7 @@
 # Update: 1/30/2020 - PLAYLIST MAINTENANCE: Cleaned up sources in ENTERTAINMENT category. Cleaning up Pluto TV source streams.
 # Update: 1/31/2020 - PLAYLIST MAINTENANCE: Cleaned up Christmas Collection category: added placeholder videos where links are dead.
 # Update: 1/31/2020 - NEW VIDEOS ADDED: Added Fireplace & Chill (18+) video in "About Us + Extras" category.
+# Update: 2/01/2020 - PLAYLIST MAINTENANCE: Cleaned up / updated EPG channels.
 #
 # ************************************************************************************************************************************* 
 
@@ -609,6 +610,9 @@ https://cdn.igocast.com/channel11_hls/channel11_master.m3u8
 #EXTINF:-1 tvg-id="I25.12.106746.zap2it.com" tvg-name="25.12" tvg-type="live" group-title="EPG | USA FREE OTA TV25" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TV25_360x360.png?raw=true",EPG | TV25.12 Jewelry TV
 https://cdn.igocast.com/channel12_hls/channel12_master.m3u8
 
+#EXTINF:-1 tvg-id="I25.1.97116.zap2it.com" tvg-name="25.1" tvg-type="live" group-title="EPG | Free2View TV" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/BUZZR.png",EPG | Buzzr
+https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_4.m3u8
+
 #EXTINF:-1 tvg-id="I4.3.94944.zap2it.com" tvg-name="4.3" tvg-type="live" group-title="EPG | Free2View TV" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CourtTV_450x450.png",EPG | Court TV
 https://content.uplynk.com/channel/92c7be9fb47143a58683d202e321e571.m3u8
 
@@ -618,7 +622,7 @@ http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp
 #EXTINF:-1 tvg-id="I5.2.49975.zap2it.com" tvg-name="5.2" tvg-type="live" group-title="EPG | Free2View TV" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CometTV.png",EPG | Comet TV
 http://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?tc=1&exp=1614631202&rn=2057716804&ct=c&cid=3e45c6b5354a40f787e0b2aadb0f5d6a&ad=comet&repl=aboi&ad.adUnit=%2FCOMET%2FLivestream_midroll&ad._debug=comet_vmap&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=b2edfb477155d2588a66e0aecdbebff5a23c90a96e55c831def9a1434a51913b
 
-#EXTINF:-1 tvg-id="I41.2.50764.zap2it.com" tvg-name="41.2" tvg-type="live" group-title="EPG | Free2View TV" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CoziTV_WZTS_218x218.png?raw=true",EPG | Cozi TV (National EPG)
+#EXTINF:-1 tvg-id="I62.4.113740.zap2it.com" tvg-name="62.4" tvg-type="live" group-title="EPG | Free2View TV" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CoziTV_WZTS_218x218.png?raw=true",EPG | Cozi TV (National EPG)
 https://2-fss-2.streamhoster.com/pl_120/201852-1297026-1/master.m3u8
 
 #EXTINF:-1 tvg-id="I62.3.82932.zap2it.com" tvg-name="62.3" tvg-type="live" group-title="EPG | Free2View TV" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Dabl_400x400.png",EPG | Dabl
@@ -639,9 +643,9 @@ https://cbclivedai5-i.akamaihd.net/hls/live/567235/event2/CBOT/master5.m3u8
 #EXTINF:-1 tvg-id="I203.16300.zap2it.com" tvg-name="203" tvg-type="live" group-title="EPG | Live News" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png",EPG | MSNBC
 https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:msnbc.smil/master.m3u8
 #EXTINF:-1 tvg-id="I201.10142.zap2it.com" tvg-name="201" tvg-type="live" group-title="EPG | Live News" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png",EPG | CNN
-http://tv2iptv.com:8000/live/tijani/tijani2020/37660.m3u8
+http://ott.artmott.com/CNN/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="I202.16374.zap2it.com" tvg-name="202" tvg-type="live" group-title="EPG | Live News" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png",EPG | Fox News Network
-http://tv2iptv.com:8000/live/tijani/tijani2020/37595.m3u8
+http://ms-azure-video.gslb.startimestv.com/live/FOX_News_786_500_480x360_191112/playlist.m3u8
 #EXTINF:-1 tvg-id="I205.10139.zap2it.com" tvg-name="205" tvg-type="live" group-title="EPG | Live News" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png",EPG | CNBC
 https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:cnbc.smil/index.m3u8
 #EXTINF:-1 tvg-id="I206.58649.zap2it.com" tvg-name="206" tvg-type="live" group-title="EPG | Live News" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png",EPG | Fox Business
