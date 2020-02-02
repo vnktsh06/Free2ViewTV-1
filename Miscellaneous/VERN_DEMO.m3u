@@ -625,6 +625,9 @@ http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp
 #EXTINF:-1 tvg-id="I5.2.49975.zap2it.com" tvg-name="5.2" tvg-type="live" group-title="EPG | Free2View TV" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CometTV.png",EPG | Comet TV
 http://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?tc=1&exp=1614631202&rn=2057716804&ct=c&cid=3e45c6b5354a40f787e0b2aadb0f5d6a&ad=comet&repl=aboi&ad.adUnit=%2FCOMET%2FLivestream_midroll&ad._debug=comet_vmap&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=b2edfb477155d2588a66e0aecdbebff5a23c90a96e55c831def9a1434a51913b
 
+#EXTINF:-1 tvg-id="I62.4.113740.zap2it.com" tvg-name="62.4" tvg-type="live" group-title="EPG | Free2View TV" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CoziTV_WZTS_218x218.png?raw=true",EPG | Cozi TV (National EPG)
+https://2-fss-2.streamhoster.com/pl_120/201852-1297026-1/master.m3u8
+
 #EXTINF:-1 tvg-id="I62.4.113740.zap2it.com" tvg-name="62.4" tvg-type="live" group-title="EPG | Free2View TV" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CoziTV_400x400.png?raw=true",EPG | Cozi TV (WCAU)
 https://v-pi.mybtv.net/event/10.2/768x432?start_time=2019-12-17T20%3A15%3A00.000Z&end_time=8089&env=prd&uid=29375
 
