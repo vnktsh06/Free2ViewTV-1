@@ -159,7 +159,8 @@
 # Update: 2/01/2020 - PLAYLIST MAINTENANCE: Cleaned up / updated EPG channels. 
 # Update: 2/01/2020 - NEW CHANNEL ADDED: CBS News Philly added in CBS Interactive category.
 # Update: 2/02/2020 - NEW CHANNELS: Added additional channels in the USA FREE OTA TV category (K36JH 36.4, Impulse TV; KVVB 33.1).
-# Update: 2/02/2020 - NEW CHANNELS ADDED: in Pluto TV (1) TV Greats: 350 Pluto | Leverage 24/7.
+# Update: 2/02/2020 - PLAYLIST MAINTENANCE: Added/updated channels in various Pluto TV categories.
+# Update: 2/03/2020 - NEW CHANNELS ADDED: Dust added to the Movies Plus category.
 #
 # ************************************************************************************************************************************* 
 
@@ -204,6 +205,8 @@ https://dai1.xumo.com/7a884267de5c44a9/9999406/master.m3u8
 https://a.jsrdn.com/broadcast/vf93fRSk7/playlist_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/FilmDetective_400x400.png" group-title="Movies Plus",The Film Detective *
 https://a.jsrdn.com/broadcast/9Kl3dcb5l/indexfd_1280x720.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Dust_670x670.png?raw=true" group-title="Movies Plus",Dust
+https://dai1.xumo.com/8d9puiojemjm1t9c/9999432/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/FilmRise_Free-Movies_300x300.png?raw=true" group-title="Movies Plus",Filmrise Movies
 https://dai1.xumo.com/7a884267de5c44a9/9999404/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/FilmRise_Classic-TV_300x300.png?raw=true" group-title="Movies Plus",Filmrise Classic TV
@@ -682,7 +685,7 @@ https://dai.google.com/linear/hls/event/YakHdnr_RpyszducVuHOpQ/master.m3u8
 https://dai.google.com/linear/hls/event/2r7F3DThT-C5YW21CUuGLQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Yellow_410x410.png?raw=true" group-title="Stirr TV Sampler",Stirr | Shout Factory TV
 https://dai.google.com/linear/hls/event/JX5KKhKKRPqchP3LfXD-1A/master.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Yellow_410x410.png?raw=true" group-title="Stirr TV Sampler",Stirr | Film Detective
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Yellow_410x410.png?raw=true" group-title="Stirr TV Sampler",Stirr | The Film Detective
 https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Yellow_410x410.png?raw=true" group-title="Stirr TV Sampler",Stirr | American Classics
 https://dai.google.com/linear/hls/event/0e06oV-NTI2ygS2MRQk9ZA/master.m3u8
@@ -817,7 +820,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e69e08291147bd04
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/PlutoTV_500x500.png" group-title="Pluto TV (2) Movies",82 Paramount Movies
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/3063648/master.m3u8?terminate=false&deviceId=f326520d-7599-402b-adc7-3b65e7a93a7d&deviceVersion=63.0.3368.71&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceType=web&deviceMake=Opera&sid=fdb5e6bd-6102-4712-bf51-a879469a0d4b&advertisingId=&deviceLat=40.7308&deviceLon=-73.9975&deviceDNT=0&deviceModel=Opera&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/PlutoTV_500x500.png" group-title="Pluto TV (2) Movies",84 CMT Westerns
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/PlutoTV_500x500.png" group-title="Pluto TV (2) Movies",84 Pluto | CMT Westerns
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=1ef9774d-6704-4ce3-ba95-4741eacfbe3b&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=65.0.3467.78&appVersion=2.9.2-54d16e0b6418617f090cff53a5854097e137060f&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/PlutoTV_500x500.png" group-title="Pluto TV (2) Movies",86 Pluto | Classic Movies
@@ -829,7 +832,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca525b650be2571e39
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/PlutoTV_500x500.png" group-title="Pluto TV (2) Movies",92 Pluto | Cult Films
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c665db3e6c01b72c4977bc2/3063648/master.m3u8?terminate=false&deviceId=f326520d-7599-402b-adc7-3b65e7a93a7d&deviceVersion=63.0.3368.71&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceType=web&deviceMake=Opera&sid=99d452ce-7f33-4179-b949-f35acc6701af&advertisingId=&deviceLat=40.7308&deviceLon=-73.9975&deviceDNT=0&deviceModel=Opera&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/PlutoTV_500x500.png" group-title="Pluto TV (2) Movies",94 Flicks of Fury
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/PlutoTV_500x500.png" group-title="Pluto TV (2) Movies",94 Pluto | Flicks of Fury
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=ef90aaae-c6e3-48d3-a3d7-b3164fc7a8bd&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=65.0.3467.78&appVersion=2.9.2-54d16e0b6418617f090cff53a5854097e137060f&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/PlutoTV_500x500.png" group-title="Pluto TV (2) Movies",96 Pluto | The Asylum
@@ -840,6 +843,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59120e45877eeb3760b
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PlutoTV_Xmas_540x540.png?raw=true" group-title="Pluto TV (3) Pluto+",107 Pluto | VEVO Holiday
 https://5dcc69bb1621dc5de50b1db7-p-1.ssai.zype.com/5dcc69bb1621dc5de50b1db7-p-1/manifest/1.m3u8?type=manifest&media_tailor_id=d58cb533af925f0d206e7043f2eb25fe50b073e5&config_id=5dcc69bb1621dc5de50b1db7_pluto&manifest_id=6962c829-e8d7-40f9-837c-7bc477a3f92a
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/PlutoTV_500x500.png" group-title="Pluto TV News",232 Pluto | NBC News
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56403d822d2719107d948cb9/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=f1717ff4-abf4-4022-91a2-609e999d8933&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.7308&deviceLon=-73.9975&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/PlutoTV_500x500.png" group-title="Pluto TV (3) Pluto+",455 Pluto TV Sports
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56340779a738201b4ccfeac9/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
@@ -865,10 +871,10 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/553838c8c0b860c11a6
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/PlutoTV_500x500.png" group-title="Pluto TV (3) Pluto+",684 Pluto | CNet
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56283c8769ba54637dea0464/3063648/master.m3u8?terminate=false&deviceId=f326520d-7599-402b-adc7-3b65e7a93a7d&deviceVersion=63.0.3368.71&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceType=web&deviceMake=Opera&sid=d5d7b3ad-a10d-46f1-85a9-ed3eabf49c71&advertisingId=&deviceLat=40.793&deviceLon=-74.0247&deviceDNT=0&deviceModel=Opera&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/PlutoTV_500x500.png" group-title="Pluto TV (3) Pluto+",690 Geek + Sundry
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/PlutoTV_500x500.png" group-title="Pluto TV (3) Pluto+",690 Pluto | Geek + Sundry
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561c5be8ada51f8004c4d856/3063648/master.m3u8?terminate=false&deviceId=f326520d-7599-402b-adc7-3b65e7a93a7d&deviceVersion=63.0.3368.71&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceType=web&deviceMake=Opera&sid=206e0c37-40fe-404b-ab93-007013902233&advertisingId=&deviceLat=40.7308&deviceLon=-73.9975&deviceDNT=0&deviceModel=Opera&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=
 
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/PlutoTV_500x500.png" group-title="Pluto TV (3) Pluto+",917 monstercat TV
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/PlutoTV_500x500.png" group-title="Pluto TV (3) Pluto+",917 Pluto | monstercat TV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812bbf3e58ad7c757009427/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=a457a9e5-084f-46aa-b03e-b6e4bc7eca51&deviceId=f326520d-7599-402b-adc7-3b65e7a93a7d&deviceVersion=64.0.3417.92&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/BumblebeeTV_Generic.png?raw=true" group-title="Bumblebee TV",popcornflix Action Movies
