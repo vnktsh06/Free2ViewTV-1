@@ -160,7 +160,8 @@
 # Update: 2/01/2020 - NEW CHANNEL ADDED: CBS News Philly added in CBS Interactive category.
 # Update: 2/02/2020 - NEW CHANNELS: Added additional channels in the USA FREE OTA TV category (K36JH 36.4, Impulse TV; KVVB 33.1).
 # Update: 2/02/2020 - PLAYLIST MAINTENANCE: Added/updated channels in various Pluto TV categories.
-# Update: 2/03/2020 - NEW CHANNELS ADDED: Dust added to the Movies Plus category.
+# Update: 2/03/2020 - NEW CHANNELS ADDED: Two different streams of Dust science-fiction channel added to the Movies Plus category.
+# Update: 2/04/2020 - NEW CHANNELS ADDED: Added selected channels from Distro TV (http://www.distro.tv/) into its own category.
 #
 # ************************************************************************************************************************************* 
 
@@ -205,7 +206,9 @@ https://dai1.xumo.com/7a884267de5c44a9/9999406/master.m3u8
 https://a.jsrdn.com/broadcast/vf93fRSk7/playlist_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/FilmDetective_400x400.png" group-title="Movies Plus",The Film Detective *
 https://a.jsrdn.com/broadcast/9Kl3dcb5l/indexfd_1280x720.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Dust_670x670.png?raw=true" group-title="Movies Plus",Dust
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Dust_670x670.png?raw=true" group-title="Movies Plus",Dust | Channel 1
+https://dust.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Dust_670x670.png?raw=true" group-title="Movies Plus",Dust | Channel 2
 https://dai1.xumo.com/8d9puiojemjm1t9c/9999432/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/FilmRise_Free-Movies_300x300.png?raw=true" group-title="Movies Plus",Filmrise Movies
 https://dai1.xumo.com/7a884267de5c44a9/9999404/master.m3u8
@@ -876,6 +879,17 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561c5be8ada51f8004c
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/PlutoTV_500x500.png" group-title="Pluto TV (3) Pluto+",917 Pluto | monstercat TV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812bbf3e58ad7c757009427/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=a457a9e5-084f-46aa-b03e-b6e4bc7eca51&deviceId=f326520d-7599-402b-adc7-3b65e7a93a7d&deviceVersion=64.0.3417.92&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",Distro TV | Gusto
+https://a.jsrdn.com/broadcast/ebf95254ca/+0000/c.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",Distro TV | Saveur
+https://a.jsrdn.com/broadcast/060753d37e/+0000/c.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",Distro TV | Popular Science
+https://a.jsrdn.com/broadcast/447912f76b/+0000/c.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",Distro TV | IDG (Technology)
+https://a.jsrdn.com/broadcast/529a360c04/+0000/c.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",Distro TV | Titanic Channel
+https://a.jsrdn.com/broadcast/22719/+0000/c.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/BumblebeeTV_Generic.png?raw=true" group-title="Bumblebee TV",popcornflix Action Movies
 https://stitcher.unreel.me/live/5d4b21643f4d602ba521b06c/playlist.m3u8
