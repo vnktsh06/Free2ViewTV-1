@@ -1151,10 +1151,10 @@ https://github.com/geonsey/Free2ViewTV/releases/download/3/Fireplace-and-Chill_2
 http://51.159.21.231:2052/usapro2@source/799965@26641/1750
 
 #EXTINF:-1 tvg-id="TRAVEL" tvg-name="TRAVEL" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|TEST| Tavel Channel
-http://live.fadev.club/live/TravelChannel/playlist.m3u8
+http://51.159.21.231:2052/usapro2@source/799965@26641/1730
 
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|TEST| AMC 
-http://live.fadev.club/live/AMC/playlist.m3u8
+http://iptvpro.premium-itv.com:8789/31031986/31031986/24122
 
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|TEST| CNN
 http://live.fadev.club/live/CNN/playlist.m3u8
