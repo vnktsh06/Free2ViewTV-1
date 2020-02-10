@@ -495,15 +495,13 @@ https://iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316/DomesticOl
 https://cbclivedai5-i.akamaihd.net/hls/live/567235/event2/CBOT/master5.m3u8
 
 #EXTINF:-1 tvg-id="I203.16300.zap2it.com" tvg-name="203" tvg-type="live" group-title="EPG | Live News" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png",EPG | MSNBC
-https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:msnbc.smil/master.m3u8
+http://claro2-pi-dns.herokuapp.com/master.php?id=306&f=.m3u8
 #EXTINF:-1 tvg-id="I201.10142.zap2it.com" tvg-name="201" tvg-type="live" group-title="EPG | Live News" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png",EPG | CNN
 http://ott.artmott.com/CNN/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="I202.16374.zap2it.com" tvg-name="202" tvg-type="live" group-title="EPG | Live News" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png",EPG | Fox News Network
 http://ms-azure-video.gslb.startimestv.com/live/FOX_News_786_500_480x360_191112/playlist.m3u8
 #EXTINF:-1 tvg-id="I205.10139.zap2it.com" tvg-name="205" tvg-type="live" group-title="EPG | Live News" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png",EPG | CNBC
 https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:cnbc.smil/index.m3u8
-#EXTINF:-1 tvg-id="I206.58649.zap2it.com" tvg-name="206" tvg-type="live" group-title="EPG | Live News" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png",EPG | Fox Business
-http://live.fadev.club/live/FOXB/chunks.m3u8
 #EXTINF:-1 tvg-id="I207.14755.zap2it.com" tvg-name="207" tvg-type="live" group-title="EPG | Live News" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png",EPG | Bloomberg US Channel
 https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
 #EXTINF:-1 tvg-id="I209.89542.zap2it.com" tvg-name="209" tvg-type="live" group-title="EPG | Live News" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png",EPG | BBC World News
@@ -936,6 +934,8 @@ https://github.com/geonsey/Free2ViewTV/releases/download/2/Roku_City-Stroll_Skyl
 https://github.com/geonsey/Free2ViewTV/releases/download/1/Roku_City-Stroll_Movie-Magic_720p_16m43s.mp4
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AboutUS_392x392.png?raw=true" group-title="About Us + Extras",Fireplace & Chill (18+)
 https://github.com/geonsey/Free2ViewTV/releases/download/3/Fireplace-and-Chill_21m.mp4
+
+
 
 
 

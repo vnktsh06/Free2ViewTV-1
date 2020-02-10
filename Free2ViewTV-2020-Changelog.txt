@@ -23,6 +23,7 @@
 #
 # Changelog (News and Updates): (oldest at the end of this document, newest at the beginning of this document)
 #
+# Update: 2/10/2020 - PLAYLIST MAINTENANCE: Cleaned up and replaced new sources in the "EPG | Live News" category.
 # Update: 2/09/2020 - NEW CHANNELS / CATEGORY: Added "WatchYour.TV | TVS" category with all available channels.
 # Update: 2/04/2020 - NEW CHANNELS ADDED: Added selected channels from Distro TV (http://www.distro.tv/) into its own category.
 # Update: 2/03/2020 - NEW CHANNELS ADDED: Two different streams of Dust science-fiction channel added to the Movies Plus category.
