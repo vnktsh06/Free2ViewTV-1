@@ -56,6 +56,7 @@
 # Update: 2/03/2020 - NEW CHANNELS ADDED: Two different streams of Dust science-fiction channel added to the Movies Plus category.
 # Update: 2/04/2020 - NEW CHANNELS ADDED: Added selected channels from Distro TV (http://www.distro.tv/) into its own category.
 # Update: 2/09/2020 - NEW CHANNELS / CATEGORY: Added "WatchYour.TV | TVS" category with all available channels.
+# Update: 2/10/2020 - PLAYLIST MAINTENANCE: Cleaned up and replaced new sources in the "EPG | Live News" category.
 #
 # ************************************************************************************************************************************* 
 
@@ -556,15 +557,13 @@ https://iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316/DomesticOl
 https://cbclivedai5-i.akamaihd.net/hls/live/567235/event2/CBOT/master5.m3u8
 
 #EXTINF:-1 tvg-id="I203.16300.zap2it.com" tvg-name="203" tvg-type="live" group-title="EPG | Live News" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png",EPG | MSNBC
-https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:msnbc.smil/master.m3u8
+http://claro2-pi-dns.herokuapp.com/master.php?id=306&f=.m3u8
 #EXTINF:-1 tvg-id="I201.10142.zap2it.com" tvg-name="201" tvg-type="live" group-title="EPG | Live News" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png",EPG | CNN
 http://ott.artmott.com/CNN/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="I202.16374.zap2it.com" tvg-name="202" tvg-type="live" group-title="EPG | Live News" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png",EPG | Fox News Network
 http://ms-azure-video.gslb.startimestv.com/live/FOX_News_786_500_480x360_191112/playlist.m3u8
 #EXTINF:-1 tvg-id="I205.10139.zap2it.com" tvg-name="205" tvg-type="live" group-title="EPG | Live News" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png",EPG | CNBC
 https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:cnbc.smil/index.m3u8
-#EXTINF:-1 tvg-id="I206.58649.zap2it.com" tvg-name="206" tvg-type="live" group-title="EPG | Live News" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png",EPG | Fox Business
-http://live.fadev.club/live/FOXB/chunks.m3u8
 #EXTINF:-1 tvg-id="I207.14755.zap2it.com" tvg-name="207" tvg-type="live" group-title="EPG | Live News" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png",EPG | Bloomberg US Channel
 https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
 #EXTINF:-1 tvg-id="I209.89542.zap2it.com" tvg-name="209" tvg-type="live" group-title="EPG | Live News" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png",EPG | BBC World News
