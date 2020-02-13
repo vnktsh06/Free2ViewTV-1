@@ -57,6 +57,7 @@
 # Update: 2/04/2020 - NEW CHANNELS ADDED: Added selected channels from Distro TV (http://www.distro.tv/) into its own category.
 # Update: 2/09/2020 - NEW CHANNELS / CATEGORY: Added "WatchYour.TV | TVS" category with all available channels.
 # Update: 2/10/2020 - PLAYLIST MAINTENANCE: Cleaned up and replaced new sources in the "EPG | Live News" category.
+# Update: 2/12/2020 - CHANNEL MAINTENANCE: "WatchYour.TV | TVS" replaced with sources from https://www.ginikousa.com/index.php
 #
 # ************************************************************************************************************************************* 
 
@@ -789,41 +790,41 @@ https://a.jsrdn.com/broadcast/529a360c04/+0000/c.m3u8
 https://a.jsrdn.com/broadcast/22719/+0000/c.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TVS_01_TVS-Network_160x160.png?raw=true" group-title="WatchYour.TV | TVS ",TVS Television Network
-https://nrpus.bozztv.com/36bay2/gusa-tvstn/index-1581251098-now.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-tvstn/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TVS_02_TVS-Classic-Sports_160x160.png?raw=true" group-title="WatchYour.TV | TVS ",TVS Classic Sports
-https://nrpus.bozztv.com/36bay2/gusa-tvs/index-1581251185-now.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-tvs/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TVS_03_TVS-Boxing-Network_160x160.png?raw=true" group-title="WatchYour.TV | TVS ",TVS Boxing Network
-https://nrpus.bozztv.com/36bay2/gusa-tvsboxing/index-1581251348-now.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TVS_04_TVS-Turbo-Network_160x160.png?raw=true" group-title="WatchYour.TV | TVS ",TVS Turbo Network
-https://nrpus.bozztv.com/36bay2/gusa-tvsturbo/index-1581251421-now.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-tvsturbo/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TVS_05_TVS-Tavern-TV_160x160.png?raw=true" group-title="WatchYour.TV | TVS ",TVS Tavern TV
-https://nrpus.bozztv.com/36bay2/gusa-tavern/index-1581278431-now.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-tavern/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TVS_06_TVS-Sports-Network_160x160.png?raw=true" group-title="WatchYour.TV | TVS ",TVS Sports Network
-https://nrpus.bozztv.com/36bay2/gusa-tvssports/index-1581278540-now.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-tvssports/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TVS_07_TVS-Womens-Sports-Network_160x160.png?raw=true" group-title="WatchYour.TV | TVS ",TVS Women's Sports Network
-https://nrpus.bozztv.com/36bay2/gusa-tvswsn/index-1581278621-now.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-tvswsn/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TVS_08_TVS-Classic-Movies_160x160.png?raw=true" group-title="WatchYour.TV | TVS ",TVS Classic Movies
-https://nrpus.bozztv.com/36bay2/gusa-tvsclassicmovies/index-1581278758-now.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-tvsclassicmovies/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TVS_09_TVS-Drive-In-Movie_160x160.png?raw=true" group-title="WatchYour.TV | TVS ",TVS Drive In Movie
-https://nrpus.bozztv.com/36bay2/gusa-tvsdriveinmovie/index-1581107497-now.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-tvsdriveinmovie/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TVS_10_TVS-Hollywood-History_160x160.png?raw=true" group-title="WatchYour.TV | TVS ",TVS Hollywood History
-https://nrpus.bozztv.com/36bay2/gusa-tvshollywoohistory/index-1581278839-now.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-tvshollywoohistory/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TVS_11_TVS-Nostalgia-Movies_160x160.png?raw=true" group-title="WatchYour.TV | TVS ",TVS Nostalgia Movies
-https://nrpus.bozztv.com/36bay2/gusa-tvsNostalgiaMovies/index-1581280724-now.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-tvsNostalgiaMovies/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TVS_12_TVS-Western-Movies_160x160.png?raw=true" group-title="WatchYour.TV | TVS ",TVS Western Movie
-https://nrpus.bozztv.com/36bay2/gusa-tvswesternmovies/index-1581278995-now.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-tvswesternmovies/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TVS_13_TVS-Main-Street_160x160.png?raw=true" group-title="WatchYour.TV | TVS ",TVS Main Street
-https://nrpus.bozztv.com/36bay2/gusa-tvsmainst/index-1581251513-now.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-tvsmainst/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TVS_14_TVS-Frontier_160x160.png?raw=true" group-title="WatchYour.TV | TVS ",TVS Frontier
-https://nrpus.bozztv.com/36bay2/gusa-tvsfrontier/index-1581251606-now.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-tvsfrontier/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TVS_15_TVS-Nostalgia_160x160.png?raw=true" group-title="WatchYour.TV | TVS ",TVS Nostalgia
-https://nrpus.bozztv.com/36bay2/gusa-nostalgia/index-1581251690-now.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-nostalgia/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TVS_16_TVS-Flashback-Network_160x160.png?raw=true" group-title="WatchYour.TV | TVS ",TVS Flashback Network
-https://nrpus.bozztv.com/36bay2/gusa-TVSFlashback/index-1581251785-now.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-TVSFlashback/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TVS_17_TVS-Family-Channel_160x160.png?raw=true" group-title="WatchYour.TV | TVS ",TVS Family Channel
-https://nrpus.bozztv.com/36bay2/gusa-TVSFamilyChannel/index-1581251907-now.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TVS_17_TVS-Family-Channel_160x160.png?raw=true" group-title="WatchYour.TV | TVS ",TVS Hi-Tops
-https://nrpus.bozztv.com/36bay2/gusa-hitops/index-1581251989-now.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-TVSFamilyChannel/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TVS_18_TVS-Hi-Tops_160x160.png?raw=true" group-title="WatchYour.TV | TVS ",TVS Hi Tops
+https://nrpus.bozztv.com/36bay2/gusa-hitops/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/BumblebeeTV_Generic.png?raw=true" group-title="Bumblebee TV",popcornflix Action Movies
 https://stitcher.unreel.me/live/5d4b21643f4d602ba521b06c/playlist.m3u8
