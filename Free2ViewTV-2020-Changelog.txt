@@ -2,6 +2,7 @@
 #
 # The Free2View Master Playlist Project! A Free and Legal IPTV List curated by The Frugal Streamer
 # https://thefrugalstreamer.blogspot.com/p/free2viewtvpage1.html
+# Contact us: Free2ViewTVCanada@gmail.com
 #
 # Note: To the best of my knowledge, all of these streams are legal streams, either over-the-air or live-streamed through unscrambled
 # links over the internet. All links are not guaranteed to be stable, but tested before being added to this list. I do not 
@@ -23,6 +24,8 @@
 #
 # Changelog (News and Updates): (oldest at the end of this document, newest at the beginning of this document)
 #
+# Update: 2/21/2020 - PLAYLIST MAINTENANCE: Removed dupe channels from CBSi cat., renamed as CBS NEWS to accommodate new channels.
+# Update: 2/21/2020 - NEW CHANNELS ADDED: Added CBS News Denver to CBS NEWS. Added TVA (Geo) to CANADIAN TV.
 # Update: 2/15/2020 - NEW CHANNEL ADDED: Added D5 TV, a French entertainment channel, into the International TV category.
 # Update: 2/14/2020 - NEW CHANNELS / CATEGORY: Added new "Redbox Free Live TV" with Redbox exclusive channels.
 # Update: 2/14/2020 - CHANNEL MAINTENANCE: Cleaned up / Updated PLUTO TV and STIRR TV channel streams.
