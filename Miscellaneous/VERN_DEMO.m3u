@@ -63,6 +63,7 @@
 # Update: 2/15/2020 - NEW CHANNEL ADDED: Added D5 TV, a French entertainment channel, into the International TV category.
 # Update: 2/21/2020 - PLAYLIST MAINTENANCE: Removed dupe channels from CBSi cat., renamed as CBS NEWS to accommodate new channels.
 # Update: 2/21/2020 - NEW CHANNELS ADDED: Added CBS News Denver to CBS NEWS. Added TVA (Geo) to CANADIAN TV.
+# Update: 2/23/2020 - NEW CHANNELS ADDED: Stadium Channel in HD in SPORTS category.
 #
 # ************************************************************************************************************************************* 
 
@@ -168,8 +169,10 @@ http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/France24.png" group-title="News & Weather",France 24 (FR)
 http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Stadium.png" group-title="Sports",Stadium Live
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Stadium.png" group-title="Sports",Stadium | Live SD
 https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Stadium.png" group-title="Sports",Stadium | Live HD
+https://bcovlive-a.akamaihd.net/6b4f1a5aed2b46d6a139e3cb83f8dc42/us-east-1/5994000126001/8036529875f74c81b5f50851bffbc421/playlist_ssaiM.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/MLBtv.png" group-title="Sports",MLB Network
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/OlympicChannel.png" group-title="Sports",Olympic Channel USA
