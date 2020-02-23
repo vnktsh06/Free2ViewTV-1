@@ -1105,13 +1105,13 @@ https://github.com/geonsey/Free2ViewTV/releases/download/3/Fireplace-and-Chill_2
 
 
 #EXTINF:-1 tvg-id="MSNBC" tvg-name="MSNBC" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|TEST| MSNBC
-http://ok2.se:8000/fe6cF7UZ2KGeV67LW/969fF9U7l0l1Il9aP/365
+http://ok2.se:8000/075dF7UfL9D8haBfh/efedF9UEO5XGHHOzf/365
 
 #EXTINF:-1 tvg-id="TRAVEL" tvg-name="TRAVEL" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|TEST| Tavel Channel
-http://ok2.se:8000/fe6cF7UZ2KGeV67LW/969fF9U7l0l1Il9aP/349
+http://ok2.se:8000/075dF7UfL9D8haBfh/efedF9UEO5XGHHOzf/349
 
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|TEST| AMC 
-http://ok2.se:8000/fe6cF7UZ2KGeV67LW/969fF9U7l0l1Il9aP/334
+http://ok2.se:8000/075dF7UfL9D8haBfh/efedF9UEO5XGHHOzf/334
 
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|TEST| CNN
 http://live.fadev.club/live/CNN/playlist.m3u8
