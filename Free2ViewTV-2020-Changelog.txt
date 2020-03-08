@@ -13,7 +13,6 @@
 # Giniko TV: https://www.ginikousa.com/index.php and http://www.giniko.com/
 # Distro TV: https://www.distro.tv/ (channels in playlist designated with *)
 # Bumblebee TV: https://www.bumblebee.tv/
-# Channels Powered By Xumo: The Asylum Movie Channel; The FilmRise Group.
 #
 # Download the complete Changelog (News and Updates):
 # https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/Free2ViewTV-2020-Changelog.txt
@@ -24,6 +23,8 @@
 #
 # Changelog (News and Updates): (oldest at the end of this document, newest at the beginning of this document)
 #
+# Update: 3/07/2020 - NEW CHANNELS ADDED: By request, added three Canadian Public Affairs Channels in CANADIAN TV.
+# Update: 3/07/2020 - NEW CHANNELS ADDED: CBS News | CBSN Pittsburgh. Also, the entire DISTRO TV channel line-up.
 # Update: 3/01/2020 - CHANNELS REMOVED: Removed the LIVE NEWS category. Unable to locate replacement sources for a while.
 # Update: 2/27/2020 - CHANNEL MAINTENANCE: Cleaned up some Pluto TV channels, deleted some dead links, replaced others with new links.
 # Update: 2/23/2020 - NEW CHANNELS ADDED: Stadium Channel in HD in SPORTS category. New channels added in Distro TV category.
