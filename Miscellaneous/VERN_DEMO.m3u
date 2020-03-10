@@ -978,6 +978,16 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Francophonie24_275x275.png?raw=true" group-title="Francophone TV",France | Francophonie24
 https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Generic-Test.png?raw=true" group-title="Francophone TV",France | 01-TV
+https://stream-01.nyc.dailymotion.com/sec(7zHXJsrpGnW1sC_CkKIaliOTAZv3TstadzZ2FRelHeo)/dm/3/x7pctg0/s/live-3.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Generic-Test.png?raw=true" group-title="Francophone TV",France | BFM TV.
+https://bcovlive-a.akamaihd.net/1992d859ea9c46a4a5108ec10e1385b5/eu-central-1/876450610001/7b4151e1e2434a7cacdb9936db7a7910/playlist_ssaiM.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Generic-Test.png?raw=true" group-title="Francophone TV",France | BFM Business
+https://bfmbusinesshds-lh.akamaihd.net/i/BFMBUSINESS_KB@664128/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Generic-Test.png?raw=true" group-title="Francophone TV",France | BFM TV. Lyon
+https://bfmlyon-lh.akamaihd.net/i/BFMLYON_KBS@797041/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Generic-Test.png?raw=true" group-title="Francophone TV",France GEO | BFM TV. Paris
+https://bcovlive-a.akamaihd.net/1992d859ea9c46a4a5108ec10e1385b5/eu-central-1/876450610001/7b4151e1e2434a7cacdb9936db7a7910/playlist_ssaiM.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/D5TV_246x246.png?raw=true" group-title="International TV",France | D5 TV
 https://tv.xksgroup.com/d5tv/hd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-RDI.png" group-title="Francophone TV",Canada | ICI RDI
