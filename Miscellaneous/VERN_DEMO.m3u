@@ -67,7 +67,7 @@
 # Update: 3/01/2020 - CHANNELS REMOVED: Removed the LIVE NEWS category. Unable to locate replacement sources for a while.
 # Update: 3/07/2020 - NEW CHANNELS ADDED: By request, added three Canadian Public Affairs Channels in CANADIAN TV.
 # Update: 3/07/2020 - NEW CHANNELS ADDED: CBS News | CBSN Pittsburgh. Also, the entire DISTRO TV channel line-up.
-# Update: 3/09/2020 - NEW CHANNEL ADDED: Retro TV - https://www.myretrotv.com/watch - https://www.myretrotv.com/schedules
+# Update: 3/09/2020 - PLAYLIST MAINTENANCE: Added new FRANCOPHONE TV category, added/relocated some French-language channels.
 #
 # ************************************************************************************************************************************* 
 
@@ -988,7 +988,7 @@ https://bfmbusinesshds-lh.akamaihd.net/i/BFMBUSINESS_KB@664128/master.m3u8
 https://bfmlyon-lh.akamaihd.net/i/BFMLYON_KBS@797041/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Generic-Test.png?raw=true" group-title="Francophone TV",France GEO | BFM TV. Paris
 https://bcovlive-a.akamaihd.net/1992d859ea9c46a4a5108ec10e1385b5/eu-central-1/876450610001/7b4151e1e2434a7cacdb9936db7a7910/playlist_ssaiM.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/D5TV_246x246.png?raw=true" group-title="International TV",France | D5 TV
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/D5TV_246x246.png?raw=true" group-title="Francophone TV",France | D5 TV
 https://tv.xksgroup.com/d5tv/hd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-RDI.png" group-title="Francophone TV",Canada | ICI RDI
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
