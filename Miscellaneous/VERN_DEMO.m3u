@@ -90,6 +90,8 @@ http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp
 https://bozztv.com/veset1/720pHi/playlist_720pHi.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/FilmDetective_400x400.png" group-title="Entertainment",The Film Detective
 https://distro.akamaized.net/indexfd_1280x720.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ClassicArtsShowcase.png" group-title="Entertainment",Classic Arts Showcase
+https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/DoveChannel.png" group-title="Entertainment",Dove Channel
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ConTV_410x410.png" group-title="Entertainment",CONtv Channel
@@ -102,10 +104,6 @@ https://cbsta49f-dabl68fc.global.ssl.fastly.net/out/v1/dfecb53fbf434b6bbbfd91d8a
 https://crownmediaingesttest.akamaized.net/hls/live/567739/cm/master.m3u8?hdnts=exp=3085179895~acl=/*~hmac=0eb6c6e77a672ed1f4816b69d2c74a057302f23f7b74ec74070b94f6919cb935
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Hallmark-M-M_800x800.png?raw=true" group-title="Entertainment",Hallmark Movies & Mysteries
 https://crownmediaingesttest.akamaized.net/hls/live/567739/mm/master.m3u8?hdnts=exp=3085179895~acl=/*~hmac=0eb6c6e77a672ed1f4816b69d2c74a057302f23f7b74ec74070b94f6919cb935
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ClassicArtsShowcase.png" group-title="Entertainment",Classic Arts Showcase
-https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/takt1TV_284x284.png?raw=true" group-title="Entertainment",takt1 TV
-https://sdn-global-streaming-cache-3qsdn.akamaized.net/stream/5837/files/19/05/1211034/5837-fJ2nckwbxYG9tvN.ism/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/MGM-Sci-Fi_203x203.png?raw=true" group-title="Movies Plus",MGM Sci-Fi Channel
 https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/playlist.m3u8
@@ -425,6 +423,8 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/680602/1242843915001_1/master.m3
 https://bcsecurelivehls-i.akamaihd.net/hls/live/680604/1242843915001_3/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CPAC_360x360.png?raw=true" group-title="Canadian TV",CPAC | Floor
 https://bcsecurelivehls-i.akamaihd.net/hls/live/680603/1242843915001_2/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ANDQ_603x603.png?raw=true" group-title="Canadian TV",Assemblee Nationale du Quebec
+http://diffusionm4.assnat.qc.ca/canal10/250.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/EWTN_450x450.png?raw=true" group-title="Canadian TV",EWTN Canada (Faith)
 http://dyo5cp96eopax.cloudfront.net/p/CANE_760x432_1200k.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AmazingDiscoveries_430x430.png?raw=true" group-title="Canadian TV",Amazing Discoveries (Faith)
@@ -1006,6 +1006,8 @@ https://teleqmmd.mmdlive.lldns.net/teleqmmd/f386e3b206814e1f8c8c1c71c0f8e748/chu
 https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CPAC_360x360.png?raw=true" group-title="Francophone TV",Canada | CPAC
 https://bcsecurelivehls-i.akamaihd.net/hls/live/680604/1242843915001_3/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ANDQ_603x603.png?raw=true" group-title="Francophone TV",Canada | Assemblee Nationale
+http://diffusionm4.assnat.qc.ca/canal10/250.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Hallmark_Xmas_261x261.png?raw=true" group-title="Christmas Collection",Hallmark Channel Christmas
 https://github.com/geonsey/Free2ViewTV/blob/master/videos/placeholders/OOPS_Out-Of-Service_Xmas-1.mp4?raw=true
