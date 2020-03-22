@@ -116,14 +116,16 @@ https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d556
 https://bein-xtra-roku.amagi.tv/ssai/amagi_hls_data_beinAAAAA-beinxtra/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/RedBullTV_512x512.png" group-title="Sports",Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/VSiN_400x400.png?raw=true" group-title="Sports",VSiN (Sports Betting)
-https://api.new.livestream.com/accounts/22774234/events/6897936/live.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/SportsGrid_512x512.png?raw=true" group-title="Sports",SportsGrid Network
 https://grid-xumo.akamaized.net/SPGD.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NBCGolf.png" group-title="Sports",Golf Channel (Geo-USA)
 http://tvegolf-i.akamaihd.net/hls/live/218225/golfx/1896k/prog.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBSSportsHQ_290x290.png" group-title="Sports",CBS Sports HQ (Geo-USA)
 https://sportshq-mediapackage-cedexis.cbsaavideo.com/out/v1/be87d7783e5c4270a5830ea5d1164850/desktop.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/FTFNext_576x576.png?raw=true" group-title="Sports",FTF Next | FTF (Geo-USA)
+https://1622862207.rsc.cdn77.org/FTF/FTF_SCTE_B.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/FTFNext_576x576.png?raw=true" group-title="Sports",FTF Next | LSN (Geo-USA)
+https://snagfilms-lh.akamaihd.net/i/Laxsportsnetwork_1@322790/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/TWiT.png" group-title="Special Interest",TWiT (Tech News)
 http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
@@ -343,6 +345,8 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/680602/1242843915001_1/master.m3
 https://bcsecurelivehls-i.akamaihd.net/hls/live/680604/1242843915001_3/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CPAC_360x360.png?raw=true" group-title="Canadian TV",CPAC | Floor
 https://bcsecurelivehls-i.akamaihd.net/hls/live/680603/1242843915001_2/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ANDQ_603x603.png?raw=true" group-title="Canadian TV",Assemblee Nationale du QC
+http://diffusionm4.assnat.qc.ca/canal10/250.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/EWTN_450x450.png?raw=true" group-title="Canadian TV",EWTN Canada (Faith)
 http://dyo5cp96eopax.cloudfront.net/p/CANE_760x432_1200k.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AmazingDiscoveries_430x430.png?raw=true" group-title="Canadian TV",Amazing Discoveries (Faith)
@@ -587,6 +591,9 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/55a6a3275616b6240c
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/PlutoTV_500x500.png" group-title="Pluto TV | TV Greats",Pluto | 192 Classic Toons
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/562ea53fa9060c5a7d463e74/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=66.0.3515.72&includeExtendedEvents=false&sid=bda0626f-c311-457b-937e-5d81d2fa8911&userId=&serverSideAds=true
 
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PlutoTV_NewLogo_380x380.png?raw=true" group-title="Pluto TV | TV Greats",Pluto | 308 Spike TV's COPS
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e1f7e089f23700009d66303/master.m3u8?appName=web&appVersion=5.0.3-5a69f0421bfaa21acf57c7f54f9914128359c64e&deviceDNT=0&deviceId=bffaf7a4-dbd6-4fd1-932f-6df9229b9646&deviceMake=p&deviceModel=p&deviceType=web&deviceVersion=73.0&sid=2132596c-cc5b-4ade-9176-ff22db50c538
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/PlutoTV_500x500.png" group-title="Pluto TV | TV Greats",Pluto | 310 Addams Family
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d81607ab737153ea3c1c80e/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=bbd0c6b7-7b9a-425e-b152-2c18ca181523&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
 
@@ -601,6 +608,9 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5616f9c0ada51f8004
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/PlutoTV_500x500.png" group-title="Pluto TV | TV Greats",Pluto | 365 This Old House
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d51e791b7dba3b2ae990ab2/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=66.0.3515.72&includeExtendedEvents=false&sid=dc57b957-bb62-4f17-99f4-4ad596370a2b&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PlutoTV_NewLogo_380x380.png?raw=true" group-title="Pluto TV | TV Greats",Pluto | 373 McLeod's Daughters
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df976ef467dfa00091c86b7/master.m3u8?appName=web&appVersion=5.0.3-5a69f0421bfaa21acf57c7f54f9914128359c64e&deviceDNT=0&deviceId=bffaf7a4-dbd6-4fd1-932f-6df9229b9646&deviceMake=P&deviceModel=P&deviceType=web&deviceVersion=73.0&sid=8217f97a-139c-42ec-814e-31c8c1e6c56b
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/PlutoTV_500x500.png" group-title="Pluto TV | TV Greats",Pluto | 420 TV Land Sitcoms
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c2d64ffbdf11b71587184b8/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=66.0.3515.72&includeExtendedEvents=false&sid=27e3faa0-183f-4eeb-a242-ae9fcec9553b&userId=&serverSideAds=true
@@ -672,7 +682,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59120e45877eeb3760b
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56403d822d2719107d948cb9/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=f1717ff4-abf4-4022-91a2-609e999d8933&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.7308&deviceLon=-73.9975&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/PlutoTV_500x500.png" group-title="Pluto TV | Pluto+",Pluto | 233 NBC News Now
-https://service-stitcher.clusters.pluto.tv/proxy/83fd15bc-80bd-4466-8b60-d6f95c67d858/5df97894467dfa00091c873c/master.m3u8?advertisingId=&appName=web&appVersion=5.0.3-5a69f0421bfaa21acf57c7f54f9914128359c64e&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=40.7930&deviceLon=-74.0247&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=67.0.3575.53&includeExtendedEvents=false&sid=678a8232-c8c3-4092-a76c-9d79be4e32b2&userId=&serverSideAds=true&startingOffset=0
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df97894467dfa00091c873c/master.m3u8?appName=web&appVersion=5.0.3-5a69f0421bfaa21acf57c7f54f9914128359c64e&deviceDNT=0&deviceId=bffaf7a4-dbd6-4fd1-932f-6df9229b9646&deviceMake=P&deviceModel=P&deviceType=web&deviceVersion=73.0&sid=a49d9343-33a0-4f7b-81cf-6039f7b4d21c
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/PlutoTV_500x500.png" group-title="Pluto TV | Pluto+",Pluto | 455 Pluto TV Sports
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56340779a738201b4ccfeac9/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
@@ -917,6 +927,8 @@ https://teleqmmd.mmdlive.lldns.net/teleqmmd/f386e3b206814e1f8c8c1c71c0f8e748/chu
 https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CPAC_360x360.png?raw=true" group-title="Francophone TV",Canada | CPAC
 https://bcsecurelivehls-i.akamaihd.net/hls/live/680604/1242843915001_3/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ANDQ_603x603.png?raw=true" group-title="Francophone TV",Canada | Assemblee Nationale
+http://diffusionm4.assnat.qc.ca/canal10/250.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Hallmark_Xmas_261x261.png?raw=true" group-title="Christmas Collection",Hallmark Channel Christmas
 https://github.com/geonsey/Free2ViewTV/blob/master/videos/placeholders/OOPS_Out-Of-Service_Xmas-1.mp4?raw=true

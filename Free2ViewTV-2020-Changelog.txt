@@ -23,8 +23,12 @@
 #
 # Changelog (News and Updates): (oldest at the end of this document, newest at the beginning of this document)
 #
-# Update: 3/09/2020 - PLAYLIST MAINTENANCE: Added new FRANCOPHONE TV category, added/relocated some French-language channels.
+# Update: 3/21/2020 - NEW CHANNEL ADDED: Added Assemblee Nationale du Quebec in Canadian TV and Francophone TV categories.
+# Update: 3/21/2020 - NEW CHANNELS ADDED: From https://www.ftfnext.com, added 2 new Geo-USA sports channels.
+# Update: 3/21/2020 - PLAYLIST MAINTENANCE: VSiN has gone behind a pay-wall and no longer free to the public; it has been removed.
+# Update: 3/21/2020 - NEW CHANNELS ADDED: From Pluto TV, added 308 Spike TV's COPS, 373 McLeod's Daughters, 233 NBC News Now.
 # Update: 3/15/2020 - PLAYLIST MAINTENANCE: Updated Pluto TV channels.
+# Update: 3/09/2020 - PLAYLIST MAINTENANCE: Added new FRANCOPHONE TV category, added/relocated some French-language channels.
 # Update: 3/07/2020 - NEW CHANNELS ADDED: By request, added three Canadian Public Affairs Channels in CANADIAN TV.
 # Update: 3/07/2020 - NEW CHANNELS ADDED: CBS News | CBSN Pittsburgh. Also, the entire DISTRO TV channel line-up.
 # Update: 3/01/2020 - CHANNELS REMOVED: Removed the LIVE NEWS category. Unable to locate replacement sources for a while.
