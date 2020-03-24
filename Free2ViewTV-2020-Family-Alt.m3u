@@ -89,6 +89,8 @@ https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 https://broadcaster1.prolivestream.net:8083/onair/newsnetweb/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NewsNet.png" group-title="News & Weather",News Net (HD)
 https://bozztv.com/36bay2/gin-newsnet/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBCNews.png" group-title="News & Weather",CBC News Canada
+https://cbcnewshd-f.akamaihd.net/i/cbcnews_30@304030/index_2500_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/SkyNews.png" group-title="News & Weather",Sky News (Source 1)
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/SkyNews.png" group-title="News & Weather",Sky News (Source 2)
@@ -139,12 +141,8 @@ http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/ch
 https://pcva4.manifest.auditude.com/auditude/variant/thisoldhouse_2/7b1d6383-3aa6-4601-b8cd-dff13b8b7965/aHR0cHM6Ly90aGlzb2xkaG91c2UtMi5yb2t1Lnd1cmwuY29tL21hbmlmZXN0L3BsYXlsaXN0Lm0zdTg.m3u8?pttrackingversion=v2&u=19287a324825cc5aacb7e46183c72324&pttrackingmode=sstm&g=1000010&z=268729&k=wurl_channel=318
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheDesignNetwork_290x290.png?raw=true" group-title="Special Interest",The Design Network
 https://pcva4.manifest.auditude.com/auditude/variant/thedesignnetwork_tdn_2/bc043d28-c655-4bf9-a8ef-604d2906c7aa/aHR0cHM6Ly90aGVkZXNpZ25uZXR3b3JrLXRkbi0yLnJva3Uud3VybC5jb20vbWFuaWZlc3QvcGxheWxpc3QubTN1OA.m3u8?pttrackingversion=v2&u=19287a324825cc5aacb7e46183c72324&pttrackingmode=sstm&g=1000010&z=268729&k=wurl_channel=323
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/JUCEtv.png" group-title="Special Interest",JUCE TV (Youth)
-https://api.new.livestream.com/accounts/27460990/events/8266912/live.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheAFVFamilyChannel_203x203.png?raw=true" group-title="Special Interest",AFV Family (Viral Videos)
 https://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/MusicChoice.png" group-title="Special Interest",Music Choice Play (Music)
-http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/RelaxingGuitar_350x350.png" group-title="Special Interest",Relaxing Guitar Music
 https://bozztv.com/36bay2/gin/giniko_guitarrelax_2000kb_36bay2/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/5-Min-Crafts_340x340.png" group-title="Special Interest",5m Kitchen Hacks
@@ -325,6 +323,8 @@ https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
 https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master_5000.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TVA_540x540.png?raw=true" group-title="Canadian TV",TVA (Geo)
 https://tvalive.akamaized.net/hls/live/2012413/tva01/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/LCN_640x640.png?raw=true" group-title="Canadian TV",Le Canal Nouvelles [TEMP]
+https://tvalcn.akamaized.net/hls/live/2013847/tvalcn01/med_720p/med_720p.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/TeleQuebecCA.png" group-title="Canadian TV",Tele-Quebec
 https://teleqmmd.mmdlive.lldns.net/teleqmmd/f386e3b206814e1f8c8c1c71c0f8e748/chunklist_b2592000.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/TeleV_1200x1200.png" group-title="Canadian TV",Tele-V
@@ -1050,6 +1050,7 @@ https://github.com/geonsey/Free2ViewTV/blob/master/videos/Free2ViewTV_BuyMeACoff
 https://github.com/geonsey/Free2ViewTV/releases/download/2/Roku_City-Stroll_Skyline_720p_16m43s.mp4
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AboutUS_392x392.png?raw=true" group-title="About Us + Extras",Roku Movie Magic Screensaver
 https://github.com/geonsey/Free2ViewTV/releases/download/1/Roku_City-Stroll_Movie-Magic_720p_16m43s.mp4
+
 
 
 

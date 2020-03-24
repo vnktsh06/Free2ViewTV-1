@@ -23,6 +23,9 @@
 #
 # Changelog (News and Updates): (oldest at the end of this document, newest at the beginning of this document)
 #
+# Update: 3/24/2020 - TEMPORARY CHANNEL ADDED: French-Canadian news channel, LCN, has been unlocked for 2 weeks; added here for now.
+# Update: 3/23/2020 - NEW CHANNELS ADDED: Added alternate link for CBC News Canada in NEWS & WEATHER category.
+# Update: 3/22/2020 - PLAYLIST MAINTENANCE: Removed dead streams: JUCE TV; MusicChoice Play.
 # Update: 3/21/2020 - NEW CHANNEL ADDED: Added Assemblee Nationale du Quebec in Canadian TV and Francophone TV categories.
 # Update: 3/21/2020 - NEW CHANNELS ADDED: From https://www.ftfnext.com, added 2 new Geo-USA sports channels.
 # Update: 3/21/2020 - PLAYLIST MAINTENANCE: VSiN has gone behind a pay-wall and no longer free to the public; it has been removed.
