@@ -23,6 +23,9 @@
 #
 # Changelog (News and Updates): (oldest at the end of this document, newest at the beginning of this document)
 #
+# Update: 3/28/2020 - PLAYLIST MAINTENANCE: Removed MLB Network, Sky News UK; (dead links). Updated USA FREE OTA TV links.
+# Update: 3/28/2020 - NEW CHANNEL ADDED: World Harvest Television: https://familybroadcastingcorporation.com/wht/watch-live/
+# Update: 3/25/2020 - NEW CHANNELS ADDED: One Day At A Time channel from Pluto TV; COVID-19 News channel from Stirr TV.
 # Update: 3/24/2020 - TEMPORARY CHANNEL ADDED: French-Canadian news channel, LCN, has been unlocked for 2 weeks; added here for now.
 # Update: 3/23/2020 - NEW CHANNELS ADDED: Added alternate link for CBC News Canada in NEWS & WEATHER category.
 # Update: 3/22/2020 - PLAYLIST MAINTENANCE: Removed dead streams: JUCE TV; MusicChoice Play.
