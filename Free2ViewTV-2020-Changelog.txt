@@ -23,6 +23,9 @@
 #
 # Changelog (News and Updates): (oldest at the end of this document, newest at the beginning of this document)
 #
+# Update: 4/05/2020 - NEW CHANNELS ADDED: Updated additional channels added this week from Distro TV: https://www.distro.tv/
+# Update: 4/04/2020 - NEW CHANNELS ADDED: Added 5 more channels from https://www.watchyour.tv/channels.php
+# Update: 4/04/2020 - NEW CHANNELS ADDED: By Request, added Channel 7 from Australia: https://7plus.com.au/live-tv
 # Update: 3/28/2020 - PLAYLIST MAINTENANCE: Removed MLB Network, Sky News UK; (dead links). Updated USA FREE OTA TV links.
 # Update: 3/28/2020 - NEW CHANNEL ADDED: World Harvest Television: https://familybroadcastingcorporation.com/wht/watch-live/
 # Update: 3/25/2020 - NEW CHANNELS ADDED: One Day At A Time channel from Pluto TV; COVID-19 News channel from Stirr TV.
