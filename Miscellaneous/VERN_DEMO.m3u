@@ -79,6 +79,9 @@
 # Update: 3/25/2020 - NEW CHANNELS ADDED: One Day At A Time channel from Pluto TV; COVID-19 News channel from Stirr TV.
 # Update: 3/28/2020 - PLAYLIST MAINTENANCE: Removed MLB Network, Sky News UK; (dead links). Updated USA FREE OTA TV links.
 # Update: 3/28/2020 - NEW CHANNEL ADDED: World Harvest Television: https://familybroadcastingcorporation.com/wht/watch-live/
+# Update: 4/04/2020 - NEW CHANNELS ADDED: Added 5 more channels from https://www.watchyour.tv/channels.php
+# Update: 4/04/2020 - NEW CHANNELS ADDED: By Request, added Channel 7 from Australia: https://7plus.com.au/live-tv
+# Update: 4/05/2020 - NEW CHANNELS ADDED: Updated additional channels added this week from Distro TV: https://www.distro.tv/
 #
 # ************************************************************************************************************************************* 
 
@@ -822,10 +825,10 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxkabillion/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" group-title="Redbox Free Live TV",Redbox | Battery Pop
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
 
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",Distro TV | Young Hollywood
+https://a.jsrdn.com/broadcast/e0f99ab19c/+0000/c.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",Distro TV | People TV
 https://a.jsrdn.com/broadcast/b5d2k0x/c.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",Distro TV | Electric Now
-https://a.jsrdn.com/broadcast/vf93fRSk7/c.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",Distro TV | Pop Star 
 https://a.jsrdn.com/broadcast/wAlxn4cs/c.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",Distro TV | Latido Music
@@ -834,10 +837,12 @@ https://a.jsrdn.com/broadcast/g8sfF32l0/c.m3u8
 https://a.jsrdn.com/broadcast/4df1bf71c1/+0000/c.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",Distro TV | Comedy Dynamic
 https://a.jsrdn.com/broadcast/5Gt2c8lsw/c.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",Distro TV | Drybar
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",Distro TV | Dry Bar Comedy
 https://a.jsrdn.com/broadcast/e29bdbbbf3/+0000/c.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",Distro TV | Studio C
 https://a.jsrdn.com/broadcast/d5b46/+0000/c.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",Distro TV | Global Fashion
+https://a.jsrdn.com/broadcast/33ee2rtf5/c.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",Distro TV | Saveur
 https://a.jsrdn.com/broadcast/060753d37e/+0000/c.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",Distro TV | Gusto
@@ -852,16 +857,28 @@ https://a.jsrdn.com/broadcast/529a360c04/+0000/c.m3u8
 https://a.jsrdn.com/broadcast/256ccf645e/+0000/c.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",Distro TV | Brut.
 https://a.jsrdn.com/broadcast/baac3e801e/+0000/high/c.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",Distro TV | NewsMax TV
+https://nmxdistro.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",Distro TV | Real Vision
+https://a.jsrdn.com/broadcast/2a755012a8/+0000/c.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",Distro TV | The First 
 https://a.jsrdn.com/broadcast/h3h4gsui4/c.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",Distro TV | Dove Channel
+https://a.jsrdn.com/broadcast/76yg4erz/c.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",Distro TV | CONtv
+https://a.jsrdn.com/broadcast/44hgsuu7/c.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",Distro TV | The Film Detective
 https://a.jsrdn.com/broadcast/9Kl3dcb5l/c.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",Distro TV | Electric Now
+https://a.jsrdn.com/broadcast/vf93fRSk7/c.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",Distro TV | Bambu
 https://a.jsrdn.com/broadcast/g44kshi9X/c.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",Distro TV | Movie Kingdom
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",Distro TV | Monarch Channel
 https://a.jsrdn.com/broadcast/0c9a09c94c/+0000/c.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",Distro TV | MMA Junkie
+https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/c.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",Distro TV | FTF (For The Fans)
 https://a.jsrdn.com/broadcast/432fS3OX/c.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",Distro TV | Fighting Spirit
@@ -1010,6 +1027,10 @@ https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3
 https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AU-NZ_FoxSportsNews.png?raw=true" group-title="Australian TV",Fox Sports News AU
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Channel7AU_440x440.png?raw=true" group-title="Australian TV",Ch. 7 Adelaide (Geo-AU) 
+https://tbs.cdn.7livecloud.io/hls/live/ADE1/master_1500.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Channel7AU_440x440.png?raw=true" group-title="Australian TV",Ch. 7 Sydney (Geo-AU)
+https://npc.cdn.7livecloud.io/hls/live/SYD1/master_1500.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/France24.png" group-title="Francophone TV",France | France 24
 http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8
