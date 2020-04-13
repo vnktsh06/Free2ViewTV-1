@@ -602,7 +602,7 @@ https://iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316/DomesticOl
 #EXTINF:-1 tvg-id="I4.10097.zap2it.com" tvg-name="4" tvg-type="live" group-title="EPG | Free2View TV" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBCtv.png",EPG | CBC Ottawa (GEO-CA)
 https://cbclivedai5-i.akamaihd.net/hls/live/567235/event2/CBOT/master5.m3u8
 
-#EXTINF:-1 tvg-id="I56.2.50829.zap2it.com" tvg-name="56.2 WDKYDT2" tvg-type="live" group-title="EPG | Free2View TV" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ChargeTV.png",EPG 40502 | Charge!
+#EXTINF:-1 tvg-id="I56.2.50829.zap2it.com" tvg-name="56.2" tvg-type="live" group-title="EPG | Free2View TV" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ChargeTV.png",EPG 40502 | Charge!
 http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Yellow_410x410.png?raw=true" group-title="Stirr TV | Sampler",Stirr | Stirr City
