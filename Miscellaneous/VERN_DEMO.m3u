@@ -90,6 +90,8 @@
 # Update: 4/18/2020 - PLAYLIST MAINTENANCE: Restored WZTS (Cozi TV), live stream is back, website page to link is not.
 # Update: 4/18/2020 - EPG MAINTENANCE: https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/EPG/F2VTV_MERGE2.xml
 #                     ... this new link combines all existing EPG sources, so use this now for EPG listings.
+# Update: 4/18/2020 - CHANNEL MAINTENANCE: Updated Sky News in News and Weather with the official Pluto TV live stream source.
+# Update: 4/18/2020 - NEW CHANNELS ADDED: Added additional Pluto TV channels.
 #
 # ************************************************************************************************************************************* 
 
@@ -196,8 +198,8 @@ https://broadcaster1.prolivestream.net:8083/onair/newsnetweb/playlist.m3u8
 https://bozztv.com/36bay2/gin-newsnet/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBCNews.png" group-title="News & Weather",CBC News Canada
 https://cbcnewshd-f.akamaihd.net/i/cbcnews_30@304030/index_2500_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/SkyNews.png?raw=true" group-title="News & Weather",Sky News
-http://d59pscns5ugc8.cloudfront.net/cdhls/skynewsamericas/1013/live/06.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/SkyNews.png?raw=true" group-title="News & Weather",Sky News (Live | Pluto TV)
+https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/France24.png" group-title="News & Weather",France 24 (ENG)
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/France24.png" group-title="News & Weather",France 24 (FR)
@@ -799,6 +801,9 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/591105034c1806b474
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/PlutoTV_500x500.png" group-title="Pluto TV | Movies",Pluto | 98 Gravitas Movies
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59120e45877eeb3760b3d9da/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=f8d7bad7-8cca-4eff-9802-93fabfb25158&deviceId=f326520d-7599-402b-adc7-3b65e7a93a7d&deviceVersion=65.0.3467.78&appVersion=2.9.2-54d16e0b6418617f090cff53a5854097e137060f&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/PlutoTV_500x500.png" group-title="Pluto TV | Pluto+",Pluto | 108 Together At Home
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e94fc9c4598d00007afecee/master.m3u8?advertisingId=&appName=web&appVersion=5.2.4-1efe6efd2b014a3e84fe7ff6f89942eb7c94049f&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=f326520d-7599-402b-adc7-3b65e7a93a7d&deviceLat=40.7145&deviceLon=-74.0029&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=67.0.3575.137&includeExtendedEvents=false&marketingRegion=US&sid=4387d70f-500d-407a-a688-084a24ab19ee&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/PlutoTV_500x500.png" group-title="Pluto TV | Pluto+",Pluto | 232 NBC News
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56403d822d2719107d948cb9/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=f1717ff4-abf4-4022-91a2-609e999d8933&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.7308&deviceLon=-73.9975&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
