@@ -93,6 +93,7 @@
 # Update: 4/18/2020 - CHANNEL MAINTENANCE: Updated Sky News in News and Weather with the official Pluto TV live stream source.
 # Update: 4/18/2020 - NEW CHANNELS ADDED: Added additional Pluto TV channels.
 # Update: 4/20/2020 - PLAYLIST MAINTENANCE: Minor re-organizing of channels and categories to give a better flow to the playlist.
+# Update: 4/22/2020 - NEW CHANNELS ADDED: Added new CBS News Chicago. All new channels launched on DistroTV have been added.
 #
 # ************************************************************************************************************************************* 
 
@@ -648,7 +649,7 @@ https://a.jsrdn.com/broadcast/5Gt2c8lsw/c.m3u8
 https://a.jsrdn.com/broadcast/e29bdbbbf3/+0000/c.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",Distro TV | Studio C
 https://a.jsrdn.com/broadcast/d5b46/+0000/c.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",Distro TV | b spoke tv
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",Distro TV | bspoketv
 https://bspoketv.nexustreamer.com/distrotv-usa/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",Distro TV | Global Fashion
 https://a.jsrdn.com/broadcast/33ee2rtf5/c.m3u8
@@ -694,7 +695,7 @@ https://d397e8970cd346fdac04c0af81290c3a.mediatailor.us-west-2.amazonaws.com/v1/
 https://a.jsrdn.com/broadcast/zx23ar15xx/c.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",Distro TV | MMA Junkie
 https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/c.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",Distro TV | FTF (For The Fans)
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",Distro TV | FTF [Geo-USA]
 https://a.jsrdn.com/broadcast/432fS3OX/c.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",Distro TV | Fighting Spirit
 https://a.jsrdn.com/broadcast/47cff5378f/+0000/c.m3u8
@@ -728,8 +729,6 @@ https://a.jsrdn.com/broadcast/18b42f9aef/+0000/c.m3u8
 https://a.jsrdn.com/broadcast/d5b45/+0000/c.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",Distro TV | Brit Asia
 https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0500/c.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",Distro TV | Bollywood HD
-https://a.jsrdn.com/broadcast/j4jhsgg89/c.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",Distro TV | MATV Live
 https://a.jsrdn.com/broadcast/22677_J8PT4x6prY/-0500/c.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",Distro TV | Channel-S Live
@@ -925,9 +924,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/PlutoTV_500x500.png" group-title="Pluto TV | Movies",Pluto | 96 The Asylum
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/591105034c1806b47438342c/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=a4ee8f13-03fd-4912-830f-316e6adc5b7d&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.7308&deviceLon=-73.9975&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/PlutoTV_500x500.png" group-title="Pluto TV | Movies",Pluto | 98 Gravitas Movies
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59120e45877eeb3760b3d9da/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=f8d7bad7-8cca-4eff-9802-93fabfb25158&deviceId=f326520d-7599-402b-adc7-3b65e7a93a7d&deviceVersion=65.0.3467.78&appVersion=2.9.2-54d16e0b6418617f090cff53a5854097e137060f&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
-
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PlutoTV_NewLogo_380x380.png?raw=true" group-title="Pluto TV | Pluto+",Pluto | 108 Global Citizen
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e94fc9c4598d00007afecee/master.m3u8?advertisingId=&appName=web&appVersion=5.2.4-1efe6efd2b014a3e84fe7ff6f89942eb7c94049f&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=f326520d-7599-402b-adc7-3b65e7a93a7d&deviceLat=40.7145&deviceLon=-74.0029&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=67.0.3575.137&includeExtendedEvents=false&marketingRegion=US&sid=4387d70f-500d-407a-a688-084a24ab19ee&userId=&serverSideAds=true
 
@@ -952,11 +948,20 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/53b1c003eded29524e
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/PlutoTV_500x500.png" group-title="Pluto TV | Pluto+",Pluto | 611 Food TV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5877ac8cb791f4eb4a140d81/master.m3u8?advertisingId=&appName=web&appVersion=5.0.2-97fa211903e9a4370df3912896eb5e2e8e78f998&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=66.0.3515.115&includeExtendedEvents=false&sid=ec670265-365a-496a-bdaf-f7b5a4b79f64&userId=&serverSideAds=true
 
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PlutoTV_NewLogo_380x380.png?raw=true" group-title="Pluto TV | Pluto+",Pluto | 665 Pluto TV Science
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/563a970aa1a1f7fe7c9daad7/master.m3u8?advertisingId=&appName=web&appVersion=5.2.4-1efe6efd2b014a3e84fe7ff6f89942eb7c94049f&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=32.8137&deviceLon=-96.8704&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=67.0.3575.137&includeExtendedEvents=false&marketingRegion=US&sid=4153fbb1-d0b0-4029-87aa-bc01b1465576&userId=&serverSideAds=true
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/PlutoTV_500x500.png" group-title="Pluto TV | Pluto+",Pluto | 669 Pluto TV Tech
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/54173136ff9fba68282f4d53/master.m3u8?advertisingId=&appName=web&appVersion=5.0.3-5a69f0421bfaa21acf57c7f54f9914128359c64e&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=40.7308&deviceLon=-73.9975&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=66.0.3515.115&includeExtendedEvents=false&sid=0cea13c1-43a6-4a92-b5d0-783f24a074f0&userId=&serverSideAds=true
 
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PlutoTV_NewLogo_380x380.png?raw=true" group-title="Pluto TV | Pluto+",Pluto | 673 Pluto TV Gamer
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca7f16c37b88b2694731c79/master.m3u8?advertisingId=&appName=web&appVersion=5.2.4-1efe6efd2b014a3e84fe7ff6f89942eb7c94049f&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=32.8137&deviceLon=-96.8704&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=67.0.3575.137&includeExtendedEvents=false&marketingRegion=US&sid=0ffcaa52-84ea-11ea-bc55-0242ac130003&userId=&serverSideAds=true
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/PlutoTV_500x500.png" group-title="Pluto TV | Pluto+",Pluto | 684 CNet News
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56283c8769ba54637dea0464/master.m3u8?advertisingId=&appName=web&appVersion=5.0.3-5a69f0421bfaa21acf57c7f54f9914128359c64e&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=40.7308&deviceLon=-73.9975&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=66.0.3515.115&includeExtendedEvents=false&sid=8731304a-e66f-4ac1-b5f0-6f8c82d02e79&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PlutoTV_NewLogo_380x380.png?raw=true" group-title="Pluto TV | Pluto+",Pluto | 686 IGN
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561c5f613286e48904fb2677/master.m3u8?advertisingId=&appName=web&appVersion=5.2.4-1efe6efd2b014a3e84fe7ff6f89942eb7c94049f&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=32.8137&deviceLon=-96.8704&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=67.0.3575.137&includeExtendedEvents=false&marketingRegion=US&sid=899b2906-84ea-11ea-bc55-0242ac130003&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PlutoTV_Xmas_540x540.png?raw=true" group-title="Pluto TV | Pluto+",Pluto | 107 VEVO Holiday
 https://5dcc69bb1621dc5de50b1db7-p-1.ssai.zype.com/5dcc69bb1621dc5de50b1db7-p-1/manifest/1.m3u8?type=manifest&media_tailor_id=d58cb533af925f0d206e7043f2eb25fe50b073e5&config_id=5dcc69bb1621dc5de50b1db7_pluto&manifest_id=6962c829-e8d7-40f9-837c-7bc477a3f92a
