@@ -23,6 +23,12 @@
 #
 # Changelog (News and Updates): (oldest at the end of this document, newest at the beginning of this document)
 #
+# Update: 5/02/2020 - PLAYLIST MAINTENANCE: Pluto TV: deleted dead streams, added new ones and a new Pluto TV Tech + Geek category.
+# Update: 4/30/2020 - PLAYLIST MAINTENANCE: Duplicated additional channels into the EPG | Free2View TV category.
+# Update: 4/27/2020 - NEW CHANNELS ADDED: Added additional source for NBC News Now and new official source for MSNBC (Geo-USA).
+# Update: 4/20/2020 - PLAYLIST MAINTENANCE: Minor re-organizing of channels and categories to give a better flow to the playlist.
+# Update: 4/22/2020 - NEW CHANNELS ADDED: Added new CBS News Chicago. All new channels launched on DistroTV have been added.
+# Update: 4/26/2020 - NEW CHANNEL ADDED: YouToo America (in ENTERTAINMENT and EPG | Free2View TV categories)
 # Update: 4/18/2020 - EPG MAINTENANCE: https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/EPG/F2VTV_MERGE2.xml
 #                     ... this new link combines all existing EPG sources, so use this now for EPG listings.
 # Update: 4/18/2020 - PLAYLIST MAINTENANCE: Restored WZTS (Cozi TV), live stream is back, website page to link is not.
