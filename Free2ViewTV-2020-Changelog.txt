@@ -22,7 +22,22 @@
 # https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/EPG/WNY_13601.xml
 #
 # Changelog (News and Updates): (oldest at the end of this document, newest at the beginning of this document)
+# IMPORTANT NOTICE: - PLEASE NOTE THAT CHANNEL LINE-UP CHANGES ARE OCCURING. THE FOLLOWING CHANNELS HAVE BEEN REMOVED FROM THE
+#                     PUBLICLY DISTRIBUTED Free2View TV PLAYLISTS FOR THE FOLLOWING REASONS LISTED BELOW:
+#                     (1) The following channels are either 'test' streams or 'backup' streams that were not intended for public
+#                         streaming without a valid pay-TV package and/or cable service login.
+#                         - Pop TV; Hallmark Channel; Hallmark Movies & Mysteries; The Olympic Channel (Team USA).
+#                     (2) The following channels are streaming publicly online, but only on a 10-minute trial. 
+#                         After that, a valid pay-TV package and/or cable service login is required.
+#                         - CNN News; MSNBC News.
+#                     Channel line-up changes are continuing and will always be subject to modification.
+#                     The Free2View TV Project takes pride in being the *best* freely distributed IPTV playlist curating only
+#                     truly legal free live streams-- no unofficial streams, no bootlegged streams and no illegal re-streams.
+#                     The Free2View TV Project welcomes your feedback. Contact us at Free2ViewTVCanada@gmail.com.
 #
+# Update: 5/09/2020 - NEW CHANNELS ADDED: Added CBS Sports HQ into Pluto+ category; Lively Place into Pluto TV Greats.
+# Update: 5/09/2020 - NEW: Added Stingray Music category (near Radio/Audio section at the end of the playlist), sourced from Stirr TV.
+# Update: 5/08/2020 - NEW CHANNELS ADDED: Added new GLOBAL NEWS CANADA category with all available regional news streams.
 # Update: 5/02/2020 - PLAYLIST MAINTENANCE: Pluto TV: deleted dead streams, added new ones and a new Pluto TV Tech + Geek category.
 # Update: 4/30/2020 - PLAYLIST MAINTENANCE: Duplicated additional channels into the EPG | Free2View TV category.
 # Update: 4/27/2020 - NEW CHANNELS ADDED: Added additional source for NBC News Now and new official source for MSNBC (Geo-USA).
