@@ -35,6 +35,9 @@
 #                     truly legal free live streams-- no unofficial streams, no bootlegged streams and no illegal re-streams.
 #                     The Free2View TV Project welcomes your feedback. Contact us at Free2ViewTVCanada@gmail.com.
 #
+# Update: 5/17/2020 - NEW CHANNELS ADDED: By special request, added new ITALY | DPLAY category, Discovery networks in Italian. 
+# Update: 5/17/2020 - NEW CHANNELS ADDED: Added new category: Music Video | DJing 
+# Update: 5/14/2020 - NEW CHANNELS ADDED: Added DIY DAILY channel in the Special Interest category.
 # Update: 5/09/2020 - NEW CHANNELS ADDED: Added CBS Sports HQ into Pluto+ category; Lively Place into Pluto TV Greats.
 # Update: 5/09/2020 - NEW: Added Stingray Music category (near Radio/Audio section at the end of the playlist), sourced from Stirr TV.
 # Update: 5/08/2020 - NEW CHANNELS ADDED: Added new GLOBAL NEWS CANADA category with all available regional news streams.
