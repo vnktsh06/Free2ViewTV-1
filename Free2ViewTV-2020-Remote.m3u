@@ -611,7 +611,7 @@ https://broadcaster1.prolivestream.net:8083/onair/newsnetweb/playlist.m3u8
 https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1309230/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Exclamation_225x225.png?raw=true" group-title="EPG | USA FREE OTA TV25",** EPG UPDATE ** Watch me!
-https://github.com/geonsey/Free2ViewTV/blob/master/videos/placeholders/Free2ViewTV_EPG_Billboard-ONE_v2-1.mp4?raw=true
+https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/videos/2-Free2ViewTV_EPG_Billboard-ONE_v3.mp4?2
 #EXTINF:-1 tvg-id="I25.1.97116.zap2it.com" tvg-name="25.1" tvg-type="live" group-title="EPG | USA FREE OTA TV25" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TV25_360x360.png?raw=true",EPG | TV25.1 Buzzr
 https://cdn.igocast.com/channel1_hls/channel1_master.m3u8
 #EXTINF:-1 tvg-id="I25.2.97117.zap2it.com" tvg-name="25.2" tvg-type="live" group-title="EPG | USA FREE OTA TV25" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TV25_360x360.png?raw=true",EPG | TV25.2 NewsNet
@@ -638,7 +638,7 @@ https://cdn.igocast.com/channel11_hls/channel11_master.m3u8
 https://cdn.igocast.com/channel12_hls/channel12_master.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Exclamation_225x225.png?raw=true" group-title="EPG | Free2View TV",** EPG UPDATE ** Watch me!
-https://github.com/geonsey/Free2ViewTV/blob/master/videos/placeholders/Free2ViewTV_EPG_Billboard-ONE_v2-2.mp4?raw=true
+https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/videos/2-Free2ViewTV_EPG_Billboard-ONE_v3.mp4?1
 
 #EXTINF:-1 tvg-id="I25.1.97116.zap2it.com" tvg-name="25.1" tvg-type="live" group-title="EPG | Free2View TV" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/BUZZR.png",EPG | Buzzr
 https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_4.m3u8
@@ -1306,6 +1306,8 @@ https://dai.google.com/linear/hls/event/5bqbG8j7T_6_qMONC1SDsg/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" group-title="Stingray Music",451 Stingray NatureScape
 https://dai.google.com/linear/hls/event/6RPZlzksTCyB1euPqLcBZQ/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio CANADA",Radio | CA | Radio Wallpaper
+https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/videos/4-OldRadio_WallpaperVID_v2.mp4?2
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio CANADA" radio="true",RADIO CBC Radio 1 (Ottawa CA)
 https://cbcliveradio-lh.akamaihd.net/i/CBCR1_OTT@348188/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio CANADA" radio="true",RADIO CBC Music (Eastern CA)
@@ -1333,6 +1335,8 @@ https://16903.live.streamtheworld.com/CJCHFM_ADP/HLS/18868/0/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio CANADA" radio="true",103.5 Hot Country FM Halifax
 https://ice41.securenetsystems.net/CKHZ?playSessionID=DDE8F872-B643-75C1-B575F0E56DF4B0CB
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio USA",Radio | USA | Radio Wallpaper
+https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/videos/4-OldRadio_WallpaperVID_v2.mp4?3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio USA" radio="true",RADIO NPR WRVO Public Media
 http://16813.live.streamtheworld.com/WRVOFM_SC
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio USA" radio="true",RADIO NPR WAMU 88.5
@@ -1352,6 +1356,8 @@ http://17533.live.streamtheworld.com:80/CSPAN2AAC_SC
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio USA" radio="true",TV AUDIO C-SPAN 3
 http://17533.live.streamtheworld.com:80/CSPAN3AAC_SC
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio WORLD",Radio | Radio Wallpaper
+https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/videos/4-OldRadio_WallpaperVID_v2.mp4?4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio WORLD" radio="true",RADIO Heart Extra Christmas
 http://ice-sov.musicradio.com/Heartextra
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio WORLD" radio="true",RADIO Jamendo Lounge
@@ -1359,6 +1365,8 @@ http://streaming.radionomy.com/JamendoLounge?lang=en-US%2cen%3bq%3d0.9
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio WORLD" radio="true",RADIO radio m2o
 https://radiom2o-lh.akamaihd.net/i/RadioM2o_Live_1@42518/index_96_a-p.m3u8?sd=10&rebase=on
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/OldTimeRadio.png" group-title="Old Time Radio",Radio | OTR | Radio Wallpaper
+https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/videos/4-OldRadio_WallpaperVID_v2.mp4?5
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/OldTimeRadio.png" group-title="Old Time Radio" radio="true",OTR Antioch OTR
 http://209.95.56.101:8000/listen
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/OldTimeRadio.png" group-title="Old Time Radio" radio="true",OTR AM600 Conyers OTR
@@ -1371,11 +1379,11 @@ http://streaming.radio.co/sf5708c004/listen
 http://streaming.radio.co/sa37b728bf/listen
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AboutUS_392x392.png?raw=true" group-title="About Us + Extras",Free2View TV!
-https://github.com/geonsey/Free2ViewTV/blob/master/videos/Free2ViewTV-Slide1_v5_200125.mp4?raw=true
+https://github.com/geonsey/Free2ViewTV/blob/master/videos/1-Free2ViewTV-Slide1_v5_200125_v2.mp4?raw=true
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AboutUS_392x392.png?raw=true" group-title="About Us + Extras",Free2View TV EPG Info
-https://github.com/geonsey/Free2ViewTV/blob/master/videos/Free2ViewTV_EPG_Billboard-ONE_v2.mp4?raw=true
+https://github.com/geonsey/Free2ViewTV/blob/master/videos/2-Free2ViewTV_EPG_Billboard-ONE_v3.mp4?raw=true
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AboutUS_392x392.png?raw=true" group-title="About Us + Extras",Buy Me A Coffee?
-https://github.com/geonsey/Free2ViewTV/blob/master/videos/Free2ViewTV_BuyMeACoffee_billboard-v3.mp4?raw=true
+https://github.com/geonsey/Free2ViewTV/blob/master/videos/3-Free2ViewTV_BuyMeACoffee_billboard-v4.mp4?raw=true
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AboutUS_392x392.png?raw=true" group-title="About Us + Extras",Roku Skyline Screensaver
 https://github.com/geonsey/Free2ViewTV/releases/download/2/Roku_City-Stroll_Skyline_720p_16m43s.mp4
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AboutUS_392x392.png?raw=true" group-title="About Us + Extras",Roku Movie Magic Screensaver
