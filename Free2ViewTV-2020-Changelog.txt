@@ -35,6 +35,12 @@
 #                     truly legal free live streams-- no unofficial streams, no bootlegged streams and no illegal re-streams.
 #                     The Free2View TV Project welcomes your feedback. Contact us at Free2ViewTVCanada@gmail.com.
 #
+# Update: 5/24/2020 - NEW RADIO CHANNELS ADDED: Added new FREE RADIO category with a varied selection of NEWS and MUSIC streams.
+# Update: 5/23/2020 - NEW CHANNELS ADDED: New channels from Redbox Free Live TV. https://www.redbox.com/stream-free-live-tv
+# Update: 5/20/2020 - NEW CHANNEL ADDED: Plymouth Rock TV in TRAVEL & TOURISM. http://plymouthrocktv.com/watch-live/
+# Update: 5/20/2020 - NEW CHANNEL ADDED: CBS News Dallas-Fort Worth. https://www.cbsnews.com/live/cbsn-local-dal/#x
+# Update: 5/20/2020 - PLAYLIST MAINTENANCE: Renamed NBC NEWS NOW to NBC NEWS NETWORKS and added NBCLX and NBC NEWS RADIO channels.
+# Update: 5/20/2020 - NEW CHANNEL ADDED: NBCLX in NBC NEWS NETWORKS category. https://www.lx.com/live/
 # Update: 5/17/2020 - NEW CHANNELS ADDED: By special request, added new ITALY | DPLAY category, Discovery networks in Italian. 
 # Update: 5/17/2020 - NEW CHANNELS ADDED: Added new category: Music Video | DJing 
 # Update: 5/14/2020 - NEW CHANNELS ADDED: Added DIY DAILY channel in the Special Interest category.
