@@ -35,6 +35,20 @@
 #                     truly legal free live streams-- no unofficial streams, no bootlegged streams and no illegal re-streams.
 #                     The Free2View TV Project welcomes your feedback. Contact us at Free2ViewTVCanada@gmail.com.
 #
+#                     IMPORTANT NOTICE: Due to situations beyond the control of the Free2View TV Project, public access to 
+#                     Pluto TV and Stirr TV channels will no longer be available through this playlist. Pluto TV and Stirr TV can
+#                     still be accessed for free (with a program listing) through their websites and official apps. You can visit
+#                     https://pluto.tv/live-tv/ and https://stirr.com/watchnow to watch their live streams at any time.
+#                     The Free2View TV Project sincerely apologizes, but hopes that you will still enjoy the hundreds of other free 
+#                     channels available in the Free2View TV playlist. Comments? Contact us at Free2ViewTVCanada@gmail.com
+#
+# Update: 5/31/2020 - NEW CATEGORY ADDED: Added PBS TV | NPR RADIO category with new sources and radio streams.
+#                     Sources: https://live.wpsu.org/#live -- https://www.thirteen.org/live/ -- https://wviz.ideastream.org
+# Update: 5/30/2020 - NEW CHANNELS ADDED: Updated / added new streams from Redbox Live TV.
+# Update: 5/30/2020 - PLAYLIST MAINTENANCE: Cleaned up / replaced dead sources in the USA FREE OTA TV category.
+# Update: 5/27/2020 - PLAYLIST MAINTENANCE: Preliminary work on setting up EPG for Canadian channels and CBC / ICI Canada.
+# Update: 5/27/2020 - PLAYLIST MAINTENANCE: Cleaned up some links and sources. Updated and added Bumblebee.tv live streams.
+# Update: 5/26/2020 - PLAYLIST MAINTENANCE: As per notice above, Stirr TV / Pluto TV channels have been removed from public lists.
 # Update: 5/24/2020 - NEW RADIO CHANNELS ADDED: Added new FREE RADIO category with a varied selection of NEWS and MUSIC streams.
 # Update: 5/23/2020 - NEW CHANNELS ADDED: New channels from Redbox Free Live TV. https://www.redbox.com/stream-free-live-tv
 # Update: 5/20/2020 - NEW CHANNEL ADDED: Plymouth Rock TV in TRAVEL & TOURISM. http://plymouthrocktv.com/watch-live/
