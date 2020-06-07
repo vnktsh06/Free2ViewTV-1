@@ -42,6 +42,16 @@
 #                     The Free2View TV Project sincerely apologizes, but hopes that you will still enjoy the hundreds of other free 
 #                     channels available in the Free2View TV playlist. Comments? Contact us at Free2ViewTVCanada@gmail.com
 #
+# Update: 6/03/2020 - PLAYLIST MAINTENANCE: Updated French-Canadian stream for Tele-Quebec. https://zonevideo.telequebec.tv/endirect/
+# Update: 6/03/2020 - NEW CHANNEL ADDED: Added Francophone News: TV5 Monde Info. https://information.tv5monde.com/les-jt/jt_info
+# Update: 6/03/2020 - PLAYLIST MAINTENANCE: Updated Francophone channel 01TV. https://www.01net.com/mediaplayer/live-video/
+# Update: 6/03/2020 - PLAYLIST MAINTENANCE: Updated Francophone channel D5TV. http://www.centraltv.fr/television-senegal/d5tv
+# Update: 6/03/2020 - PLAYLIST MAINTENANCE: Updated some Italy | dplay channels. https://it.dplay.com
+# Update: 6/04/2020 - MAJOR UPDATE: Updated DISTRO TV with additional CATEGORIES and NEW CHANNELS from the free streaming service.
+# Update: 6/05/2020 - PLAYLIST MAINTENANCE: Replaced bad sources from MGM Sci-Fi; The Film Detective; CBC News (non-GEO'd).
+# Update: 6/07/2020 - NEW CHANNELS ADDED: Added NEW channels FilmRise Action, Deal or No Deal.
+# Update: 6/07/2020 - NEW CHANNEL ADDED: Added Outside TV+ in sports, available through most free TV streaming services.
+# Update: 6/01/2020 - CHANNEL UPDATE: The DABL channel has changed their stream to a Geo-USA stream, relabeled accordingly.
 # Update: 5/31/2020 - NEW CATEGORY ADDED: Added PBS TV | NPR RADIO category with new sources and radio streams.
 #                     Sources: https://live.wpsu.org/#live -- https://www.thirteen.org/live/ -- https://wviz.ideastream.org
 # Update: 5/30/2020 - NEW CHANNELS ADDED: Updated / added new streams from Redbox Live TV.
