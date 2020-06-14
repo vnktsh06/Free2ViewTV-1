@@ -43,7 +43,7 @@
 #                     The Free2View TV Project sincerely apologizes, but hopes that you will still enjoy the hundreds of other free 
 #                     channels available in the Free2View TV playlist. Comments? Contact us at Free2ViewTVCanada@gmail.com
 #
-# Update: 6/07/2020 - PLAYLIST MAINTENANCE: Removed Golf Channel from Sports (see 'Important Notice' above for details).
+# Update: 6/14/2020 - PLAYLIST MAINTENANCE: Removed Golf Channel from Sports (see 'Important Notice' above for details).
 # Update: 6/14/2020 - CHANNEL MAINTENANCE: Removed ABC, CBC, NBC, Fox, CW from USA FREE OTA TV (dead streams, not legal sources).
 # Update: 6/14/2020 - NEW CHANNEL ADDED: Right Now Television, a men's special interest channel, added to USA FREE OTA TV.
 #                     Source: https://www.rightnowtelevision.com/watch-live/
