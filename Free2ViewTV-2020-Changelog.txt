@@ -43,6 +43,8 @@
 #                     The Free2View TV Project sincerely apologizes, but hopes that you will still enjoy the hundreds of other free 
 #                     channels available in the Free2View TV playlist. Comments? Contact us at Free2ViewTVCanada@gmail.com
 #
+# Update: 6/27/2020 - NEW CHANNELS ADDED: added CTV News Channel (https://www.ctvnews.ca/live), CP24 (https://www.cp24.com/video)*
+#                     *(please note that these may be unlocked during COVID-19, but may be removed once no longer available publicly)
 # Update: 6/27/2020 - NEW CHANNELS ADDED: by special request, added Free Kids Radio category with new channels from iHeartRadio.
 # Update: 6/27/2020 - NEW CHANNEL ADDED: by request, Island Luck TV in Travel & Tourism - https://islandluck.com/TvWatcher.aspx
 # Update: 6/27/2020 - NEW CHANNEL ADDED: added The Florida Channel in Travel & Tourism - https://thefloridachannel.org/watch/
