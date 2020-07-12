@@ -1154,7 +1154,7 @@ https://tvalive.akamaized.net/hls/live/2012413/tva01/master.m3u8
 https://bcovlive-a.akamaihd.net/86e93a0ab79047e1b216e2b0a1ac5363/us-east-1/6150020952001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/TeleV_1200x1200.png" group-title="Francophone TV",Canada | Tele-V
 https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CanalSavoir_363x363.png?raw=true" group-title="Francophone TV",Canal Savoir
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CanalSavoir_363x363.png?raw=true" group-title="Francophone TV",Canada | Canal Savoir
 https://hls.savoir.media/live/stream.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CPAC_360x360.png?raw=true" group-title="Francophone TV",Canada | CPAC
 https://bcsecurelivehls-i.akamaihd.net/hls/live/680604/1242843915001_3/master.m3u8
@@ -1176,32 +1176,32 @@ https://sbshdlu5-lh.akamaihd.net/i/sbshdl_6@1000854/master.m3u8?hdnts=st=1589671
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DPlay_225x225.png?raw=true" group-title="Italy | dplay",Italy | HGTV
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_7@106896/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Dubai One" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/International_UAE_Generic_241x241.png?raw=true" group-title="International | Dubai",Dubai One
+#EXTINF:-1 tvg-id="" tvg-name="Dubai One" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/International_UAE_Generic_241x241.png?raw=true" group-title="International | U.A.E.",Dubai One
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Dubai TV" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/International_UAE_Generic_241x241.png?raw=true" group-title="International | Dubai",Dubai TV
+#EXTINF:-1 tvg-id="" tvg-name="Dubai TV" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/International_UAE_Generic_241x241.png?raw=true" group-title="International | U.A.E.",Dubai TV
 http://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Dubai Zaman" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/International_UAE_Generic_241x241.png?raw=true" group-title="International | Dubai",Dubai Zaman
+#EXTINF:-1 tvg-id="" tvg-name="Dubai Zaman" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/International_UAE_Generic_241x241.png?raw=true" group-title="International | U.A.E.",Dubai Zaman
 http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Noor Dubai TV" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/International_UAE_Generic_241x241.png?raw=true" group-title="International | Dubai",Noor Dubai TV
+#EXTINF:-1 tvg-id="" tvg-name="Noor Dubai TV" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/International_UAE_Generic_241x241.png?raw=true" group-title="International | U.A.E.",Noor Dubai TV
 http://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sama Dubai" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/International_UAE_Generic_241x241.png?raw=true" group-title="International | Dubai",Sama Dubai
+#EXTINF:-1 tvg-id="" tvg-name="Sama Dubai" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/International_UAE_Generic_241x241.png?raw=true" group-title="International | U.A.E.",Sama Dubai
 http://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Dubai Racing" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/International_UAE_Generic_241x241.png?raw=true" group-title="International | Dubai",Dubai Racing
+#EXTINF:-1 tvg-id="" tvg-name="Dubai Racing" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/International_UAE_Generic_241x241.png?raw=true" group-title="International | U.A.E.",Dubai Racing
 http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Dubai Racing 2" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/International_UAE_Generic_241x241.png?raw=true" group-title="International | Dubai",Dubai Racing 2
+#EXTINF:-1 tvg-id="" tvg-name="Dubai Racing 2" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/International_UAE_Generic_241x241.png?raw=true" group-title="International | U.A.E.",Dubai Racing 2
 http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Dubai Racing 3" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/International_UAE_Generic_241x241.png?raw=true" group-title="International | Dubai",Dubai Racing 3
+#EXTINF:-1 tvg-id="" tvg-name="Dubai Racing 3" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/International_UAE_Generic_241x241.png?raw=true" group-title="International | U.A.E.",Dubai Racing 3
 http://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Dubai Sports 1" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/International_UAE_Generic_241x241.png?raw=true" group-title="International | Dubai",Dubai Sports 1
+#EXTINF:-1 tvg-id="" tvg-name="Dubai Sports 1" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/International_UAE_Generic_241x241.png?raw=true" group-title="International | U.A.E.",Dubai Sports 1
 http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Dubai Sports 2" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/International_UAE_Generic_241x241.png?raw=true" group-title="International | Dubai",Dubai Sports 2
+#EXTINF:-1 tvg-id="" tvg-name="Dubai Sports 2" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/International_UAE_Generic_241x241.png?raw=true" group-title="International | U.A.E.",Dubai Sports 2
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Dubai Sports 3" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/International_UAE_Generic_241x241.png?raw=true" group-title="International | Dubai",Dubai Sports 3
+#EXTINF:-1 tvg-id="" tvg-name="Dubai Sports 3" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/International_UAE_Generic_241x241.png?raw=true" group-title="International | U.A.E.",Dubai Sports 3
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1300000.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Rathergood Radio Live" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/RatherGoodRadio_225x225.png?raw=true" group-title="Music Video | Rathergood",Rathergood Radio Live
 https://streamingserver000.viewtvgroup.com/RathergoodRadio-Studio1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rathergood Hits" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/RatherGoodRadio_225x225.png?raw=true" group-title="Music Video | RatherGood",Rathergood Hits
+#EXTINF:-1 tvg-id="" tvg-name="Rathergood Hits" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/RatherGoodRadio_225x225.png?raw=true" group-title="Music Video | Rathergood",Rathergood Hits
 https://ssai06a.broadcastcdn.net/hlslive/CLOUDIETV-RATHERGOODHITS-001.m3u8?chname=CLOUDIETV-RATHERGOODHITS-001&pub=7ea6075b-8f90-46b7-abe4-9b830055de48&ctype=0&acsurl=10.20.30.48%3A8081
 #EXTINF:-1 tvg-id="" tvg-name="Rathergood Dance" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/RatherGoodRadio_225x225.png?raw=true" group-title="Music Video | Rathergood",Rathergood Dance
 https://ssai06a.broadcastcdn.net/hlslive/CLOUDIETV-RATHERGOODDANCE-001/1/CLOUDIETV-RATHERGOODDANCE-001.m3u8?profID=6&n=1&ctype=0&adsid=AXMQXqh5s4iHKlSMYaWX&chname=CLOUDIETV-RATHERGOODDANCE-001&pub=7ea6075b-8f90-46b7-abe4-9b830055de48&acsurl=10.20.30.48%3A8081
@@ -1209,13 +1209,13 @@ https://ssai06a.broadcastcdn.net/hlslive/CLOUDIETV-RATHERGOODDANCE-001/1/CLOUDIE
 https://ssai06a.broadcastcdn.net/hlslive/CLOUDIETV-RATHERGOODDANCECLASSICS-001/1/CLOUDIETV-RATHERGOODDANCECLASSICS-001.m3u8?profID=22&n=1&ctype=0&adsid=AXMQe6tis4iHKlSMYaYC&chname=CLOUDIETV-RATHERGOODDANCECLASSICS-001&pub=7ea6075b-8f90-46b7-abe4-9b830055de48&acsurl=10.20.30.48%3A8081
 #EXTINF:-1 tvg-id="" tvg-name="Rathergood Movie Music" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/RatherGoodRadio_225x225.png?raw=true" group-title="Music Video | Rathergood",Rathergood Movie Music
 https://ssai06a.broadcastcdn.net/hlslive/CLOUDIETV-RATHERGOODMOVIES-001/1/CLOUDIETV-RATHERGOODMOVIES-001.m3u8?profID=6&n=1&ctype=0&adsid=AXMQWiTGCwsazTJe-NTi&chname=CLOUDIETV-RATHERGOODMOVIES-001&pub=7ea6075b-8f90-46b7-abe4-9b830055de48&acsurl=10.20.30.48%3A8081
-#EXTINF:-1 tvg-id="" tvg-name="Rathergood Vintage" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/RatherGoodRadio_225x225.png?raw=true" group-title="Music Video | RatherGood",Rathergood Vintage
+#EXTINF:-1 tvg-id="" tvg-name="Rathergood Vintage" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/RatherGoodRadio_225x225.png?raw=true" group-title="Music Video | Rathergood",Rathergood Vintage
 https://ssai06a.broadcastcdn.net/hlslive/CLOUDIETV-VINTAGEMUSICTV-001.m3u8?chname=CLOUDIETV-VINTAGEMUSICTV-001&pub=7ea6075b-8f90-46b7-abe4-9b830055de48&ctype=0&acsurl=10.20.30.48%3A8081
 #EXTINF:-1 tvg-id="" tvg-name="Rathergood 90s" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/RatherGoodRadio_225x225.png?raw=true" group-title="Music Video | Rathergood",Rathergood 90's
 https://ssai06a.broadcastcdn.net/hlslive/CLOUDIETV-RATHERGOOD90S-001.m3u8?chname=CLOUDIETV-RATHERGOOD90S-001&pub=7ea6075b-8f90-46b7-abe4-9b830055de48&ctype=0&acsurl=10.20.30.48%3A8081
-#EXTINF:-1 tvg-id="" tvg-name="Rathergood 00s" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/RatherGoodRadio_225x225.png?raw=true" group-title="Music Video | RatherGood",Rathergood 00s
+#EXTINF:-1 tvg-id="" tvg-name="Rathergood 00s" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/RatherGoodRadio_225x225.png?raw=true" group-title="Music Video | Rathergood",Rathergood 00s
 https://ssai06a.broadcastcdn.net/hlslive/CLOUDIETV-RATHERGOODNOUGHTIES-001.m3u8?chname=CLOUDIETV-RATHERGOODNOUGHTIES-001&pub=7ea6075b-8f90-46b7-abe4-9b830055de48&ctype=0&acsurl=10.20.30.48%3A8081
-#EXTINF:-1 tvg-id="" tvg-name="Rathergood LOL" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/RatherGoodRadio_225x225.png?raw=true" group-title="Music Video | RatherGood",Rathergood LOL
+#EXTINF:-1 tvg-id="" tvg-name="Rathergood LOL" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/RatherGoodRadio_225x225.png?raw=true" group-title="Music Video | Rathergood",Rathergood LOL
 https://ssai06a.broadcastcdn.net/hlslive/CLOUDIETV-RATHERGOODLOL-001.m3u8?chname=CLOUDIETV-RATHERGOODLOL-001&pub=7ea6075b-8f90-46b7-abe4-9b830055de48&ctype=0&acsurl=10.20.30.48%3A8081
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DJing_400x400.png?raw=true" group-title="Music Video | DJing",Djing | Djing TV
