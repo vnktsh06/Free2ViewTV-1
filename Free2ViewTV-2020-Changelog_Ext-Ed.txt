@@ -1,38 +1,39 @@
 # ************************************************************************************************************************************* 
 #
-# The Free2View Master Playlist Project! A Free and Legal IPTV List curated by The Frugal Streamer
+# This is the Free2View TV Project. Find out more about this project online:
 # https://thefrugalstreamer.blogspot.com/p/free2viewtvpage1.html
-# Contact us: Free2ViewTVCanada@gmail.com
+# 
+#     THIS IS AN 'EXTENDED' EDITION OF THE FREE2VIEW TV PROJECT
+#     IMPORTANT NOTICE: This edition of the Free2View TV Project playlist still contains all of the live links found in the publicly
+#     distributed playlist from our blog, with the following differences: 
+#     The mandate for Free2View TV has always been that the live links must be official, original streams from the originating
+#     networks (no bootlegs or illegal re-streams) and that they are legally streaming online for free on their website before
+#     they can be included into the Free2View TV Project. What has been discovered is that there are a handful of these official 
+#     streams that technically should be locked behind a cable TV login (therefore otherwise NOT free to the public, which disqualify
+#     their inclusion into the Free2View TV master playlist). Some of these official streams are also used by networks as 'test' or 
+#     'backup' streams when their main 'go' streams go down, but otherwise not intended for public transmission on their websites. 
+#     While these streams are still official and are not protected or tokened and completely streamable, they are included in
+#     this 'Extended Edition' playlist, but please note that they may become unavailable without notice. Unofficial streams, bootleg
+#     streams and illegal re-streams will continue to be prohibited from inclusion in the all of the Free2View TV playlists.
+#     Visit our blog page for access to all of the official Free2View TV playlists currently in public distribution.
+#
+#     'Extended Edition' exclusive: EPG source: https://techzyon.com/epg/plutotv_guide.xml
+#     Based on excellent playlists created by Enaz13 at https://forums.whirlpool.net.au/thread/9nk7ly73
+#     'Extended Edition' exclusive: EPG source: https://techzyon.com/epg/stirr_guide.xml
+#     Based on excellent playlists created by Enaz13 at https://forums.whirlpool.net.au/archive/9xk7kyy3
+#     'Extended Edition' exclusive: EPG source: http://tinyurl.com/y6lxn4fb
+#     Based on the exceptional Project Pluto & Stirr TV Playlist: http://tinyurl.com/y2cdg2pa
 #
 # Note: To the best of my knowledge, all of these streams are legal streams, either over-the-air or live-streamed through unscrambled
 # links over the internet. All links are not guaranteed to be stable, but tested before being added to this list. I do not 
 # guarantee that these links will remain stable or active and any dead links could be removed at any time. Enjoy! -Georges B.
 # Channel list begins after the Changelog in this document.
 #
-#
 # Download the complete Changelog (News and Updates):
 # https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/Free2ViewTV-2020-Changelog.txt
 #
 # Electronic Program Guides used for this playlist:
 # https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/EPG/F2VTV_MERGE2.xml
-#
-# Changelog (News and Updates): (oldest at the end of this document, newest at the beginning of this document)
-# IMPORTANT NOTICE: - PLEASE NOTE THAT CHANNEL LINE-UP CHANGES ARE OCCURING. THE FOLLOWING CHANNELS HAVE BEEN REMOVED FROM THE
-#                     PUBLICLY DISTRIBUTED Free2View TV PLAYLISTS FOR THE FOLLOWING REASONS LISTED BELOW:
-#                     (1) The following channels are either 'test' streams or 'backup' streams that were not intended for public
-#                         streaming without a valid pay-TV package and/or cable service login.
-#                         - Pop TV; Hallmark Channel; Hallmark Movies & Mysteries; The Olympic Channel (Team USA);
-#			  - Golf Channel.
-#                     (2) The following channels are streaming publicly online, but only on a 10-minute trial. 
-#                         After that, a valid pay-TV package and/or cable service login is required.
-#                         - CNN News; MSNBC News.
-#                     (3) The following networks have now gone behind a paywall and no longer available for free:
-#                         - CBC News Network; Law & Crime Trial Network (Live Trial streams)
-#
-#                     Channel line-up changes are continuing and will always be subject to modification.
-#                     The Free2View TV Project takes pride in being the *best* freely distributed IPTV playlist curating only
-#                     truly legal free live streams-- no unofficial streams, no bootlegged streams and no illegal re-streams.
-#                     The Free2View TV Project welcomes your feedback. Contact us at Free2ViewTVCanada@gmail.com.
 #
 #                     IMPORTANT NOTICE: Due to situations beyond the control of the Free2View TV Project, public access to 
 #                     Pluto TV and Stirr TV channels will no longer be available through this playlist. Pluto TV and Stirr TV can
@@ -41,6 +42,8 @@
 #                     The Free2View TV Project sincerely apologizes, but hopes that you will still enjoy the hundreds of other free 
 #                     channels available in the Free2View TV playlist. Comments? Contact us at Free2ViewTVCanada@gmail.com
 #
+# Extended Edition: - Updated, reorganised, deleted dead/added new channels in Pluto TV categories. (Extended Bonus Edition)
+# Extended Edition: - Updated some channels in the EPG | Extended Edition category.
 # Update: 9/15/2020 - NEW CHANNEL ADDED: Magellan TV Now, now avilable on major free digital streaming services, to Movies Plus.
 # Update: 9/14/2020 - NEW CATEGORY ADDED: Added Geeks + Gaming group with new and relocated channels from Special Interest group.
 # Update: 9/14/2020 - CATEGORY MAINTENANCE: Added new channels and reogranized Redbox Free Live TV to match existing lineup.
@@ -52,6 +55,12 @@
 # Update: 9/09/2020 - CHANNEL MAINTENANCE: Updated alternate source for Plymouth Rock TV in Travel & Tourism.
 # Update: 9/09/2020 - CATEGORY MAINTENANCE: Updated DistroTV category additional new channels. https://www.distro.tv/
 # Update: 9/08/2020 - NEW CATEGORY ADDED: Testing a new VOD category, mostly vintage public domain movies served by Free2View TV.
+# Extended Edition: - Updated, reorganised and added new channels in Pluto TV categories. (Extended Bonus Edition)
+# Extended Edition: - In the Bonus Edition, new Pluto TV channels as of 8/18 added to the 'Bonus | Pluto TV Classic TV' group.
+# Extended Edition: - Updated EPG source link and information billboard videos: http://tinyurl.com/y6lxn4fb
+# Extended Edition: - Updated some EPG and URL sources from the PlutoTV/StirrTV Project (Extended Bonus Edition).
+# Extended Edition: - Added alternate stream for MSNBC (Geo-USA) * [Alt] into News & Weather and EPG | Free2View TV groups.
+# Extended Edition: - Added WPT, Whistle TV, BigLife TV into the EPG | Extended Edition category, using Stirr TV EPG source.
 # Update: 9/01/2020 - CHANNEL MAINTENANCE: Tele-V (Canadian TV/Francophone TV), rebranded as 'noovo'. https://noovo.ca/en-direct
 # Update: 9/01/2020 - PLAYLIST MAINTENANCE: Re-organized Francophone TV category, added two new streams from TV5 Monde.
 # Update: 8/31/2020 - NEW CHANNEL ADDED: Whistle TV added to Cinedigm Digital Networks, Sports & Recreation
@@ -74,6 +83,7 @@
 # Update: 8/11/2020 - NEW CHANNEL ADDED: BigLife TV, a source from the Sinclair Broadcast Group has been added to Special Interest.
 # Update: 8/11/2020 - NEW CHANNEL ADDED: Hollywood Classics, added to Nostalgia Flicks.
 # Update: 8/09/2020 - PLAYLIST MAINTENANCE: duplicated POSITIV TV and NBCLX into the USA FREE OTA TV category. 
+# Extended Edition: - Shorts TV | TV Cortos (not available online yet, but using Buzzr's old stream URL), added to Movies Plus.
 # Update: 8/05/2020 - NEW CHANNELS ADDED / CATEGORY MAINTENANCE: Added the full line-up of channels in Redbox Free Live TV.
 # Update: 8/04/2020 - NEW CHANNEL ADDED: VENN, a new network about gaming, pop culture and lifestyle spaces. https://www.venn.tv/
 # Update: 8/04/2020 - NEW CHANNEL ADDED: Blues Television Network (USA FREE OTA TV, MUSIC VIDEO & TV groups) - http://bluestn.com
@@ -86,6 +96,7 @@
 # Update: 8/02/2020 - CATEGORY MAINTENANCE: Some minor maintenance of the CANADIAN TV group (fixing channel names).
 # Update: 8/01/2020 - PLAYLIST MAINTENANCE: The MGM Sci-Fi Channel has been discontinued; removed from playlist.
 # Update: 7/30/2020 - CATEGORY MAINTENANCE: Cleaned up some channels in 'Live Radio Canada'; added 'TV AUDIO | ICI RDI'.
+# Extended Edition: - Additional channels added into EPG | Extended Edition category.
 # Update: 7/27/2020 - CHANNEL MAINTENANCE: The Law & Crime Trial Network has gone behind a paywall; LAW + JUSTICE group removed.
 # Update: 7/27/2020 - CHANNEL MAINTENANCE: New sources for L&C's standalone stream, Court TV; both moved to Entertainment.
 # Update: 7/27/2020 - CHANNEL MAINTENANCE: Court TV's stream updated in EPG | Free2View TV, also added to USA FREE OTA TV.
@@ -111,6 +122,8 @@
 # Update: 7/14/2020 - PLAYLIST MAINTENANCE: Consolitated DISTRO TV into one category.
 # Update: 7/13/2020 - PLAYLIST MAINTENANCE: Minor update: renamed International | Dubai as International | U.A.E.
 # Update: 7/13/2020 - NEW CHANNEL ADDED: added Vintage Music Radio to "Music Video | Rathergood" category.
+# Extended Edition: - Added additional channels into the Bonus | STIRR TV and Bonus | PLUTO TV categories. 
+# Extended Edition: - Additional premium EPG sources added, included in EPG | Free2View TV, exlcusives marked with '*'.
 # Update: 7/12/2020 - NEW CATEGORY ADDED: by request, added International | Dubai category with a selection of channels.
 # Update: 7/12/2020 - NEW CATEGORY ADDED: by request, added Music Video | Rathergood https://rathergood.co.uk/videos/live/
 # Update: 7/12/2020 - NEW CATEGORY ADDED: by request, added Nature Cams with cams from https://nationalzoo.si.edu/webcams
@@ -125,6 +138,9 @@
 # Update: 7/05/2020 - CHANNEL MAINTENANCE: updated News Net | HD source. https://www.ginikousa.com/live.php?id=751
 # Update: 7/05/2020 - CHANNEL MAINTENANCE: added alternate stream for Weather Nation; updated inactive TV25 stream with alternate.
 # Update: 7/05/2020 - CHANNEL MAINTENANCE: replaced inactive TV25 Shop LC with webstream from https://www.shoplc.com/livetv
+# Extended Edition: - Playlist maintenance: Channels available only in Extended Edition playlist are marked with '*'.
+# Extended Edition: - Added EPG | Extended Ed. Only category which uses EPG sources from https://techzyon.com/epg/stirr_guide.xml
+# Extended Edition: - Added additional channels into the Bonus | STIRR TV category. 
 # Update: 7/03/2020 - CATEGORY MAINTENANCE: renamed Women's & Men's Interests as Adult Lifestyle & Interests.
 # Update: 7/01/2020 - PLAYLIST MAINTENANCE: CBC News Net no longer has a free stream, back behind a subscription pay wall; removed.
 # Update: 6/30/2020 - NEW CATEGORY: several new streams and channels relocated from other categories into Gameshows & Competitions.
