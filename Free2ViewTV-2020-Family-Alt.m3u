@@ -186,6 +186,10 @@ https://api.new.livestream.com/accounts/27460990/events/8266909/live.m3u8?Faith
 https://api.new.livestream.com/accounts/27460990/events/8266916/live.m3u8?Faith
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Positiv_520x520.png?raw=true" group-title="Faith & Spirituality",Positiv TV
 https://player-api.new.livestream.com/accounts/27460990/events/8973036/live.m3u8?Faith
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/WATC_390x390.png?raw=true" group-title="Faith & Spirituality",WATC-57 Atlanta
+https://uni01rtmp.tulix.tv/watc57/watc57/playlist.m3u8?Faith
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/WATC_390x390.png?raw=true" group-title="Faith & Spirituality",WATC-57 Too | Classic TV
+https://uni01rtmp.tulix.tv/watc57-2/watc57-2/playlist.m3u8?Faith
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CBN_960x960.png?raw=true" group-title="Faith & Spirituality",CBN | CBN Live
 https://bcliveunivsecure-lh.akamaihd.net/i/iptv1_1@500579/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CBN-News_225x225.png?raw=true" group-title="Faith & Spirituality",CBN | CBN News
