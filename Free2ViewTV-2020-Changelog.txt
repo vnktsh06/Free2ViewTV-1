@@ -41,6 +41,12 @@
 #                     The Free2View TV Project sincerely apologizes, but hopes that you will still enjoy the hundreds of other free 
 #                     channels available in the Free2View TV playlist. Comments? Contact us at Free2ViewTVCanada@gmail.com
 #
+# Update: 9/24/2020 - NEW: International | Spanish category, with channels now avilable on major free digital streaming services.
+# Update: 9/21/2020 - NEW CHANNELS ADDED: RunTime Free TV; A.D., now avilable on major free digital streaming services.
+# Update: 9/20/2020 - NEW CHANNELS ADDED: Two channels from WATC-57 (Faith & Spirituality; USA FREE OTA TV). http://watc.tv
+# Update: 9/19/2020 - CATEGORY MAINTENANCE: Updated Sports & Recreation category (cleaned up broken / mislabeled links)
+# Update: 9/19/2020 - CATEGORY MAINTENANCE: Updated Sports & Recreation category (cleaned up broken / mislabeled links)
+# Update: 9/18/2020 - NEW CHANNEL ADDED: Z Living (Entertainment; USA FREE OTA TV). Online live stream: https://www.zliving.com
 # Update: 9/15/2020 - NEW CHANNEL ADDED: Magellan TV Now, now avilable on major free digital streaming services, to Movies Plus.
 # Update: 9/14/2020 - NEW CATEGORY ADDED: Added Geeks + Gaming group with new and relocated channels from Special Interest group.
 # Update: 9/14/2020 - CATEGORY MAINTENANCE: Added new channels and reogranized Redbox Free Live TV to match existing lineup.
