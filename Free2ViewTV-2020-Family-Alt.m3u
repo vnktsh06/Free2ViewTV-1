@@ -434,19 +434,21 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufamilyfeud/CDN/playlist.m3u8?
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/GlobalGotTalent_800x800.png?raw=true" group-title="Gameshows & Competitions",Global Got Talent
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokugottalentglobal/CDN/playlist.m3u8?p=roku&rdid=6d139079-f288-57b6-9e26-5e3801ae96af&coppa=false&is_roku_lat=1&platform=web&content=d96f3c8d2aac5bf29691e75cd09851a2&genre=ROKU_ADS_CONTENT_GENRE&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&channelStore=us&bmodel=ROKU_BIZ_MODEL&tags=ROKU_CONTENT_TAGS&studio_id=got_talent_global&pod_min=OTT_POD_MIN&pod_max=OTT_POD_MAX&pod_ads=OTT_POD_ADS&is_lat=1&channel_id=151908
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/TWiT.png" group-title="Geeks + Gaming",TWiT (Tech News)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/TWiT.png" group-title="Geeks + Gaming",TWiT | This Week in Tech
 http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/VENN_552x552.png?raw=true" group-title="Geeks + Gaming",VENN (Gaming & Pop Culture)
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/VENN_552x552.png?raw=true" group-title="Geeks + Gaming",VENN | Webstream
 https://venntv-ono.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/VENN_552x552.png?raw=true" group-title="Geeks + Gaming",VENN | Alternate
+https://venntv-distrotv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/IGN_864x864.png?raw=true" group-title="Geeks + Gaming",IGN | HD
-https://ign-plex.amagi.tv/amRdirect/us_privacy=1---&did=&dnt=1&X-Plex-Token=vX2gxiT5Q_vtARVYwbZa&channelId=5eea605474085f0040ddc77c/hls/amagi_hls_data_ignAAAAAA-ign-plexA/CDN/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/RoosterTeeth.png?raw=true" group-title="Geeks + Gaming",RT-TV (Gaming & Pop Culture)
-https://d2klx6wjx7p5vm.cloudfront.net/Rooster-teeth/ngrp:Rooster-teeth_all/chunklist_b2628000.m3u8
+https://ign-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/RoosterTeeth.png?raw=true" group-title="Geeks + Gaming",Rooster Teeth TV
+https://d2klx6wjx7p5vm.cloudfront.net/Rooster-teeth/ngrp:Rooster-teeth_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ESTV_240x240.png?raw=true" group-title="Geeks + Gaming",ESTV | eSports Television
-https://estv-roku.amagi.tv/amRdirect/rdid=6d139079-f288-57b6-9e26-5e3801ae96af&coppa=false&is_lat=1&content=80285fd51ef95252ab8a6804ed44ebe9&genre=ROKU_ADS_CONTENT_GENRE&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1&bmodel=bm1&studio_id=estv&channel_id=151908&channelStore=us&tags=ROKU_CONTENT_TAGS/hls/amagi_hls_data_estvAAAAA-estv/CDN/playlist.m3u8
+https://estv-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ESR24x7_180x180.png?raw=true" group-title="Geeks + Gaming",ESR 24x7 | eSports Revolution
-https://69603b0bf51d4c7fa9335a84ee752b10.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_ESRevolution/playlist.m3u8?ads.wurl_channel=175&ads.wurl_name=ESRevolution&ads.us_privacy=1---&ads.psid=&ads.targetopt=1&ads.plex_token=vX2gxiT5Q_vtARVYwbZa&ads.plex_id=5eea605574085f0040ddc77f&ads.ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.135+Safari%2F537.36+OPR%2F70.0.3728.178&ads.app_bundle=&ads.app_store_url=&ads.gdpr=0&ads.consent=0
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Mobcrush_400x400.png" group-title="Geeks + Gaming",Mobcrush (Video Games)
+https://esrevolution-sinclair.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Mobcrush_400x400.png" group-title="Geeks + Gaming",Mobcrush | HD
 https://ott.mobcrush.com/hls/0/ott.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/BigLifeTV_377x377.png?raw=true" group-title="Special Interest",BigLife TV | HD
@@ -456,9 +458,7 @@ http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/ch
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ThisOldHouse_245x245.png?raw=true" group-title="Special Interest",This Old House 24x7
 https://pcva4.manifest.auditude.com/auditude/variant/thisoldhouse_2/7b1d6383-3aa6-4601-b8cd-dff13b8b7965/aHR0cHM6Ly90aGlzb2xkaG91c2UtMi5yb2t1Lnd1cmwuY29tL21hbmlmZXN0L3BsYXlsaXN0Lm0zdTg.m3u8?pttrackingversion=v2&u=19287a324825cc5aacb7e46183c72324&pttrackingmode=sstm&g=1000010&z=268729&k=wurl_channel=318
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheDesignNetwork_290x290.png?raw=true" group-title="Special Interest",The Design Network
-https://pcva4.manifest.auditude.com/auditude/variant/thedesignnetwork_tdn_2/bc043d28-c655-4bf9-a8ef-604d2906c7aa/aHR0cHM6Ly90aGVkZXNpZ25uZXR3b3JrLXRkbi0yLnJva3Uud3VybC5jb20vbWFuaWZlc3QvcGxheWxpc3QubTN1OA.m3u8?pttrackingversion=v2&u=19287a324825cc5aacb7e46183c72324&pttrackingmode=sstm&g=1000010&z=268729&k=wurl_channel=323
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DIYDaily_200x200.png?raw=true" group-title="Special Interest",DIY Daily
-https://manifest.auditude.com/auditude/variant/endemol_restore_1/aHR0cHM6Ly9lbmRlbW9sLXJlc3RvcmUtMS5yb2t1Lnd1cmwuY29tL21hbmlmZXN0L3BsYXlsaXN0Lm0zdTg=.m3u8?u=19287a324825cc5aacb7e46183c72324&z=268729&g=1000010&k=wurl_channel=321;distributor=roku;ip=64.225.30.167;rdid=85a1184d-06da-5f54-9850-8046b71fea91;coppa=false;is_lat=1;ua=Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36+OPR/68.0.3618.63;content=e6b7f1e42c515af3b87341cd4d043b96;genre=ROKU_ADS_CONTENT_GENRE;platform=web;content_type=livefeed;content_rating=ROKU_ADS_CONTENT_RATING&ptcueformat=turner&pttrackingmode=sstm&pttrackingversion=v2&__sid__=wurl791366672
+https://thedesignnetwork-tdn-2.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/LivelyPlace_476x476.png?raw=true" group-title="Special Interest",A+E | Lively Place
 https://manifest.auditude.com/auditude/variant/aenetworks_ae_1/aHR0cHM6Ly9hZW5ldHdvcmtzLWFlLTEucm9rdS53dXJsLmNvbS9tYW5pZmVzdC9wbGF5bGlzdC5tM3U4.m3u8?u=19287a324825cc5aacb7e46183c72324&z=268729&g=1000010&k=wurl_channel=285;distributor=roku;ip=77.111.246.7;rdid=85a1184d-06da-5f54-9850-8046b71fea91;coppa=false;is_lat=1;ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F81.0.4044.138+Safari%2F537.36+OPR%2F68.0.3618.125;content=dab154752cef5930b9647b48585debab;genre=ROKU_ADS_CONTENT_GENRE;platform=web;content_type=livefeed;content_rating=TVPG&ptcueformat=turner&pttrackingmode=sstm&pttrackingversion=v2&__sid__=wurl83827659
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AD_246x246.png?raw=true" group-title="Special Interest",AD | Architectural Digest
@@ -709,12 +709,14 @@ https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8?v=2&ad=
 https://lxlive-lh.akamaihd.net/i/LX_LIVE@148206/master.m3u8?OTATV
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CoziTV_WZTS_218x218.png?raw=true" group-title="USA FREE OTA TV",WZTS-TV | Cozi TV
 https://2-fss-2.streamhoster.com/pl_120/201852-1297026-1/master.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/K36JH-36-1_241x241.png?raw=true" group-title="USA FREE OTA TV",K36JH | 36.1 VicValley TV
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/K36JH-36-1_241x241.png?raw=true" group-title="USA FREE OTA TV",K36JH | 36.1 Victor Valley TV
 https://2-fss-2.streamhoster.com/pl_120/amlst:201794-1288810/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/K36JH-36-2_AMGTV_290x290.png?raw=true" group-title="USA FREE OTA TV",K36JH | 36.2 AMG-TV
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NewsNet.png?raw=true" group-title="USA FREE OTA TV",K36JH | 36.3 NewsNet
 https://broadcaster1.prolivestream.net:8083/onair/newsnetweb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/VictorValleyMovies_229x229.png?raw=true" group-title="USA FREE OTA TV",Victor Valley TV-3 | Movies
+https://2-fss-1.streamhoster.com/pl_122/201794-1414514-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/KVVB-33_370x370.png?raw=true" group-title="USA FREE OTA TV",KVVB-TV 33.1 Victorville CA
 https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1309230/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/WATC_390x390.png?raw=true" group-title="USA FREE OTA TV",WATC-57 Atlanta

@@ -41,6 +41,8 @@
 #                     The Free2View TV Project sincerely apologizes, but hopes that you will still enjoy the hundreds of other free 
 #                     channels available in the Free2View TV playlist. Comments? Contact us at Free2ViewTVCanada@gmail.com
 #
+# Update: 10/1/2020 - CHANNEL MAINTENANCE: Updated streams in Special Interest and Geeks + Gaming categories.
+# Update: 9/28/2020 - NEW CHANNEL ADDED: USA FREE OTA TV, http://www.victorvalleytv.com streams updated; new Movies channel added.
 # Update: 9/27/2020 - DELETED/ADDED: News & Weather: deleted dead Canadian news streams; added Newsy streams. https://www.newsy.com
 # Update: 9/24/2020 - NEW: International | Spanish category, with channels now avilable on major free digital streaming services.
 # Update: 9/21/2020 - NEW CHANNELS ADDED: RunTime Free TV; A.D., now avilable on major free digital streaming services.
