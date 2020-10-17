@@ -131,6 +131,15 @@
 # Update: 9/21/2020 - NEW CHANNELS ADDED: RunTime Free TV; A.D., now avilable on major free digital streaming services.
 # Update: 9/24/2020 - NEW: International | Spanish category, with channels now avilable on major free digital streaming services.
 # Update: 9/27/2020 - DELETED/ADDED: News & Weather: deleted dead Canadian news streams; added Newsy streams. https://www.newsy.com
+# Update: 9/28/2020 - NEW CHANNEL ADDED: USA FREE OTA TV, http://www.victorvalleytv.com streams updated; new Movies channel added.
+# Update: 10/01/2020 - CHANNEL MAINTENANCE: Updated streams in Special Interest and Geeks + Gaming categories.
+# Update: 10/09/2020 - NEW CHANNEL ADDED: Two new sources for CIRCLE in Entertainment, USA FREE OTA TV categories.
+# Update: 10/10/2020 - CHANNEL MAINTENANCE: Updated streams in Cinedigm Digital Networks category.
+# Update: 10/10/2020 - CHANNEL MAINTENANCE: Updated The Film Detective streams in Movies Plus category.
+# Update: 10/16/2020 - NEW CHANNEL ADDED: CBC News unlocked, added all resolutions to new TEMP | CBC News (Geo-CA) category.
+# Update: 10/17/2020 - CATEGORY MAINTENANCE: Added Entertainment | MULTI-STREAMS section in the Entertainment category.
+# Update: 10/17/2020 - NEW CHANNELS ADDED: Updated sources for Circle; new Skills + Thrills (Entertainment | MULTI-STREAMS).
+# Update: 10/17/2020 - CHANNEL MAINTENANCE: Updated sources for the 'nosey' channels in the Entertainment category.
 #
 # ************************************************************************************************************************************* 
 
@@ -162,10 +171,15 @@ https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/master.m3u8
 https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8?v=2&ad=web&m.sound=normal&pos=midroll&expand=ad_live&m.sound=normal&m.playback=autoplay
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/YouTooAmerica_225x225.png?raw=true" group-title="Entertainment",YouToo America
 https://gideommd.mmdlive.lldns.net/gideommd/d5b6a753f86e4e51b8e15c7d23887a4f/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="Entertainment",PBS | WPSU | Source 1
-https://ssc2.wpsu.psu.edu/WPSU_LLStream/ngrp:WPSU1_720max/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="Entertainment",PBS | WPSU | Source 2
-https://ssc3.wpsu.psu.edu/WPSU_LLStream/ngrp:WPSU1_720max/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/BlackSquare.png?raw=true" group-title="Entertainment",** MULTI-STREAMS **
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?Ent1
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Circle_617x617.png?raw=true" group-title="Entertainment",Circle | Source 1
+https://circle-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Circle_617x617.png?raw=true" group-title="Entertainment",Circle | Source 2
+https://circle-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Circle_617x617.png?raw=true" group-title="Entertainment",Circle | Source 3
+https://circle-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="Entertainment",PBS | WPSU | HD
 https://ssc4.wpsu.psu.edu/WPSU_LLStream/ngrp:WPSU1_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="Entertainment",PBS | Maryland Public TV
@@ -176,16 +190,12 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
 https://live-cdn.pbskids.org/out/u/est.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS-Kids_625x625.png?raw=true" group-title="Entertainment",PBS Kids (Geo-USA) Hawaii
 https://live-cdn.pbskids.org/out/u/hast.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/nosey_485x485.png?raw=true" group-title="Entertainment",nosey | Jerry Springer
-https://e2277a5e6b8841faba29afa6e2e8ec47.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse-node04_powr_com_5eb1e7f848f1ff2e1d2555a2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/nosey_485x485.png?raw=true" group-title="Entertainment",nosey | Maury
-https://960ac46899d84782b7ce1a025be6d43b.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse-node04_powr_com_5eb1e88458ad7801fa2cfc2e/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/nosey_485x485.png?raw=true" group-title="Entertainment",nosey | Steve Wilkos
-https://19bbd5efd739418f81cc5457a9b5372c.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse-node04_powr_com_5eb1e84c95ee0253b97679d7/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/nosey_485x485.png?raw=true" group-title="Entertainment",nosey | Divorce Court
-https://fafc1fa4b5594245ac9c53c3d765e4f2.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse-node04_powr_com_5eb1e76d1474f9020c06f9ee/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/nosey_485x485.png?raw=true" group-title="Entertainment",nosey | Judge Karen's Court
-https://80461fbcb4e841eb9d7f7ae76f05483d.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse-node04_powr_com_5eb1e7261474f9020c06f9ec/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/SkillsThrills_130x130.png?raw=true" group-title="Entertainment",A+E | Skills + Thrills | Sc.1
+https://aenetworks-skills-thrills-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/SkillsThrills_130x130.png?raw=true" group-title="Entertainment",A+E | Skills + Thrills | Sc.2
+https://aenetworks-skills-thrills-1.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/SkillsThrills_130x130.png?raw=true" group-title="Entertainment",A+E | Skills + Thrills | Sc.3
+https://aenetworks-skills-thrills-1.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ThePreviewChannel_220x220.png?raw=true" group-title="Movies Plus",The Preview Channel
 https://hls.xumo.com/channel-hls/v1/bmneuerw7j9k5lfc/9999330/master.m3u8
@@ -196,7 +206,7 @@ https://dai1.xumo.com/7a884267de5c44a9/9999406/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheArchive_300x300.png?raw=true" group-title="Movies Plus",The Archive
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=74&live=1&app_bundle=&did=&app_domain=app.plex.tv&app_name=plex&h=1080&w=1920&content_title=z1MCPUpbxYcHru-5hdyq&content_series=5eea605674085f0040ddc7a0&custom4=plex&gdpr=0&device_make=&device_model=Windows+hosted&coppa=0&us_privacy=1---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/FilmDetective_400x400.png" group-title="Movies Plus",The Film Detective | HD
-https://a.jsrdn.com/broadcast/9Kl3dcb5l/c.m3u8?MoviesPlus
+https://tfd-distro.amagi.tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/LoneStar_v2_250x250.png?raw=true" group-title="Movies Plus",Lone Star
 https://a.jsrdn.com/broadcast/5oWx2VgEmK/+0000/c.m3u8?MoviesPlus
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/XumoFreeWesterns.png?raw=true" group-title="Movies Plus",Xumo Free Westerns
@@ -246,7 +256,7 @@ https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/master.m3
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ConTVAnime_302x302.png?raw=true" group-title="Cinedigm Digital Networks",Cinedigm | CONtv Anime
 https://contvanime.cinedigm.com/conapp-ssai/amagi_hls_data_xumo-host-contvanime-junction/CDN/playlist.m3u8?Cinedigm
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/DoveChannel.png" group-title="Cinedigm Digital Networks",Cinedigm | Dove Channel
-https://dove-distro.cinedigm.com/playlist720p.m3u8?Cinedigm
+https://dove-distro.cinedigm.com/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/WhistleTV_350x350.png?raw=true" group-title="Cinedigm Digital Networks",Cinedigm | Whistle TV
 https://a.jsrdn.com/broadcast/3edff5tr2sv/c.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Docurama_670x670.png" group-title="Cinedigm Digital Networks",Cinedigm | Docurama
@@ -763,6 +773,21 @@ https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Miracle-Channel_300x300.png?raw=true" group-title="Canadian TV",The Miracle Channel (Faith)
 https://d9ruw6nhj5a52.cloudfront.net/live/live/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CBCNews_TempFeed_418x418.png?raw=true" group-title="TEMP | CBC News (Geo-CA)",** For a Limited Time **
+https://od.lk/s/MF8yMjA4MTQ1MzRf/CBCNews_TempLive.mp4
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CBCNews_TempFeed_418x418.png?raw=true" group-title="TEMP | CBC News (Geo-CA)",CBC News Network | 1080p
+https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master6.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CBCNews_TempFeed_418x418.png?raw=true" group-title="TEMP | CBC News (Geo-CA)",CBC News Network | 720p
+https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master5.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CBCNews_TempFeed_418x418.png?raw=true" group-title="TEMP | CBC News (Geo-CA)",CBC News Network | 540p
+https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master1.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CBCNews_TempFeed_418x418.png?raw=true" group-title="TEMP | CBC News (Geo-CA)",CBC News Network | 432p
+https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master3.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CBCNews_TempFeed_418x418.png?raw=true" group-title="TEMP | CBC News (Geo-CA)",CBC News Network | 360p
+https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master2.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CBCNews_TempFeed_418x418.png?raw=true" group-title="TEMP | CBC News (Geo-CA)",CBC News Network | 270p
+https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master4.m3u8
+
 #EXTINF:-1 tvg-id="CBRTca" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBCtv.png" group-title="CBC TV Canada (Geo)",CBC Calgary
 https://cbclivedai4-i.akamaihd.net/hls/live/567230/event2/CBRT/master5.m3u8
 #EXTINF:-1 tvg-id="CBCTca" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBCtv.png" group-title="CBC TV Canada (Geo)",CBC Charlottetown
@@ -856,6 +881,8 @@ http://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?tc=1&exp
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r/index.m3u8?OTATV
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Positiv_520x520.png?raw=true" group-title="USA FREE OTA TV",Positiv TV | HD
 https://player-api.new.livestream.com/accounts/27460990/events/8973036/live.m3u8?OTATV
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Circle_617x617.png?raw=true" group-title="USA FREE OTA TV",Circle | HD
+https://circle-roku.amagi.tv/playlist.m3u8?OTA
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CourtTV_450x450.png" group-title="USA FREE OTA TV",Court TV | HD
 https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8?v=2&ad=web&m.sound=normal&pos=midroll&expand=ad_live&m.sound=normal&m.playback=autoplay
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NBCLX_584x584.png?raw=true" group-title="USA FREE OTA TV",NBCLX
