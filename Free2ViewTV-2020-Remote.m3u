@@ -190,11 +190,11 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
 https://live-cdn.pbskids.org/out/u/est.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS-Kids_625x625.png?raw=true" group-title="Entertainment",PBS Kids (Geo-USA) Hawaii
 https://live-cdn.pbskids.org/out/u/hast.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/SkillsThrills_130x130.png?raw=true" group-title="Entertainment",A+E | Skills + Thrills | Sc.1
-https://aenetworks-skills-thrills-1.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/SkillsThrills_130x130.png?raw=true" group-title="Entertainment",A+E | Skills + Thrills | Sc.2
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/SkillsThrills_130x130.png?raw=true" group-title="Entertainment",Skills + Thrills | Channel 1
 https://aenetworks-skills-thrills-1.plex.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/SkillsThrills_130x130.png?raw=true" group-title="Entertainment",A+E | Skills + Thrills | Sc.3
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/SkillsThrills_130x130.png?raw=true" group-title="Entertainment",Skills + Thrills | Ch.2 | +1h
+https://aenetworks-skills-thrills-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/SkillsThrills_130x130.png?raw=true" group-title="Entertainment",Skills + Thrills | Ch.3 | +2h
 https://aenetworks-skills-thrills-1.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ThePreviewChannel_220x220.png?raw=true" group-title="Movies Plus",The Preview Channel
