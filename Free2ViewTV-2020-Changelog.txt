@@ -41,6 +41,17 @@
 #                     The Free2View TV Project sincerely apologizes, but hopes that you will still enjoy the hundreds of other free 
 #                     channels available in the Free2View TV playlist. Comments? Contact us at Free2ViewTVCanada@gmail.com
 #
+# Update: 10/31/2020 - NEW CHANNEL ADDED: Added VSiN | Webstream (Sports & Recreation) from https://www.vsin.com/livestream/
+# Update: 10/31/2020 - NEW CHANNEL ADDED: Added Poker Night In America (Sports & Recreation) from https://www.glewed.tv/
+# Update: 10/30/2020 - CHANNEL MAINTENANCE: Updated live stream URL for CBS Sports HQ (CBS News; Sports & Recreation).
+# Update: 10/30/2020 - CATEGORY MAINTENANCE: Updated several stream URLs in Sports & Recreation category.
+# Update: 10/26/2020 - MAINTENANCE + NEW: Updated several stream URLs in Special Interest category; added Cooking Panda (2 sources).
+# Update: 10/26/2020 - CHANNEL MAINTENANCE: Updated Outside TV+ stream URL in Sports & Recreation category.
+# Update: 10/25/2020 - CATEGORY MAINTENANCE: Minor maintenance to the Distro TV category (updated channel names).
+# Update: 10/24/2020 - MAINTENANCE + NEW: Updated Redbox Free Live TV with line-up shuffle and new channels.
+# Update: 10/24/2020 - MAINTENANCE + NEW: Updated Xumo | Live TV with additional Live 24/7 streams.
+# Update: 10/20/2020 - CHANNELS REMOVED: All DJing channels (and category) have been deleted; now a paid subscription service.
+# Update: 10/18/2020 - CHANNEL MAINTENANCE: Re-organized Skills + Thrills to match the 'time-shift' of the streaming services.
 # Update: 10/17/2020 - CATEGORY MAINTENANCE: Added Entertainment | MULTI-STREAMS section in the Entertainment category.
 # Update: 10/17/2020 - NEW CHANNELS ADDED: Updated sources for Circle; new Skills + Thrills (Entertainment | MULTI-STREAMS).
 # Update: 10/17/2020 - CHANNEL MAINTENANCE: Updated sources for the 'nosey' channels in the Entertainment category.
