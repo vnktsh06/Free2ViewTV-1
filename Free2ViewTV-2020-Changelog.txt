@@ -41,6 +41,12 @@
 #                     The Free2View TV Project sincerely apologizes, but hopes that you will still enjoy the hundreds of other free 
 #                     channels available in the Free2View TV playlist. Comments? Contact us at Free2ViewTVCanada@gmail.com
 #
+# Update: 11/22/2020 - NEW SEASONAL CATEGORY ADDED: Temporarily added "TEMP | Merry Christmas" with live TV, VOD, and Radio streams.
+# Update: 11/21/2020 - NEW CHANNELS ADDED: Over 30+ new channels from The Roku Channel US have been added.
+# Update: 11/17/2020 - NEW CHANNELS ADDED: Added NBC News Now; Newsy, in "The Roku Channel" group.
+# Update: 11/17/2020 - NEW CHANNELS ADDED: Added "Harley Davidson TV" group and 4 new channels. https://tv.harley-davidson.com/
+# Update: 11/16/2020 - CATEGORY MAINTENANCE: Updated several streams (added CNBC Radio) in "NBC News Networks" group.
+# Update: 11/16/2020 - MAINTENANCE + NEW: Updated NBC News Now, added Euronews to "News & Weather" category.
 # Update: 11/12/2020 - MAINTENANCE + NEW: Updated several stream URLs in "Financial News & Info", added Business Rockstars.
 # Update: 11/11/2020 - TEMPORARY CHANNEL ADDED: Le Canal Nouvelles temporarily unscrambled, added to "Canadian TV" category.
 # Update: 11/10/2020 - PLAYLIST MAINTENANCE: Updated Cheddar live stream in "News & Weather" and "Financial News & Info" groups.
