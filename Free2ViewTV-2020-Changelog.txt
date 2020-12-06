@@ -41,6 +41,18 @@
 #                     The Free2View TV Project sincerely apologizes, but hopes that you will still enjoy the hundreds of other free 
 #                     channels available in the Free2View TV playlist. Comments? Contact us at Free2ViewTVCanada@gmail.com
 #
+# Update: 12/04/2020 - NEW CHANNELS ADDED: by request from user, added additional channels in "International | Italy" category.
+# Update: 12/03/2020 - MAINTENANCE: Relocated "Nostalgia Flicks" after "Movies Plus" to fit better into 'movies' section of playlist. 
+# Update: 12/03/2020 - MAINTENANCE + NEW: Updated streams / added Kartoon Fun Time in "Nostalgia Flicks" category.
+# Update: 12/03/2020 - NEW SOURCES: New official sources for Spydar TV and Kartoon Fun Time, courtesy of https://morcaman.com
+# Update: 12/02/2020 - NEW CHANNELS ADDED: Several new channels from The Roku Channel US have been added. 
+# Update: 12/02/2020 - MAINTENANCE + NEW: Updated streams / added Wipeout Xtra in "Gameshows & Competitions" category.
+# Update: 12/01/2020 - NEW CHANNEL: Added 'Home For The Holidays' channel from  Pluto TV in "TEMP | Merry Christmas" category.
+# Update: 12/01/2020 - NEW CHANNELS: iHeart Radio Christmas TV streams (music w/ album covers on screen) in "TEMP | Merry Christmas".
+# Update: 12/01/2020 - NEW CHANNEL: "TEMP | Merry Christmas": Stingray Naturescape running Fireplaces 24/7 over the Holidays.
+# Update: 11/30/2020 - NEW: Changed "PBS Member Stations (Geo-USA)" to "EPG | PBS (Geo-USA)" with new EPG source and more streams.
+# Update: 11/30/2020 - PLAYLIST MAINTENANCE: Cleaned up "PBS | NPR" category; THIRTEEN moved out as it is in "EPG | PBS (Geo-USA)".
+# Update: 11/30/2020 - NEW CHANNEL: World Channel added to "PBS | NPR" category - https://video.aptv.org/show/world-channel/
 # Update: 11/27/2020 - NEW CHANNELS ADDED: Added Mr. Pickles, Squidbillies, and Tim & Eric Awesome Show streams in "[adult swim]".
 # Update: 11/26/2020 - NEW CHANNELS ADDED: Added new Holiday channels from Pluto TV UK in "TEMP | Merry Christmas" category.
 # Update: 11/25/2020 - MAINTENANCE + NEW: Updated channels and new VOD / radio streams in "TEMP | Merry Christmas" category.
