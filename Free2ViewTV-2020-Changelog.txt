@@ -41,6 +41,11 @@
 #                     The Free2View TV Project sincerely apologizes, but hopes that you will still enjoy the hundreds of other free 
 #                     channels available in the Free2View TV playlist. Comments? Contact us at Free2ViewTVCanada@gmail.com
 #
+# Update: 01/11/2020 - NEW CHANNEL: The CW Seed Live (Geo-USA) added to "Entertainment".    https://www.cwseed.com/watch-live/
+# Update: 01/07/2020 - NEW CHANNEL: Supercar Blondie added to "Adult Lifestyle & Interests" and "Sports & Recreation" categories.
+# Update: 01/07/2020 - NEW CHANNEL: OnlyMotors TV UK added to "Sports & Recreation" category.   https://onlymotors.tv/live/
+# Update: 01/06/2020 - CHANNEL MAINTENANCE: Updated live stream for Jasmin TV in "Adult Lifestyle & Interests" category.
+# Update: 01/04/2020 - MAINTENANCE + NEW: Updated streams in "Cinedigm Digital Networks", as well as added several new channels.
 # Update: **** COMING SOON: Alternate streams for The Roku Channel and Redbox live streams. More EPG sources for other categories.
 # Update: 12/31/2020 - NEW CHANNELS ADDED: Victor Valley 2 33.2 and KNET-CD 25.2 local access channels added to "USA FREE OTA TV".
 # Update: 12/30/2020 - NEW CHANNELS ADDED: Love Nature and Xplore linear streams added to Entertainment category.
