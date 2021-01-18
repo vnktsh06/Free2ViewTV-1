@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="https://github.com/geonsey/Free2ViewTV/raw/master/EPG/F2VTV_MERGE2.xml"
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/BUZZR.png" group-title="Entertainment",Buzzr | HD
 https://buzzrota-web.amagi.tv/playlist.m3u8
